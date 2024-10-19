@@ -1,0 +1,11 @@
+Title:		libmsn-dev.tcz
+Description:	A reusable, open-source, fully documented library for connecting to Microsoft's MSN Messenger service, development files.
+Version:	4.1
+Author:		Mark Rowe, Tiago Salem Herrmann
+Original-site:	http://sourceforge.net/projects/libmsn/
+Copying-policy:	GPL-2
+Size:		36.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/01/22 First Version

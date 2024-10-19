@@ -1,0 +1,6 @@
+usr/local/bin/gpg-error-config
+usr/local/include/gpg-error.h
+usr/local/lib/libgpg-error.la
+usr/local/share/aclocal/gpg-error.m4
+usr/local/share/doc/License/libgpg-error-dev-authors.txt
+usr/local/share/doc/License/libgpg-error-dev-copying.txt

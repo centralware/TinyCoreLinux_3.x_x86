@@ -1,0 +1,22 @@
+Title:          libgs.tcz
+Description:    ghostscript shared lib
+Version:        9.00
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 2.1MB
+Extension_by:   juanito
+Comments:       ghostscript shared library compiled with default options
+                ----------
+                might require the ghostscript_common extension in some circumstances
+                ----------
+                This extension contains:
+                ghostscript-9.00 - GPLv3 - http://ghostscript.com/releases/ghostscript-9.00.tar.gz
+Change-log:     first version
+                2009/11/01
+                updated 8.70 -> 8.71
+                2010/07/16
+                updated 8.71 -> 9.00, split out devs
+                2011/02/17
+                added check for libgs.so.8 and create if required
+Current:        2011/04/13

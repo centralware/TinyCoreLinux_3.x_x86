@@ -1,0 +1,8 @@
+/usr/local/bin/ipod-read-sysinfo-extended
+/usr/local/lib/libgpod.so
+/usr/local/lib/libgpod.so.4
+/usr/local/lib/libgpod.so.4.3.1
+/etc/udev/rules.d/90-libgpod.rules
+/lib/udev/iphone-set-info
+/lib/udev/ipod-set-info
+/usr/local/tce.installed/libgpod

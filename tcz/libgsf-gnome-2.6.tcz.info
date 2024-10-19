@@ -1,0 +1,22 @@
+Title:          libgsf-gnome-2.6.tcz
+Description:    gnome file i/o library
+Version:        1.14.15
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 40KB
+Extension_by:   juanito
+Comments:       gnome extension to libgsf - a simple i/o library that can read and write
+                common file types and handle structured formats that provide..
+                ..file-system-in-a-file semantics
+                ----------
+                requires the libxml2, glib2, libgsf, expat2, dbus, dbus-glib,
+                openssl-0.9.8h, GConf, ORBit2, gnome-vfs and libbonobo extensions
+                ----------
+                can optionally be used with the python extension and deps
+                ----------
+                This extension contains:
+                libgsf-1.14.15 - GPLv2 - http://ftp.gnome.org/pub/gnome/sources/libgsf/1.14/libgsf-1.14.15.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2009/11/28

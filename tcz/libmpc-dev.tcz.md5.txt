@@ -1,0 +1,1 @@
+95b2f86549dd695f01a5c0a1edd07aa1  libmpc-dev.tcz

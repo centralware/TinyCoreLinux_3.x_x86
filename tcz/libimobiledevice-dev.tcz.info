@@ -1,0 +1,18 @@
+Title:          libimobiledevice-dev.tcz
+Description:    libimobiledevice devs
+Version:        1.1.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 76KB
+Extension_by:   juanito
+Comments:       dev files for libimobiledevice
+                ----------
+                This extension contains:
+                libimobiledevice - GPLv2 - http://www.libimobiledevice.org/downloads/libimobiledevice-1.1.1.tar.bz2
+                ----------
+Change-log:     2011/04/21
+                updated -> 1.0.6
+                2011/04/22
+                updated 1.0.6 -> 1.1.1
+Current:        2011/05/10

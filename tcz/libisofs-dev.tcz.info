@@ -1,0 +1,15 @@
+Title:          libisofs-dev.tcz
+Description:    Library to create an ISO-9660 filesystem
+Version:        1.1.4
+Author:         Vreixo Formoso, Mario Danic, Thomas Schmitt
+Original-site:  http://www.libburnia-project.org
+Copying-policy: GPL v2
+Size:		568K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/05/18 First version, 0.6.32
+Current:        2011/08/10 Updated to 1.1.4

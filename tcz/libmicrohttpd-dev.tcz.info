@@ -1,0 +1,11 @@
+Title:		libmicrohttpd-dev.tcz
+Description:	A small C library that is supposed to make it easy to run an HTTP server as part of another application, development files.
+Version:	0.9.12
+Author:		---
+Original-site:	http://www.gnu.org/software/libmicrohttpd/
+Copying-policy:	LGPL
+Size:		184K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/09/08 First Version

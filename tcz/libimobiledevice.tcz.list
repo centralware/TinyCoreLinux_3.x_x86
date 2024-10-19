@@ -1,0 +1,14 @@
+/usr/local/bin/idevicedate
+/usr/local/bin/ideviceenterrecovery
+/usr/local/bin/idevicescreenshot
+/usr/local/bin/ideviceimagemounter
+/usr/local/bin/idevicebackup2
+/usr/local/bin/idevicebackup
+/usr/local/bin/idevicesyslog
+/usr/local/bin/idevicepair
+/usr/local/bin/ideviceinfo
+/usr/local/bin/idevice_id
+/usr/local/lib/libimobiledevice.so
+/usr/local/lib/libimobiledevice.so.1
+/usr/local/lib/libimobiledevice.so.2
+/usr/local/lib/libimobiledevice.so.2.0.1

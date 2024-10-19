@@ -1,0 +1,16 @@
+Title:		libiconv-doc.tcz
+Description:	This library provides an iconv() implementation, documentation files.
+Version:	1.13.1
+Author: 	Brunu Haible, Taro Muraoka, Akira Hatakeyama, Juan Manel Guerro	
+Original-site:	http://www.gnu.org/software/libiconv
+Copying-policy:	GPL, LGPL
+Extension_by:	jpeters, Arslan S. 
+Comments:	for use on systems which don't have one, or whose 
+		implementation cannot convert from/to Unicode.
+
+		This extension is PPI compatible.
+Size:		24K
+Change-log:     2009/01/23 First version     		 
+		2009/07/09 Updated 
+		2010/01/30 Rebuilt & separated files (Arslan S.)
+Current:	2010/04/08 Separated doc files (Arslan S.)

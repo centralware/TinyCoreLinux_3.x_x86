@@ -1,0 +1,16 @@
+Title:          libidn-dev.tcz
+Description:    Encode and decode internationalized domain names
+Version:        1.19
+Author:         Simon Josefsson
+Original-site:  http://www.gnu.org/software/libidn/
+Copying-policy: LGPL 2.1
+Size:           16K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2010/06/24 First version, 1.19
+
