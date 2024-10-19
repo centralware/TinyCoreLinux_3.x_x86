@@ -1,0 +1,7 @@
+usr/local/include/emotion-0/Emotion.h
+usr/local/lib/edje/modules/emotion/linux-gnu-i686-1.0.0/module.la
+usr/local/lib/emotion/gstreamer.la
+usr/local/lib/emotion/xine.la
+usr/local/lib/libemotion.a
+usr/local/lib/libemotion.la
+usr/local/lib/pkgconfig/emotion.pc

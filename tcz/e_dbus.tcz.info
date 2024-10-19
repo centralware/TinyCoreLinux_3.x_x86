@@ -1,0 +1,19 @@
+Title:		e_dbus.tcz
+Description:	a set of wrappers around DBus APIs by third party
+Version:	svn-60146
+Author:		See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		148K
+Extension_by:	Althalus, jls_legalize <unsenepopiu at tin dot it>
+Comments:	One of the core libraries that make up EFL
+		This extension is PPI compatible
+Change-log:	2010/03/06 First release
+		2010/03/31 Updated SVN version
+		2010/09/30 Updated to 52908
+		2010/10/09 Updated to 1.0.0.beta
+		2010/11/14 Updated to 1.0.0.beta2
+		2010/12/30 Updated to 1.0.0.beta3
+		2011/02/03 Updated to 1.0.0
+		2011/06/05 Updated to 1.0.1
+Current:	2011/06/09 Updated to svn-60146

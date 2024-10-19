@@ -1,0 +1,11 @@
+Title:		drizzle-server-locale.tcz
+Description:	A Lightweight SQL Database for Cloud Infrastructure and Web Applications, server locale files.
+Version:	2011.03.11
+Author:		Drizzle-developers
+Original-site:	http://drizzle.org/
+Copying-policy:	GPL-2/BSD
+Size:		352K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2011/02/16 First Version 2011.02.10
+Current:	2011/08/20 Updated to 2011.03.11

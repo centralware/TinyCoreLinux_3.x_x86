@@ -1,0 +1,10 @@
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/drivers/cpufreq/freq_table.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/drivers/cpufreq/cpufreq_userspace.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/drivers/cpufreq/cpufreq_stats.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/drivers/cpufreq/cpufreq_powersave.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/drivers/cpufreq/cpufreq_ondemand.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/drivers/cpufreq/cpufreq_conservative.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/arch/x86/kernel/cpu/cpufreq/speedstep-lib.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/arch/x86/kernel/cpu/cpufreq/powernow-k8.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/arch/x86/kernel/cpu/cpufreq/p4-clockmod.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore64/kernel/arch/x86/kernel/cpu/cpufreq/acpi-cpufreq.ko.gz

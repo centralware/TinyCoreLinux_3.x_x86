@@ -1,0 +1,16 @@
+Title:          comix.tcz
+Description:    Comix
+Version:        4.0.4
+Author:         Pontus Ekberg
+Original-site:  http://comix.sourceforge.net
+Copying-policy: GPL
+Size:           428.0K
+Extension_by:   Althalus
+Comments:       Comix is a python based comic viewer. 
+                It reads ZIP, RAR, and tar archives, and plain images.
+                Features include Zoom, fit width of page, thumbnails of
+                other images in the directory or archive down the side,
+                bookmarks, and more.
+
+Chnage-log:     First version
+Current:        2009/11/21

@@ -1,0 +1,17 @@
+Title:          e2fsprogs_apps.tcz
+Description:    e2fsprogs_apps
+Version:        1.41.11
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 104KB
+Extension_by:   juanito
+Comments:       the applications from e2fsprogs
+                ----------
+                This extension contains:
+                e2fsprogs-1.41.11 - GPLv2/BSD/MIT - http://www.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/e2fsprogs-1.41.11.tar.gz [binaries]
+Change-log:     2009/05/22
+                updated 1.39 -> 1.41.9
+                2009/11/27
+                recompiled for tc_3, updated 1.41.9 -> 1.41.11
+Current:        2010/05/01

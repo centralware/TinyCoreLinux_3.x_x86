@@ -1,0 +1,10 @@
+usr/local/include/elementary-0/Elementary.h
+usr/local/include/elementary-0/Elementary_Cursor.h
+usr/local/include/elementary-0/elm_widget.h
+usr/local/lib/edje/modules/elm/linux-gnu-i686-1.0.0/module.la
+usr/local/lib/elementary/modules/test_entry/linux-gnu-i686-0.7.0/module.la
+usr/local/lib/elementary_testql.a
+usr/local/lib/elementary_testql.la
+usr/local/lib/libelementary.a
+usr/local/lib/libelementary.la
+usr/local/lib/pkgconfig/elementary.pc

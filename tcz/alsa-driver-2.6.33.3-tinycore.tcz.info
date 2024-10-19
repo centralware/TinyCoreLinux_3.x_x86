@@ -1,0 +1,19 @@
+Title:          alsa-driver-2.6.33.3-tinycore.tcz
+Description:    Alsa modules released from the Alsa project
+Version:        1.0.24
+Author:		Jaroslav Kysela, Takashi Iwai, Clemens Ladisch,
+		James Courtier-Dutton, Liam Girdwood, Mark Brown
+Original-site:  www.alsa-project.org
+Copying-policy: GPL
+Size:		2.2M
+Extension_by:   Jason W
+Comments:       This is the more frequently released kernel modules
+		available directly from the Alsa project to provide
+		more up to date support for newer hardware.  Install
+		this extension before installing any other alsa related
+		extension to ensure that the modules dependency is
+		satisfied, otherwise alsa-modules-2.6.33.3-tinycore
+		will get installed automatically as a dependency of 
+		the alsa.tcz extension and will conflict with this one.
+Change-log:     ----
+Current:        2011/08/09 First version 1.0.24

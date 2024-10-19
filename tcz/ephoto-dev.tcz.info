@@ -1,0 +1,13 @@
+Title:		ephoto-dev.tcz
+Description:	a picture viewer dev files
+Version:	0.1.1.55225
+Author:		Stephen okra Houston <UnixTitan@gmail.com> Gustavo Sverzut Barbieri <barbieri@profusion.mobi> Otávio Pontes <otavio@profusion.mobi>
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		32K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+		This extension is PPI compatible
+Change-log:     2010/11/18 First version 0.1.0.54504
+		2010/12/31 Updated to version 0.1.1.55225
+Current:	2011/02/08 recompiled, deps changed

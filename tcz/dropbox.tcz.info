@@ -1,0 +1,20 @@
+Title:		dropbox.tcz
+Description:	Access your Dropbox - synchronized sharing of files over Internet.
+Version:	1.1.40
+Author:		Dropbox
+Original-site:	http://www.dropbox.com
+Copying-policy:	Approved by legal@dropbox.com
+Size:		17M
+Extension_by:	Arslan S.
+Comments:	Works best if you have a panel where you can right click
+		on the application icon (e.g. works fine with LXDE).
+		
+		First time started a GUI shows up that assist in first
+		connection with Dropbox.
+		Subsequent activations enters daemon mode silently.
+		
+		This extension is PPI compatible.
+Change-log:	2010/02/01 Initial Version 0.7.97 by helander
+		2010/08/04 Updated to 0.7.110 & added a wrapper and freedesktop autostart entry
+		2011/06/02 Updated to 1.1.35
+Current:	2011/08/20 Updated to 1.1.40

@@ -1,0 +1,11 @@
+Title:		emprint.tcz
+Description:	A utility for taking screenshots of the entire screen, a specific window, or a specific region.
+Version:	svn 53243
+Author:		Christopher 'devilhorns' Michael <devilhorns@comcast.net> Hisham 'CodeWarrior' Mardambey <hisham.mardambey@gmail.com> Eric 'Ravenlock' Schuele <e.schuele@computer.org>
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		12.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	PPI compatible
+Change-log:     --------
+Current:	2010/10/11 First version

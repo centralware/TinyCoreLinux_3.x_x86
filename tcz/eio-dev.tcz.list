@@ -1,0 +1,5 @@
+usr/local/include/eio-0/Eio.h
+usr/local/include/eio-0/eio_inline_helper.x
+usr/local/lib/libeio.a
+usr/local/lib/libeio.la
+usr/local/lib/pkgconfig/eio.pc

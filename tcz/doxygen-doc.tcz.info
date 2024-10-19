@@ -1,0 +1,11 @@
+Title:          doxygen-doc.tcz
+Description:    Doxygen, documentation files.
+Version:        1.6.3
+Author:         Dimitri van Heesch
+Original-site:  http://www.stack.nl/~dimitri/doxygen/
+Copying-policy: GPL-2
+Size: 		4K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2009/10/16 Original 1.6.1
+Current:        2010/04/29 Updated to 1.6.3 & splitted doxygen-gui(doxywizard)

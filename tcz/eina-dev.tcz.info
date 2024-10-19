@@ -1,0 +1,20 @@
+Title:		eina-dev.tcz
+Description:	 multi-platform library that provides optimized data types and useful tools for projects dev files
+Version:	svn-60137
+Author:		Jorge Luis turran Zapata <jorgeluis.zapata@gmail.com> Carsten Haitzler <raster@rasterman.com> Corey atmos Donohoe <atmos@atmos.org> Vincent caro Torri  <vtorri at univ-evry dot fr> Gustavo Sverzut Barbieri <barbieri@gmail.com> Tilman Sauerbeck <tilman@code-monkey.de> Cedric Bail <cedric.bail@free.fr> Peter pfritz Wehrfritz <peter.wehrfritz@web.de> Arnaud de Turckheim quarium <quarium@gmail.com> Alexandre diaxen Becoulet <diaxen@free.fr> Albin Lutin Tonnerre <albin.tonnerre@gmail.com> Andre Dieb <andre.dieb@gmail.com> Raphael Kubo da Costa <kubo@profusion.mobi> Gustavo Chaves <glima@profusion.mobi> Fabiano Fidêncio <fidencio@profusion.mobi> Brett Nash <nash@nash.id.au> Tom Hacohen <tom@stosb.com>
+Original-site:	enlightenment.org
+Copying-policy:	LGPL
+Size:		260K
+Extension_by:	jls_legalize <unsenepopiu at tin dot it>
+Comments:	dev files
+				
+		This extension is PPI compatible
+Change-log:	2010/03/31 First version
+		2010/03/31 Updated
+		2010/09/30 Updated to svn 52903
+		2010/10/09 Updated to 1.0.0.beta
+		2010/11/14 Updated to 1.0.0.beta2
+		2010/12/29 Updated to 1.0.0.beta3
+		2011/02/03 Updated to 1.0.0
+		2011/06/05 Updated to 1.0.1
+Current:	2011/06/09 Updated to svn-60137

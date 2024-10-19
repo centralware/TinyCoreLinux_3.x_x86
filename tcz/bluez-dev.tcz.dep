@@ -1,0 +1,7 @@
+bluez.tcz
+dbus-glib-dev.tcz
+alsa-dev.tcz
+gst-plugins-base-dev.tcz
+libusb-dev.tcz
+libsndfile-dev.tcz
+cups-dev.tcz

@@ -1,0 +1,11 @@
+Title:		ethumb.tcz
+Description:	Enlightenment's thumbnailing library and dbus service
+Version:	0.1.1.55225
+Author:		Rafael Antognolli <antognolli@profusion.mobi>
+Original-site:	enlightenment.org
+Copying-policy:	LGPL
+Size:		84.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	This extension is PPI compatible
+Change-log:	2010/11/18 First Version 0.1.1.54472
+Current:	2010/12/31 Updated to 0.1.1.55225

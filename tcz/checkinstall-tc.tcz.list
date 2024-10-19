@@ -1,0 +1,14 @@
+usr/local/bin/installwatch
+usr/local/lib/checkinstall/checkinstallrc-dist
+usr/local/lib/checkinstall/locale/de/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/es/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/id/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/it/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/ja/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/no/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/pt_BR/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/ru/LC_MESSAGES/checkinstall.mo
+usr/local/lib/checkinstall/locale/zh_CN/LC_MESSAGES/checkinstall.mo
+usr/local/lib/installwatch.so
+usr/local/sbin/checkinstall
+usr/local/sbin/makepak

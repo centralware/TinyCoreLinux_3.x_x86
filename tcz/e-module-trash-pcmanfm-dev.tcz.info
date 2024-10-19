@@ -1,0 +1,13 @@
+Title:		e-module-trash-pcmanfm-dev.tcz
+Description:	E17 Freedesktop compliant trash module dev files
+Version:	svn 469
+Author:		Dave Andreoli <dave@gurumeditation.it>
+Original-site:	enlightenment.org
+Copying-policy:	GPLv3
+Size:		8.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+		This extension is PPI compatible
+Change-log:	-----------
+Current:	2011/01/15 Updated to svn 469

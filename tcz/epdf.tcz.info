@@ -1,0 +1,11 @@
+Title:		epdf.tcz
+Description:	a library that provides a C interface to the Poppler library to render PDF documents in different way
+Version:	svn 54630
+Author:		Vincent 'caro' Torri <vtorri at univ-evry dot fr>, Rawnar, Mikhail 'dottedmag' Gusarov <dottedmag at dottedmag dot net>, Alexander 'LunohoD' Kerner <alexander dot kerner at googlemail dot com>
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		2.2M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	PPI compatible
+Change-log:     2010/10/11 First version svn 53243
+Current:	2010/11/17 Updated to svn 54630

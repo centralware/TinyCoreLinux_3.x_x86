@@ -1,0 +1,13 @@
+usr/local/bin/edje_cc
+usr/local/bin/edje_decc
+usr/local/bin/edje_external_inspector
+usr/local/bin/edje_inspector
+usr/local/bin/edje_player
+usr/local/bin/edje_recc
+usr/local/lib/edje/utils/epp
+usr/local/lib/libedje.so
+usr/local/lib/libedje.so.1
+usr/local/lib/libedje.so.1.0.999
+usr/local/share/doc/License/edje.txt
+usr/local/share/edje/include/edje.inc
+usr/local/share/mime/packages/edje.xml

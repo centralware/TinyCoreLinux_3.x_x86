@@ -1,0 +1,13 @@
+Title:		eio-dev.tcz
+Description:	Efficient I/O over file system (cp, mv, rm, stat, ls...) dev files
+Version:	0.1.0.55225
+Author:		Cedric Bail <cedric.bail@free.fr> Stephen Houston <UnixTitan@gmail.com> Gustavo Sverzut Barbieri <barbieri@gmail.com> Vincent caro Torri <vtorri at univ-evry dot fr>
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		16.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+		This extension is PPI compatible
+Change-log: 	2010/11/18 First version 0.1.0.54504
+Current:	2010/12/29 Updated to 0.1.0.55225

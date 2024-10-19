@@ -1,0 +1,13 @@
+Title:		emotion-dev.tcz
+Description:	Enlightenment's (Ecore/Evas?) audio and video integration. dev files
+Version:	0.2.0.55787
+Author:		See http://enlightenment.org/p.php?p=contact&l=e
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		16.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+		This extension is PPI compatible
+Change-log:	2010/11/17  First version
+Current:	2010/12/31 Updated to version 0.2.0.55787

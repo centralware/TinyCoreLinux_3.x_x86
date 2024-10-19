@@ -1,0 +1,16 @@
+Title:          bluefish-doc.tcz
+Description:    Powerful editor targeted towards programmers and webdesigners
+Version:        2.0.3
+Author:         Olivier Sessink, Jim Hayward, Daniel Leidert, Sahwn Novak
+Original-site:  http://bluefish.openoffice.nl
+Copying-policy: GPL v3
+Size:		4.0K
+Extension_by:   bmarkus, HA5DI
+Comments:       Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/10/09 First version, 2.0.2
+Current:        2011/02/25 Updated to 2.0.3
+

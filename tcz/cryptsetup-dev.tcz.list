@@ -1,0 +1,6 @@
+usr/local/include/libcryptsetup.h
+usr/local/lib/libcryptsetup.la
+usr/local/lib/pkgconfig/libcryptsetup.pc
+usr/local/share/doc/License/cryptsetup-dev-authors.txt
+usr/local/share/doc/License/cryptsetup-dev-copying.txt
+usr/local/share/doc/License/cryptsetup-dev-readme.txt

@@ -1,0 +1,16 @@
+emotion.tcz
+autoconf.tcz
+automake.tcz
+cvs.tcz
+gettext.tcz
+libtool-dev.tcz
+svn.tcz
+gstreamer-dev.tcz
+gst-plugins-bad-dev.tcz
+gst-plugins-base-dev.tcz
+gst-plugins-good.tcz
+gst-plugins-ugly.tcz
+gst-ffmpeg.tcz
+ffmpeg-ffserver-dev.tcz
+edje-dev.tcz
+xine-lib-dev.tcz

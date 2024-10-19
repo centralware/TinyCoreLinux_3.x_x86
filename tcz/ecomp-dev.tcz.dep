@@ -1,0 +1,11 @@
+ecomp.tcz
+bash.tcz
+intltool.tcz
+gettext.tcz
+libtool-dev.tcz
+Xorg-7.5-dev.tcz
+librsvg-dev.tcz
+glew.tcz
+libxml2-dev.tcz
+libxslt.tcz
+dbus-dev.tcz

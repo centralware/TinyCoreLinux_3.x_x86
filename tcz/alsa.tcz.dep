@@ -1,0 +1,5 @@
+alsa-modules-KERNEL.tcz
+libasound.tcz
+pci-utils.tcz
+ncurses.tcz
+depmod.tcz
