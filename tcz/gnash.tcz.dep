@@ -1,0 +1,9 @@
+SDL.tcz
+gtk2.tcz
+curl.tcz
+boost-1.41.tcz
+libavformat.tcz
+libswscale.tcz
+
+
+openssl-0.9.8.tcz

@@ -1,0 +1,10 @@
+/usr/local/etc/cups/pdftoraster.convs
+/usr/local/etc/cups/pstoraster.convs
+/usr/local/share/cups/model/pxlmono.ppd
+/usr/local/share/cups/model/pxlcolor.ppd
+/usr/local/bin/gs
+/usr/local/lib/ghostscript/9.00/X11.so
+/usr/local/lib/cups/filter/pstopxl
+/usr/local/lib/cups/filter/pdftoraster
+/usr/local/lib/cups/filter/pstoraster
+/usr/local/tce.installed/ghostscript

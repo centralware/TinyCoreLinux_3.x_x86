@@ -1,0 +1,15 @@
+Title:          gmp-dev.tcz
+Description:    gmp devs
+Version:        4.3.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 308KB
+Extension_by:   juanito
+Comments:       dev files for gmp
+                ----------
+                This extension contains:
+                gmp-4.3.2 - GPLv3 http://ftp.gnu.org/gnu/gmp/gmp-4.3.2.tar.bz2
+                ----------
+                first version
+Current:        2011/08/16

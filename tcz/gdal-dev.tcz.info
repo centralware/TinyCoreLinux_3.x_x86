@@ -1,0 +1,16 @@
+Title:          gdal-dev.tcz
+Description:    GDAL/OGR is a translator library for raster geospatial data formats
+Version:        1.8.1
+Author:         Many, see sorce code
+Original-site:  http://download.osgeo.org/gdal/
+Copying-policy: X/MIT
+Size:		160K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/30 First version, 1.7.2
+                2011/03/16 Updated to 1.8.0
+Current:        2011/08/27 Updated to 1.8.1

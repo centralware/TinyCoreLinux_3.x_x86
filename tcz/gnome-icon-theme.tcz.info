@@ -1,0 +1,18 @@
+Title:		gnome-icon-theme.tcz
+Description:	Default GNOME icon theme.
+Version:	2.31.0
+Author:		Various
+Original-site:	http://ftp.gnome.org/pub/gnome/sources/gnome-icon-theme/
+Copying-policy:	GPL
+Size:		8.2M
+Extension_by:	Curaga, Arslan S.
+Comments:	Some packages use the Gnome icons.
+		If you need an icon for something, these are all GPL :)
+
+		This extension is PPI compatible.
+Change-log:	2009/04/28 Original
+		2010/01/24 Added default .gtkrc-2.0
+		2010/01/25 Edited startup script
+		2010/03/04 Fixed tce.installed perms
+		2010/07/23 Updated to 2.30.3 by Arslan S.
+Current:	2010/11/22 Updated to 2.31.0 by Arslan S.

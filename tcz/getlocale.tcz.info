@@ -1,0 +1,21 @@
+Title:          getlocale.tcz
+Description:    Script to build customized locale support
+Version:        1.2
+Author:         Curaga
+Original-site:  http://tinycorelinux.com
+Copying-policy: GPLv3
+Size:           4k
+Extension_by:   Curaga
+Comments:       To avoid having one huge locale support extension, this 
+		script builds a customized one according to your 
+		selections.
+-
+		If you load this in the console, the script is called 
+		getlocale.sh.
+-
+		The new extension will be called mylocale.tcz.
+-
+Change-log:     2010/08/22 Original
+		2010/08/22 Updated to check for duplicate in onboot.lst
+		2010/08/24 Cosmetic update
+Current:        2010/09/09 Permission bugfix

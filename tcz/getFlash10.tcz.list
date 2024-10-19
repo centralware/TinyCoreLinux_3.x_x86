@@ -1,0 +1,4 @@
+usr/local/bin/getflash10.sh
+usr/local/share/applications/getFlash10.desktop
+usr/local/share/flash10/libflashsupport.so
+usr/local/tce.installed/getFlash10

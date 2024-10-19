@@ -1,0 +1,1 @@
+1d22b5491f2dbe02dedebe994c0e7c0b  getlocale.tcz

@@ -1,0 +1,15 @@
+Title:          gegl-dev.tcz
+Description:    gegl dev files
+Version:        0.1.6
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 88KB
+Extension_by:   juanito
+Comments:       dev files for gegl
+                ----------
+                This extension contains:
+                gegl-0.1.6 - GPLv3 - ftp://ftp.gimp.org/pub/gegl/0.1/gegl-0.1.6.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2011/02/24

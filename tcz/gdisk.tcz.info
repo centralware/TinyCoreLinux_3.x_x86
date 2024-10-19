@@ -1,0 +1,17 @@
+Title:          gdisk.tcz
+Description:    GPT fdisk
+Version:        0.6.11
+Author:         Rod Smith <rodsmith@rodsbooks.com>
+Original-site:  http://www.rodsbooks.com/gdisk
+Copying-policy: GPL
+Size:           172K
+Extension_by:   alabamapaul
+Comments:       Binaries and man pages
+                ----
+                Created using tinycore_3.1
+                ----
+                PPI Compatible 
+                ----
+Change-log:     2010/07/19 First version of extension
+Current:        2010/09/27 Updating to v0.6.11
+

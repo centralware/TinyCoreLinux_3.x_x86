@@ -1,0 +1,20 @@
+Title:          ghostscript.tcz
+Description:    ghostscript printing
+Version:        9.00
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.8MB
+Extension_by:   juanito
+Comments:       an interpreter for the PostScript language and for PDF
+                ----------
+                might require the ghostscript_common extension in some circumstances
+                ----------
+                This extension contains:
+                ghostscript-9.00 - GPLv3 - http://ghostscript.com/releases/ghostscript-9.00.tar.gz
+Change-log:     first version
+                2009/11/01
+                updated 8.70 -> 8.71, changed name gs -> ghostscript
+                2010/07/16
+                updated 8.71 -> 9.00
+Current:        2011/02/17

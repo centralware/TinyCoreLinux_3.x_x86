@@ -1,0 +1,1 @@
+8efab4bce841442df0dae154f56929ad  geany-locale.tcz

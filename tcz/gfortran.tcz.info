@@ -1,0 +1,26 @@
+Title:          gfortran.tcz
+Description:    GNU fortran compiler (TESTING)
+Version:        4.4.3
+Author:         GNU
+Original-site:  http://gcc.gnu.org/fortran/
+Copying-policy: GPLv2
+Size:		3.8M
+Extension_by:   robc
+Comments:	This package requires base-dev, binutils,
+		gcc, and their deps.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://gcc.gnu.org/fortran/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/5/11 Original
+		2009/6/3  Rebuilt for TC 2.X
+		2009/6/25 Rebuilt for seperate gcc and binutils, put in /usr/local
+		2010/11/03 Rebuilt for TC 3.x, updated to 4.4.3
+Current:	2010/11/03 Rebuilt for TC 3.x, updated to 4.4.3

@@ -1,0 +1,16 @@
+Title:          gdk-pixbuf2.tcz
+Description:    The GdkPixBuf image handling library
+Version:        2.22.1
+Author:         The GTK+ Team
+Original-site:  http://www.gtk.org/
+Copying-policy: LGPL
+Size: 		225K
+Extension_by:   Jason W
+Comments:       This extension is PPI compatible.
+Change-log:     ----
+	        2010/10/13 First version 2.22.0
+		2010/11/26 Update to 2.22.1
+Current:	2010/02/26 Moved gdk-pixbuf-csource to the 
+			   -dev extension.
+
+

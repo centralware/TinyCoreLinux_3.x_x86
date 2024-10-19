@@ -1,0 +1,25 @@
+Title:          geoip-dev.tcz
+Description:    IP Address Location Technology Development files (TESTING)
+Version:        1.4.7
+Author:         T.J. Mather
+Original-site:  http://www.maxmind.com/
+Copying-policy: LGPL
+Size:		112K
+Extension_by:   robc
+Comments:		This package requires geoip and its
+		deps.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.maxmind.com/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/11/09 Original
+		2011/04/18 Updated to v1.4.7
+Current:	2011/04/18 Updated to v1.4.7

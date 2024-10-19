@@ -1,0 +1,15 @@
+Title:          gimp2-dev.tcz
+Description:    gimp2 dev files
+Version:        2.6.11
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 212KB
+Extension_by:   juanito
+Comments:       dev files for gimp
+                ----------
+                This extension contains:
+                gimp-2.6.11 - GPLv2 - ftp://ftp.gimp.org/pub/gimp/v2.6/gimp-2.6.11.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2011/02/26

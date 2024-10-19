@@ -1,0 +1,15 @@
+usr/local/bin/f951
+usr/local/bin/gfortran
+usr/local/bin/i686-pc-linux-gnu-gfortran
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/f951
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/finclude/omp_lib.f90
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/finclude/omp_lib.h
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/finclude/omp_lib.mod
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/finclude/omp_lib_kinds.mod
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/libgfortranbegin.a
+usr/local/lib/gcc/i686-pc-linux-gnu/4.4.3/libgfortranbegin.la
+usr/local/lib/libgfortran.a
+usr/local/lib/libgfortran.la
+usr/local/lib/libgfortran.so
+usr/local/lib/libgfortran.so.3
+usr/local/lib/libgfortran.so.3.0.0
