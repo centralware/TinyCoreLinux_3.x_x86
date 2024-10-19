@@ -1,0 +1,15 @@
+Title:          libax25.tcz
+Description:    AX.25 amateur radio network protocol library
+Version:        0.0.12-rc2
+Author:         Jonathan Naylor, Tomi Manninen, Jean-Paul Roubelat, Alan Cox
+Original-site:  http://www.linux-ax25.org
+Copying-policy: LGPL v2.1
+Size:           25k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/20 First version, 0.0.11
+Current:        2010/06/27 Updated to 0.0.12-rc2

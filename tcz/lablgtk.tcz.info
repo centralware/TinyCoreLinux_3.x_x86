@@ -1,0 +1,17 @@
+Title:		lablgtk.tcz
+Description:	an Objective Caml interface to gtk+
+Version:	2.14.2
+Author:		Jacques Garrigue, Benjamin Monate, Olivier Andrieu, Jun Furuse, Maxence Guesdon, Stefano Zacchiroli
+Original-site:	http://www.math.nagoya-u.ac.jp/~garrigue/soft/olabl/lablgtk.html
+Copying-policy:	GPL
+Size:		2.9M
+Extension_by:	jls_legalize <unsenepopiu at tin dot it>
+Comments:	Optional dependencies: 
+			poppler
+			gstreamer
+			flac
+			libvorbis
+			xine-lib
+		This extension is PPI compatible
+Change-log:     -----------------------------
+Current:	2011/01/25 first version 2.14.2

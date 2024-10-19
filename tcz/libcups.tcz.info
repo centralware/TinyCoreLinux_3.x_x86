@@ -1,0 +1,21 @@
+Title:          libcups.tcz
+Description:    cups library
+Version:        1.4.5
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 268KB
+Extension_by:   juanito
+Comments:       The library from cups, the standards-based, open source printing system..
+                ..developed by Apple Inc. for Mac OS X and other UNIX-like operating systems
+                ----------
+                This extension contains:
+                cups-1.4.5 - GPLv2 - http://ftp.easysw.com/pub/cups/1.4.5/cups-1.4.5-source.tar.bz2
+Change-log:     first version
+                2009/09/16
+                updated cups-1.4.0 -> 1.4.1
+                2009/09/22
+                updated cups-1.4.1 -> 1.4.2
+                2009/12/03
+                updated cups-1.4.2 -> 1.4.5
+Current:        2010/12/16

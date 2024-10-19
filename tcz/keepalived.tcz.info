@@ -1,0 +1,15 @@
+Title:          keepalived.tcz
+Description:    VRRP stack to handle gateway failover
+Version:        1.2.2 
+Author:         Alexandre Cassen, <acassen@linux-vs.org>
+Original-site:  http://www.keepalived.org/
+Copying-policy: GPL
+Size:		52K
+Extension_by:   brezular
+Comments:       Use IPVS framework - No
+		IPVS sync deamon support - No
+		Use debug flags - No
+                Use VRRP framework - Yes  
+
+Change-log:     2011/01/10 First version 1.2.1
+Current:        2011/06/29 Version 1.2.2

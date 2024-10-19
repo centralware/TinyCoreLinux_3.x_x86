@@ -1,0 +1,11 @@
+Title:          leds-2.6.33.3-tinycore.tcz
+Description:    Leds support
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		24.0K
+Extension_by:   Curaga
+Comments:       You can control various leds with this.
+Change-log:     
+Current:        2010/04/27 Original

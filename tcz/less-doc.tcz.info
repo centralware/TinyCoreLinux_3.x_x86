@@ -1,0 +1,22 @@
+Title:          less-doc.tcz
+Description:    Similar to more with backward and forward movement
+Version:        444
+Author:         Various
+Original-site:  http://www.greenwoodsoftware.com/less/
+Copying-policy: GPL v3
+Size:		32K
+Extension_by:   bmarkus
+Comments:       GNU version replacing BusyBox equivalent in base
+                ----
+                Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/05/24 First version, 418
+                2010/08/19 Rebuilt against new ncurses.tcz
+                2011/04/12 Updated to 433
+Current:        2011/06/10 Updated to 444
+
+
+

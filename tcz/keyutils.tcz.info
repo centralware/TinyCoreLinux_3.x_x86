@@ -1,0 +1,11 @@
+Title:		keyutils.tcz
+Description:	keyutils - Utilities to control the kernel key management facility
+Version:	1.4
+Author:		David Howells
+Original-site:	http://people.redhat.com/dhowells/keyutils/
+Copying-policy:	GPL (see /usr/local/share/doc/License/keyutils.txt)
+Size:		64K
+Extension_by:	gutmensch
+Comments:	
+Change-log:	
+Current:	2010/10/26	Initial version 1.4

@@ -1,0 +1,11 @@
+Title:		libeweather.tcz
+Description:	weather library
+Version:	svn 53237
+Author:		Matthew Mullins, Christopher 'devilhorns'  Michael,  Jonathan 'Watchwolf' Atton
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		7.6M
+Extension_by:	Althalus,jls_legalize (unsenepopiu at tin dot it)
+Comments:	PPI compatible
+Change-log:     --------
+Current:	2010/10/10 First version

@@ -1,0 +1,11 @@
+Title:		libdbusmenu-qt-dev.tcz
+Description:	Qt implementation of the DBusMenu protocol, development files.
+Version:	0.8.0
+Author:		Aurelien Gateau
+Original-site:	https://launchpad.net/libdbusmenu-qt
+Copying-policy:	LGPL-2
+Size:		8.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/07/15 First Version 0.3.3
+Current:	2011/03/01 Updated to 0.8.0

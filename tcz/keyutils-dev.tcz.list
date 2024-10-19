@@ -1,0 +1,5 @@
+usr/local/include/keyutils.h
+usr/local/lib/libkeyutils.a
+usr/local/share/doc/License/keyutils-dev-copying.txt
+usr/local/share/doc/License/keyutils-dev-readme.txt
+usr/local/share/doc/License/keyutils-dev.txt

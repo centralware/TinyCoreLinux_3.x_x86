@@ -1,0 +1,11 @@
+Title:		libdc1394.tcz
+Description:	High level API for IEEE1394 digital camera.
+Version:	2.1.2
+Author:		various
+Original-site:	http://sourceforge.net/projects/libdc1394/
+Copying-policy:	LGPL
+Size:		92K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/09/02 First Version

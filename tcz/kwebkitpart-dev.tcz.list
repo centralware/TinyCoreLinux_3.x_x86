@@ -1,0 +1,4 @@
+usr/local/include/KDE/KWebKitPart
+usr/local/include/kwebkit_export.h
+usr/local/include/kwebkitpart.h
+usr/local/share/apps/cmake/modules/FindKWebKitPart.cmake

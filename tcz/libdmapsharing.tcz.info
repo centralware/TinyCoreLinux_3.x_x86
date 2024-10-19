@@ -1,0 +1,18 @@
+Title:          libdmapsharing.tcz
+Description:    dmap library
+Version:        2.1.7
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 76KB
+Extension_by:   juanito
+Comments:       a library to access and share DMAP (DAAP & DPAP) content.
+                The DMAP family of protocols are used by products such as iTunes, iPhoto and
+                the Roku SoundBridge family to share content such as music and photos.
+                ----------
+                This extension contains:
+                libdmapsharing-2.1.7 - LGPLv2.1 - http://www.flyn.org/projects/libdmapsharing/libdmapsharing-2.1.7.tar.gz
+                ----------
+Change-log:     2010/09/12
+                updated 2.1.3 -> 2.1.7
+Current:        2010/11/07

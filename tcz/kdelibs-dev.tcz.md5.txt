@@ -1,0 +1,1 @@
+f802d926e06e8e5b1887ea3227e93cc8  kdelibs-dev.tcz

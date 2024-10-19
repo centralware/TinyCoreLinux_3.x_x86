@@ -1,0 +1,13 @@
+Title:          lame-dev.tcz
+Description:    The lame mp3 encoder development files.
+Version:        3.98-2
+Author:         Mark Taylor
+Original-site:  http://lame.sourceforge.net/index.php
+Copying-policy: GNU Lesser GPL
+Size: 516K
+Extension_by:   Jason W
+Comments:       Needed along with lame.tcz for compiling
+		programs dependent on lame.
+Change-log:     2008/08/16 First version
+                2009/01/10 Rebuilt for i486, size, cramfs.
+Current:  	2009/04/04 Updated to 3.98.2

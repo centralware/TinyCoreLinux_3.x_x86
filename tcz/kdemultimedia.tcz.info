@@ -1,0 +1,12 @@
+Title:		kdemultimedia.tcz
+Description:	KDE Multimedia, meta package.
+Version:	4.5.5
+Author:		KDE development team
+Original-site:	http://www.kde.org
+Copying-policy:	GPL/LGPL/FDL
+Size:		4.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/07/27 First Version 4.4.5
+		2010/11/02 Updated to 4.5.2
+Current:	2011/01/20 Updated to 4.5.5

@@ -1,0 +1,11 @@
+Title:		kwebkitpart-dev.tcz
+Description:	A web browser component for KDE, development files.
+Version:	0.9.6
+Author:		various
+Original-site:	http://opendesktop.org/content/show.php?content=127960
+Copying-policy:	LGPL
+Size:		4.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/01/22 First Version

@@ -1,0 +1,19 @@
+Title:          kismet.tcz
+Description:    Wireless network detector, sniffer and IDS
+Version:        2011-03-R2
+Author:         Mike Kershaw
+Original-site:  http://www.kismetwireless.net
+Copying-policy: GPL v2
+Size:		1.5M
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Contains manufacturer database from Wireshark
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/07/12 First version, 2010-01-R1
+                2010/08/02 Updated to 2010-07-R1
+                2011/02/03 Updated to 2011-01-R1
+Current:        2011/04/26 Updated to 2011-03-R2

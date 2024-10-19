@@ -1,0 +1,11 @@
+Title:          libcddb.tcz
+Description:    CDDB server access library
+Version:        1.3.0
+Author:         Kris Verbeeck
+Original-site:  http://libcddb.sourceforge.net/
+Copying-policy: GNU Lesser GPL
+Size: 40K
+Extension_by:   Jason W
+Comments:       ----------
+Change-log:     2008/08/16 First version
+Current:        2009/01/10 Rebuilt for i486, size, cramfs.

@@ -1,0 +1,12 @@
+usr/local/include/EWeather.h
+usr/local/include/EWeather_Plugins.h
+usr/local/include/EWeather_Smart.h
+usr/local/lib/eweather/plugins/google.a
+usr/local/lib/eweather/plugins/google.la
+usr/local/lib/eweather/plugins/test.a
+usr/local/lib/eweather/plugins/test.la
+usr/local/lib/eweather/plugins/yahoo.a
+usr/local/lib/eweather/plugins/yahoo.la
+usr/local/lib/libeweather.a
+usr/local/lib/libeweather.la
+usr/local/lib/pkgconfig/eweather.pc

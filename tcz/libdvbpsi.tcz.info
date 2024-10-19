@@ -1,0 +1,11 @@
+Title:		libdvbpsi.tcz
+Description:	A simple library designed for decoding and generation of MPEG TS and DVB PSI tables.
+Version:	0.1.7
+Author:		various
+Original-site:	http://developers.videolan.org/libdvbpsi/
+Copying-policy:	GPL
+Size:		32K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/01/25 First Version

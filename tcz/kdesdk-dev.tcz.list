@@ -1,0 +1,13 @@
+usr/local/include/kate/application.h
+usr/local/include/kate/documentmanager.h
+usr/local/include/kate/mainwindow.h
+usr/local/include/kate/plugin.h
+usr/local/include/kate/pluginconfigpageinterface.h
+usr/local/include/kate/pluginmanager.h
+usr/local/include/kate_export.h
+usr/local/include/kompare/kompareinterface.h
+usr/local/include/kprofilemethod.h
+usr/local/include/ktexteditor_codesnippets_core/completionmodel.h
+usr/local/include/ktexteditor_codesnippets_core/ktexteditor_codesnippets_core_export.h
+usr/local/include/ktexteditor_codesnippets_core/repository.h
+usr/local/include/ktrace.h

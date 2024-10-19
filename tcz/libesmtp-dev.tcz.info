@@ -1,0 +1,12 @@
+Title:          libesmtp-dev.tcz
+Description:    A library to manage posting e-mail using SMTP, development files.
+Version:        1.0.4
+Author:         Brian Stafford
+Original-site:  http://www.stafford.uklinux.net/libesmtp/
+Copying-policy: GPL/LGPL
+Size:		44K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/03 Original

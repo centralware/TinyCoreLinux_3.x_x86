@@ -1,0 +1,18 @@
+Title:          libburn-dev.tcz
+Description:    CD, DVD & BD read/write library and tool
+Version:        1.1.4
+Author:         Mario Danic, Thomas Schmitt
+Original-site:  http://www.libburnia-project.org
+Copying-policy: GPL v2
+Size:		392K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Contains command line tool 'cdrskin',
+                a 'cdrecord' replacement
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/25 First version, 0.8.2
+Current:        2011/08/11 Updated to 1.1.4

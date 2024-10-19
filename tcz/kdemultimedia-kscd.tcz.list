@@ -1,0 +1,15 @@
+usr/local/bin/kscd
+usr/local/share/applications/kde4/kscd.desktop
+usr/local/share/apps/kscd/skin/Chrome.svg
+usr/local/share/apps/kscd/skin/Obsidian-Coast.svg
+usr/local/share/apps/kscd/skin/Steel.svg
+usr/local/share/apps/kscd/skin/default.svg
+usr/local/share/apps/solid/actions/kscd-play-audiocd.desktop
+usr/local/share/config.kcfg/kscd.kcfg
+usr/local/share/dbus-1/interfaces/org.kde.kscd.cdplayer.xml
+usr/local/share/icons/hicolor/128x128/apps/kscd.png
+usr/local/share/icons/hicolor/16x16/apps/kscd.png
+usr/local/share/icons/hicolor/32x32/apps/kscd.png
+usr/local/share/icons/hicolor/48x48/apps/kscd.png
+usr/local/share/icons/hicolor/64x64/apps/kscd.png
+usr/local/share/icons/oxygen/22x22/actions/kscd-dock.png

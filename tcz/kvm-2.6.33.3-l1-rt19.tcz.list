@@ -1,0 +1,3 @@
+usr/local/lib/modules/2.6.33.3-l1-rt19/kernel/arch/x86/kvm/kvm-amd.ko.gz
+usr/local/lib/modules/2.6.33.3-l1-rt19/kernel/arch/x86/kvm/kvm-intel.ko.gz
+usr/local/lib/modules/2.6.33.3-l1-rt19/kernel/arch/x86/kvm/kvm.ko.gz

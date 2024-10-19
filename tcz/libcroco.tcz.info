@@ -1,0 +1,17 @@
+Title:          libcroco.tcz
+Description:    CSS parsing library
+Version:        0.6.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 184KB
+Extension_by:   juanito
+Comments:       generic Cascading Style Sheet (CSS) parsing and manipulation toolkit
+                ----------
+                requires the libxml2 and glib2 extensions
+                ----------
+                This extension contains:
+                libcroco-0.6.2 - GPLv2 - http://ftp.acc.umu.se/pub/gnome/sources/libcroco/0.6/libcroco-0.6.2.tar.bz2
+                ----------
+Change-log:     first release
+Current:        2009/09/28

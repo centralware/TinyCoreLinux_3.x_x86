@@ -1,0 +1,17 @@
+Title:          libfltk-xft.tcz
+Description:    FLTK with Xft - smooth fonts support
+Version:        1.1.9
+Author:         Bill Spitzak and others
+Original-site:  http://fltk.org
+Copying-policy: GPL
+Size:		288K
+Extension_by:   Curaga
+Comments:       Makes all FLTK apps use antialiased fonts.
+-
+		WARNING: only load this in text mode or on boot.
+-
+		FLWM is not compatible without a rebuild.
+-
+		Not PPI compatible.
+Change-log:     2009/10/03 Original
+Current:        2009/10/10 Updated to work with 2.4

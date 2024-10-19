@@ -1,0 +1,11 @@
+Title:		kdepim.tcz
+Description:	KDE pim applications.
+Version:	4.4.9
+Author:		KDE development team
+Original-site:	http://www.kde.org
+Copying-policy:	GPL/LGPL/FDL
+Size:		21M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/11/05 First Version 4.5.2
+Current:	2011/01/21 Updated to 4.4.9

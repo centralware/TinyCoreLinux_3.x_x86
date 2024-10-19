@@ -1,0 +1,19 @@
+Title:		libavdevice.tcz
+Description:	ffmpeg codec library
+Version:	0.6.90-rc0
+Author:		Fabrice Bellard
+Original-site:	http://ffmpeg.org/
+Copying-policy:	GNU Lesser General Public License version 2.1
+Size:		20K
+Extension_by:	juanito, jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files are in ffmpeg-ffserver-dev.tcz
+				
+		This extension is PPI compatible
+Change-log:	2009/02/26 First Version
+		2009/04/07 Updated 2 SVN 2009/04/07
+		2010/03/08 Updated 2 0.5.1
+		2010/06/05 Updated 2 0.5.2
+		2010/06/29 Recompiled with --enable-postproc --enable-gpl
+	    	2010/07/16 Updated 2 0.6, added sopport for webm files
+		2010/12/22 Updated 2 0.6.1
+Current:	2011/04/16 Updated 2 0.6.90-rc0
