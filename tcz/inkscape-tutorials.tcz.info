@@ -1,0 +1,22 @@
+Title:		inkscape-examples.tcz
+Description:	Inkscape SVG Editor - tutorials, examples [TESTING]
+Version:	0.48.1
+Author:		various
+Original-site:	http://www.inkscape.org
+Copying-policy:	GNU GPL2
+Size:		11M
+Extension_by:	dentonlt
+Comments:	These are the tutorials & example files for Inkscape. The
+		program binaries are in the inkscape.tcz extension.
+
+		Inkscape is an open source vector graphics editor, akin to
+		CorelDraw, Xara X, etc. Inkscape uses the W3C standard scalable
+		vector graphics format.
+		
+		This is not lightweight. If you only need basic editing,
+		consider the inkscapelite extension.
+		
+		Built and tested on TC3.6rc2 using sv0lli's build tool. Desc
+		file available in the TC forum script section.
+Change-log:	----
+Current:	2011/04/14 bump to 0.48.1 for TC3.6rc2 by dentonlt

@@ -1,0 +1,1 @@
+d511fea8a36445c0ea082c5c2bb605d8  hamlib.tcz

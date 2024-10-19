@@ -1,0 +1,22 @@
+Title:          hpijs_hpoj.tcz
+Description:    hpijs and hpoj for tiny core
+Version:        2.1.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 848K
+Extension_by:   juanito
+Comments:       hpijs, hpoj and libusb for use with cups-1.3.8.tcz
+                requires perl5.tcz and bash.tcz
+                ----------
+                This extension contains:
+                hpijs-2.1.4 - HP - http://sourceforge.net/project/showfiles.php?group_id=16846&package_id=14424 hpijs-2.1.4.tar.gz
+                hpoj-0.91 - GPLv2 - http://www.sfr-fresh.com/unix/privat/hpoj-0.91.tgz
+                libusb-0.1.12 - LGPLv2.1 - http://sourceforge.net/project/showfiles.php?group_id=1674&package_id=1632 libusb-0.1.12.tar.gz
+                ----------
+                Howto
+                Attach your hp officejet all-in-one
+                /usr/local/sbin/ptal-init setup
+                use an uri of the format ptal:/mlc:usb:OfficeJet_G85 in cups
+Change-log:     First version
+Current:        2008/09/06

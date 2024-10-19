@@ -1,0 +1,12 @@
+Title:		kdebindings-python.tcz
+Description:	KDE bindings python.
+Version:	4.5.5
+Author:		KDE development team
+Original-site:	http://www.kde.org
+Copying-policy:	GPL/LGPL
+Size:		9.0M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/07/20 First Version 4.4.5
+		2010/10/29 Updated to 4.5.2
+Current:	2011/01/12 Updated to 4.5.5

@@ -1,0 +1,11 @@
+Title:          iperf.tcz
+Description:    A tool for measuring Internet bandwidth performance.
+Version:        2.0.3
+Author:         The Board of Trustees of the University of Illinois
+Original-site:  http://dast.nlanr.net/Projects/Iperf
+Copying-policy: UI
+Size:		36K
+Extension_by:   N. Carigon
+Comments:       
+Change-log:     2009/08/24 Initial release
+Current:        2009/08/24

@@ -1,0 +1,17 @@
+Title:          iso-codes.tcz
+Description:    Lists of varios ISO standards (language, keyboard, ...)
+Version:        3.18
+Author:         Alastair McKinstry, Christian Perrier, Tobias Quathamer
+Original-site:  http://pkg-isocodes.alioth.debian.org
+Copying-policy: GPL v2.1
+Size:           4.5M
+Extension_by:   bmarkus
+Comments:       Binaries and dev files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/05/11 First version, 3.16
+Current:        2010/07/06 Updated to 3.16
+
+

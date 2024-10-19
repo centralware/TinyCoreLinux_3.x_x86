@@ -1,0 +1,11 @@
+Title:          ipv6-2.6.33.3-tinycore.tcz
+Description:    ipv6 support
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		176.0K
+Extension_by:   Curaga
+Comments:       
+Change-log:     
+Current:        2010/04/27 Original

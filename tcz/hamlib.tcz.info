@@ -1,0 +1,20 @@
+Title:          hamlib.tcz
+Description:    Ham Radio Control Libraries
+Version:        1.2.14
+Author:         Frank Singleton, VK3FCS/KM5WS & Stephane Fillod, F8CFE
+Original-site:  http://hamlib.sourceforge.net
+Copying-policy: GPL
+Size:		528K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/05/11 First version, 1.2.10
+                2010/07/13 Updated to 1.2.11
+                2010/11/12 Updated to 1.2.12
+                2011/03/17 Updated to 1.2.13
+                2011/06/19 Updated to 1.2.13.1
+Current:        2011/08/09 Updated to 1.2.14
+

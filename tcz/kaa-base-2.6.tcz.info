@@ -1,0 +1,13 @@
+Title:          kaa-base-2.6.tcz
+Description:    This module provides the base Kaa framework and is an implicit dependency for all kaa modules
+Version:        0.6.0
+Author:		Various
+Original-site:  http://sourceforge.net/projects/freevo/files/kaa-base/
+Copying-policy: GPL
+Size:           572K
+Extension_by:   Thomas Genty <tomlohave@gmail.com>
+Comments:       kaa-base files for freevo mediacenter
+
+Change-log:     2010/08/07 First version
+Current:        2010/08/07 First version
+

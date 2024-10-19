@@ -1,0 +1,13 @@
+Title:		kdebase-workspace.tcz
+Description:	KDE base workspace.
+Version:	4.5.5
+Author:		KDE development team
+Original-site:	http://www.kde.org
+Copying-policy:	GPL/LGPL/FDL
+Size:		71M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/07/20 First Version 4.4.5
+		2010/11/02 Updated to 4.5.2
+		2011/01/14 Updated to 4.5.5
+Current:	2011/03/13 Fixed kdmrc

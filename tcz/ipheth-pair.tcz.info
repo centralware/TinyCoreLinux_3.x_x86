@@ -1,0 +1,15 @@
+Title:          ipheth-pair.tcz
+Description:    iphone pairing utility
+Version:        git 2011/04/21
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 4KB
+Extension_by:   juanito
+Comments:       utility to pair for iPhone tethering through USB cables
+                ----------
+                This extension contains:
+                ipheth-pair - GPLv2 - git clone git://github.com/dgiagio/ipheth.git
+                ----------
+Change-log:     first version
+Current:        2011/04/21

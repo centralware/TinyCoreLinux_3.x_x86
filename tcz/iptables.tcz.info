@@ -1,0 +1,23 @@
+Title:          iptables.tcz
+Description:    Firewall (userspace part)
+Version:        1.4.10
+Author:         Various
+Original-site:  http://netfilter.org
+Copying-policy: GPL
+Size:		404K
+Extension_by:   Curaga
+Comments:       Iptables is the userspace tool to control
+		the linux kernel firewall. A simple script
+		included, suitable for home users.
+-
+		From a terminal:
+		sudo /usr/local/sbin/basic-firewall
+-
+		From bootlocal.sh (to start on every boot):
+		/usr/local/sbin/basic-firewall noprompt
+-
+		PPI compatible
+Change-log:     2008/10/28 Original
+		2009/04/30 Update to 1.4.3.2
+		2010/11/10 Added a noprompt option to basic-firewall
+Current:        2010/12/14 Update to 1.4.10

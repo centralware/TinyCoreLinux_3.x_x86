@@ -1,0 +1,1 @@
+24398bcb3a67b09e929119548ffaf8fe  hplip-2.6.tcz

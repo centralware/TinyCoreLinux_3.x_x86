@@ -1,0 +1,12 @@
+Title:          iegd-emgd-2.6.33.3-tinycore.tcz
+Description:    Accelerated graphics support for Intel embedded chips (GMA500, PowerVR, Poulsbo)
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://edc.intel.com
+Copying-policy: GPL
+Size:		200K
+Extension_by:   gutmensch
+Comments:       iegd module is from driver version 10.4
+		emgd module is from driver version 1.5.2 
+Change-log:     
+Current:        2011/03/10 Initial version

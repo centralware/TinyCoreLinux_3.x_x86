@@ -1,0 +1,21 @@
+Title:          htop.tcz
+Description:    interactive process viewer
+Version:        0.9.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 48KB
+Extension_by:   juanito
+Comments:       htop interactive process viewer
+                ----------
+                Howto:
+                $ htop
+                ..on my machine the function keys do not work,
+                but clicking on the highlighted areas does work
+                ----------
+                This extension contains:
+                htop-0.9.0 - GPLv2 - http://garr.dl.sourceforge.net/sourceforge/htop/htop-0.9.0.tar.gz
+                ----------
+Change-log:     2009/05/12
+                updated 0.8.1 -> 0.9.0
+Current:        2011/04/24

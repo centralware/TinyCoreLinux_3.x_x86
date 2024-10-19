@@ -1,0 +1,11 @@
+Title:          i2c-2.6.33.3-tinycore.tcz
+Description:    i2c support
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		92.0K
+Extension_by:   Curaga
+Comments:       
+Change-log:     
+Current:        2010/04/27 Original

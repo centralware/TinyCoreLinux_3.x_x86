@@ -1,0 +1,1 @@
+52ef1a93e637c3f9dd10d82a5c78070e  input-joystick-2.6.33.3-tinycore.tcz

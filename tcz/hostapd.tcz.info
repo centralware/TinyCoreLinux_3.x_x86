@@ -1,0 +1,17 @@
+Title:          hostapd.tcz
+Description:    Wlan AP mode daemon
+Version:        0.6.9-3
+Author:         Jouni Malinen
+Original-site:  http://hostap.epitest.fi/hostapd
+Copying-policy: GPL
+Size:		172K
+Extension_by:   Curaga
+Comments:       Using this your comp can be a wireless access point.
+		Open auth, WEP, WPA-PSK supported.
+		Requires a mac80211 wireless driver (b43, ath*k, etc)
+-
+		Copy /usr/local/etc/hostapd.conf.sample somewhere, and 
+		run as:
+		sudo hostapd /path/to/conf
+Change-log:     
+Current:        2009/10/10 Original

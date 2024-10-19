@@ -1,0 +1,15 @@
+Title:          iproute2.tcz
+Description:    TCP/IP networking and traffic control in Linux
+Version:        2.6.29-1
+Author:         Stephen Hemminger
+Original-site:  http://developer.osdl.org/dev/iproute2
+Copying-policy: GPL
+Size:           388K
+Extension_by:   Joan Batet
+Comments:       Iproute2 is a collection of utilities for controlling
+                TCP/IP networking and traffic control in Linux.
+
+                This extension is PPI compatible
+
+Change-log:     2009/11/11 First version
+Current:        2009/12/01 Rebuilt against bsddb.tcz

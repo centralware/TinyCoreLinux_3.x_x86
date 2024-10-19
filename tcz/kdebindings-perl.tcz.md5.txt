@@ -1,0 +1,1 @@
+c0325033cef7dc57ca78cd4843cceeed  kdebindings-perl.tcz

@@ -1,0 +1,1 @@
+c5a5e2dc68005cd846fa2f39b1752598  i2c-2.6.33.3-tinycore64.tcz

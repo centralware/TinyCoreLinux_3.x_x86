@@ -1,0 +1,1 @@
+04eff34eec86cd14a1909c1420e2889b  i2c-2.6.33.3-tinycore.tcz

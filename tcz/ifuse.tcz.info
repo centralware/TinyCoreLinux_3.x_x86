@@ -1,0 +1,19 @@
+Title:          ifuse.tcz
+Description:    iphone mount utility
+Version:        1.1.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 8KB
+Extension_by:   juanito
+Comments:       utility to mount iphone and ipad filesystems
+                ----------
+                howto:
+                create a mountpoint owned by tc:staff
+                $ ifuse <mountpoint>
+                ----------
+                This extension contains:
+                ifuse-1.1.1 - lGPLv2.1 - http://www.libimobiledevice.org/downloads/ifuse-1.1.1.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2011/04/21

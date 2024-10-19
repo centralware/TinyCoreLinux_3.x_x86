@@ -1,0 +1,24 @@
+Title:          ImageMagick-dev.tcz
+Description:    Suite to create, edit and compose bitmap images
+Version:        6.7.1-0
+Author:         Various
+Original-site:  http://www.imagemagick.org
+Copying-policy: See LICENSE file
+Size:		188K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/07/14 First version, 6.6.3-0
+                2010/08/10 Updated to 6.6.3-4
+                2010/08/22 Updated to 6.6.3-8
+                2010/11/28 Updated to 6.6.6-0
+                2011/03/13 Updated to 6.6.8-4
+                2011/07/08 Updated to 6.7.0-10
+Current:        2011/07/11 Updated to 6.7.1-0
+
+
+
+

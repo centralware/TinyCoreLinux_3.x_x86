@@ -1,0 +1,15 @@
+usr/local/include/knewmenu.h
+usr/local/include/konq_dndpopupmenuplugin.h
+usr/local/include/konq_events.h
+usr/local/include/konq_fileitemcapabilities.h
+usr/local/include/konq_historyentry.h
+usr/local/include/konq_historyprovider.h
+usr/local/include/konq_menuactions.h
+usr/local/include/konq_operations.h
+usr/local/include/konq_popupmenu.h
+usr/local/include/konq_popupmenuinformation.h
+usr/local/include/konq_popupmenuplugin.h
+usr/local/include/konqmimedata.h
+usr/local/include/konqsidebarplugin.h
+usr/local/include/kversioncontrolplugin.h
+usr/local/include/libkonq_export.h

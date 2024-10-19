@@ -1,0 +1,15 @@
+Title:          jwhois.tcz
+Description:    Internet Whois client
+Version:        4.0
+Author:         Various
+Original-site:  http://directory.fsf.org/project/jwhois/
+Copying-policy: GPL v3
+Size:           37k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.0
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2010/07/23 First version, 4.0

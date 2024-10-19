@@ -1,0 +1,10 @@
+usr/local/bin/hpijs
+usr/local/lib/cups/driver/drv
+usr/local/lib/cups/filter/commandtoescpx
+usr/local/lib/cups/filter/commandtopclx
+usr/local/lib/cups/filter/rastertoescpx
+usr/local/lib/cups/filter/rastertopclx
+usr/local/share/cups/drv/hp/hpijs.drv
+usr/local/share/cupsddk/include/font.defs
+usr/local/share/cupsddk/include/media.defs
+usr/local/share/cupsddk/include/raster.defs

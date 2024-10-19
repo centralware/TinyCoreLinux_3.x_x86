@@ -1,0 +1,17 @@
+Title:          john-doc.tcz
+Description:    Fast password cracker
+Version:        1.7.6
+Author:         Various
+Original-site:  http://www.openwall.com/john/
+Copying-policy: GPL v2
+Size:           41k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2010/07/12 First version, 1.7.6
+
+

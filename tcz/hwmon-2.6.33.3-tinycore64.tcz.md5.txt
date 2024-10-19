@@ -1,0 +1,1 @@
+38ef6381e03f357c3a3eb90f3ad0afa6  hwmon-2.6.33.3-tinycore64.tcz

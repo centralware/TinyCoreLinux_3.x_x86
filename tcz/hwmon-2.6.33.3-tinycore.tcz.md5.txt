@@ -1,0 +1,1 @@
+16296c082421c6035a6e5f395722429e  hwmon-2.6.33.3-tinycore.tcz

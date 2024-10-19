@@ -1,0 +1,19 @@
+Title:          iptraf.tcz
+Description:    Console based network monitoring program
+Version:        3.0.0
+Author:         Gerard Paul Java
+Original-site:  http://iptraf.seul.org
+Copying-policy: GPL v2
+Size:		84K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                Run as root user
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2011/04/22 First version, 3.0.0
+
+

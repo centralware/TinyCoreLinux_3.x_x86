@@ -1,0 +1,17 @@
+Title:          hpijs-dynppds.tcz
+Description:    HPIJS CUPS Printer Drivers with Dynamic PPD Generation
+Version:        3.9.4
+Author:         Hewlett-Packard
+Original-site:  hplipopensource.com
+Copying-policy: GPLv2, MIT, BSD
+Size:           396K
+Extension_by:   perthie
+Comments:       Requires foomatic-rip.tcz, libgs.tcz
+                This extension only works with CUPS 1.3.11. It is designed for
+                HP owners who just want a basic printer driver and do not need the
+                full HPLIP multi-function package. Be aware that some of the printers
+                listed in HPIJS actually require CUPS 1.4 and HPLIP. Check out:
+                    http://www.openprinting.org/printer_list.cgi?make=HP
+Change-log:     2009/10/07 - first version 
+                2009/10/12 - added foomatic-rip as a dep when it became its own extension
+Current:        2009/10/15 - added libgs as a dep when it became its own extension
