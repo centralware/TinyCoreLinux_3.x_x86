@@ -1,0 +1,28 @@
+Title:		findshares.tcz (TESTING)
+Description:	Searches the local network for shared directories on other computers.
+Version:	1.05
+Author:		Richard Rost
+Original-site:	
+Copying-policy:	Free for any use except resale.
+Size:		12K
+Extension_by:	Rich
+Comments:	This program scans subnets 1 to 254 on the LAN looking for Windows, Samba, and NFS
+		shares being offered by other computers and lists them. It also lists which shares
+		are currently mounted and where they are mounted.
+	   	
+	   	Use: findshares -h  will list command line options.
+	   	
+	   	Windows and Samba: findshares queries remote computers using anonymous and guest
+	   	access. If you lock the remote machines down too tightly, they won't respond.
+	   	Tested against Win98, WinXP, Windows Server 2008, WinXP, Samba3.4.5
+	   	
+	   	NFS: Although NFS4 does not require the mountd program to function, it is required
+	   	to retrieve which directories are being exported. Findshares uses the UDP protocol
+	   	to talk to mountd.
+	   	
+	   	Errors: If a computer either fails to respond to or responds incorrectly to a
+	   	query, the program will print out which line number in findshares failed.
+	   	
+		This extension is PPI compatible.
+Change-log:	None yet
+Current:	2011/12/15  Original release

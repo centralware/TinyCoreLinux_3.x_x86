@@ -1,0 +1,15 @@
+Title:		feedparser-2.6.tcz
+Description:	python feed parser      (TESTING)
+Version:	svn r295
+Author:		Mark Pilgrim
+Original-site:	http://www.feedparser.org
+Copying-policy:	MIT
+Size:		60.0K
+Extension_by:	Kingdomcome
+Comments:	Depends on python.tcz and deps
+		
+		Parses RSS and Atom feeds in python
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	2009/09/15 First Version

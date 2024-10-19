@@ -1,0 +1,12 @@
+Title:          fluidsynth.tcz
+Description:    Soundfont synth
+Version:        1.1.1
+Author:         Samuel Bianchini, Peter Hanappe and Johnathan Lee
+Original-site:  http://www.fluidsynth.org/
+Copying-policy: LGPL
+Size:           440.0K
+Extension_by:   helander
+Comments:	
+		This extension is PPI compatible.
+Change-log:	----
+Current:	2010/01/15 Initial Version

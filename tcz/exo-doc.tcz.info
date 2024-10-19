@@ -1,0 +1,22 @@
+Title:          exo-doc.tcz
+Description:    Extension library for Xfce4
+Version:        0.6.2
+Author:         Benedikt Meurer
+Original-site:  http://www.xfce.org
+Copying-policy: GPL v2
+Size:		884K
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/08 First version, 0.3.107
+                2010/06/18 Added HAL support
+                2011/02/02 Updated to 0.6.0 (doesn't depend on HAL anymore)
+                2011/05/11 Updated to 0.6.1
+Current:        2011/06/19 Updated to 0.6.2
+
+
+
+

@@ -1,0 +1,11 @@
+Title:		fftw-dev.tcz
+Description:	A library for computing the discrete Fourier transform (DFT), development files.
+Version:	3.2.2
+Author:		Matteo Frigo and Steven G. Johnson
+Original-site:	http://www.fftw.org/
+Copying-policy:	GPL-2
+Size:		1.8M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/25 First Version

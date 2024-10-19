@@ -1,0 +1,11 @@
+Title:          exiv2.tcz
+Description:    A C++ library and a command line utility to manage image metadata.
+Version:        0.19
+Author:         Andreas Huggel
+Original-site:  http://www.exiv2.org/
+Copying-policy: GPL-2
+Size:		892K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/04/05 Original

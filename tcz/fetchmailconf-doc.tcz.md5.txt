@@ -1,0 +1,1 @@
+179c89f84aef088a859c5f0712593c4a  fetchmailconf-doc.tcz

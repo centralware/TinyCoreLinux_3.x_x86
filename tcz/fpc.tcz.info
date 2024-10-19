@@ -1,0 +1,12 @@
+Title:		fpc.tcz
+Description:	Open source compiler for Pascal and Object Pascal.
+Version:	2.4.4
+Author:		various
+Original-site:	http://www.freepascal.org/
+Copying-policy:	GPL/LGPL/Custom
+Size:		44M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/08/31 First Version 2.4.0
+		2011/02/24 Updated to 2.4.2
+Current:	2011/09/16 Updated to 2.4.4

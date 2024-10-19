@@ -1,0 +1,12 @@
+Title:          flnotify.tcz
+Description:    FLTK notify applet
+Version:        0.8.1
+Author:         Curaga
+Original-site:  http://tinycorelinux.com
+Copying-policy: GPL
+Size:		4K
+Extension_by:   Curaga
+Comments:       If you need light-on-deps notify popups, look no 
+		further.
+Change-log:     
+Current:        2010/02/25 Original

@@ -1,0 +1,13 @@
+Title:          filesystems-2.6.33.3-l1-rt19.tcz
+Description:    Additional filesystem support
+Version:        2.6.33.3-l1-rt19
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		768K
+Extension_by:   Arslan S.
+Comments:       Support for some file systems not in the base,
+		and NFS server. The NTFS support here is read-only,
+		for read-write see the ntfs-3g extension.
+Change-log:     ---
+Current:        2011/04/29 Original

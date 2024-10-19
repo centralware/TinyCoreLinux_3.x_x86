@@ -1,0 +1,7 @@
+usr/bin/flwm_topside
+usr/bin/flwm_topside_initmenu
+usr/bin/flwm_topside_makemenu
+usr/bin/flwm_topside_menu_common
+usr/bin/flwm_topside_ondemand
+usr/bin/flwm_topside_restart
+usr/local/tce.installed/flwm_topside

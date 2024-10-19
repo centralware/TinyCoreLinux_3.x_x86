@@ -1,0 +1,14 @@
+Title:          fluxbox.tcz
+Description:    Fluxbox Window Manager
+Version:        Fluxbox git 2009/07/24
+Original-site:  http://fluxbox.org
+Copying-policy: MIT License
+Size:		785k
+Extension_by:   junan
+Comments:       Requires Tiny Core v2.2
+Change-log:
+                2009/06/23 Original
+		2009/07/24 Git Version , removed some themes
+                2009/08/31 Added startup script for auto desktop and updated menu
+                2010/05/22 Updated for freedesktop and ondemand
+Current:        2010/11/07 Updated to allow img files in ondemand dir

@@ -1,0 +1,11 @@
+Title:          gaiksaurus.tcz
+Description:    Gaiksaurus is GTK+ frontend to Aiksaurus. 
+Version:        1.2.1
+Author:         Jared Davis
+Original-site:  http://aiksaurus.sourceforge.net/
+Copying-policy: GPL2
+Size:		36K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2009/10/23 First Version

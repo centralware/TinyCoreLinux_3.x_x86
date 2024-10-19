@@ -1,0 +1,16 @@
+Title:          fltk-fluid.tcz
+Description:    FLTK fluid 
+Version:        1.1.9
+Author:         Various
+Original-site:  www.fltk.org
+Copying-policy: GPL
+Size: 		452K
+Extension_by:   Roberto A. Foglietta
+Comments:       The Fast Light User Interface Designer, or FLUID, 
+		is a graphical editor that is used to produce FLTK 
+		source code. FLUID edits and saves its state in .fl 
+		files. These files are text, and you can (with care) 
+		edit them in a text editor, perhaps to get some 
+		special effects.
+Change-log:     2009/04/07 First version
+Current:        2009/04/07 First version

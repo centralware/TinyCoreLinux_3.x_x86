@@ -1,0 +1,17 @@
+Title:          foomatic-rip.tcz
+Description:    Foomatic printer filter for CUPS
+Version:        4.0.2
+Author:         OpenPrinting.org
+Original-site:  http://www.openprinting.org/download/foomatic/foomatic-filters-4.0.2.tar.gz
+Copying-policy: GPL
+Size:           40K
+Extension_by:   perthie with components from juanito
+Comments:       the foomatic-rip filter is used by some printer driver packages
+                requires libgs.tcz
+Change-log:     2009/10/12 - first version - removed foomatic-rip from CUPS package
+                           - foomatic v4 is now a binary and does not require Perl
+Current:        2009/10/15 - removed libgs and changed to a .tcz extension
+                           - libgs is now a separate extension to maintain compatibility with gsview
+
+                       
+

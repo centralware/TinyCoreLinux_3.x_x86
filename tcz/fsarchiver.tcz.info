@@ -1,0 +1,13 @@
+Title:		fsarchiver.tcz
+Description:	fsarchiver - Archiving tool for misc filesystems including NTFS
+Version:	0.6.11
+Author:		Various (see /usr/local/share/doc/License/fsarchiver-authors.txt)
+Original-site:	http://www.fsarchiver.org
+Copying-policy:	GPLv2 (see /usr/local/share/doc/License/fsarchiver-copying.txt)
+Size:		84K
+Extension_by:	gutmensch
+Comments:	fsarchiver is able to archive ext2/3/4, btrfs, reiserfs, xfs and ntfs partitions, fat32 is NOT supported!
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2010/08/28	Initial version 0.6.10
+Current:	2010/12/16	Rebuilt against xz 5.0, bump to 0.6.11

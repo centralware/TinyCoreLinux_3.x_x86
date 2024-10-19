@@ -1,0 +1,21 @@
+Title:		emesene.tcz
+Description:	An MSN Messenger Client.
+Version:	1.6.3
+Author:		emesene team
+Original-site:	http://www.emesene.org/
+Copying-policy:	GPL/LGPL
+Size:		2.6M
+Extension_by:	Arslan S.
+Comments:	plugins with extra dependencies:
+		DBus:		dbus-python
+		Spell:		python-gtkspell,
+				ispell or hunspell
+		Notification:	notify-python
+		Wink Receiving: cabextract
+		
+		For webcam:	gst-python,
+				gst-plugins-good
+
+		This extension is PPI compatible.
+Change-log:	2010/03/11 Original 1.6
+Current:	2010/08/03 Updated to 1.6.3 and built against python 2.7

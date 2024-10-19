@@ -1,0 +1,12 @@
+Title:		gcompris.tcz
+Description:	Educational software suite comprising of numerous activities for children aged 2 to 10.
+Version:	9.6
+Author:		various
+Original-site:	http://gcompris.net/
+Copying-policy:	GPL-3
+Size:		143M
+Extension_by:	Arslan S.
+Comments:	Optional dependencies: gnuchess, tuxpaint, and gnucap
+		This extension is PPI compatible.
+Change-log:	2010/12/26 First Version 9.5
+Current:	2011/03/02 Updated to 9.6

@@ -1,0 +1,25 @@
+Title:          filezilla.tcz
+Description:    Graphical ftp client
+Version:        3.5.0
+Author:         Tim Kosse
+Original-site:  http://filezilla-project.org
+Copying-policy: GPL
+Size:		1.8M
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                Unicode version
+                ----
+                D-Bus support is disabled
+                ----
+                PPI compatible
+Change-log:     2010/07/12 First version, 3.3.3
+                2010/08/17 Updated to 3.3.4.1
+                2010/11/22 Updated to 3.3.5.1
+                2011/03/31 Updated to 3.4.0
+Current:        2011/05/25 Updated to 3.5.0
+
+
+

@@ -1,0 +1,20 @@
+Title:		e-modules-extra.tcz
+Description:	Extra modules for The Enlightenment DR17 Desktop Environment
+Version:	svn-60153
+Author:		See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		5.4M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	Modules not included:	
+		exalt-client, everything-skel, itask-ng, xkbswitch.
+		For weather u need libeweather.tcz.
+		For screenshot u need emprint.tcz.
+		For mpdule u need mpd.tcz & libmpd.
+		For places u ned hal.
+		-------------------
+		This extension is PPI compatible
+Change-log:     2010/10/13 First version svn 53237
+                2010/11/17 Updated to svn 54629
+		2011/04/24 Updated to svn-58869
+Current:	2011/06/09 Updated to svn-60153

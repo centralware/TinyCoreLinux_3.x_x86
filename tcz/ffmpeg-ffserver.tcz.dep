@@ -1,0 +1,9 @@
+libasound.tcz
+libavcodec.tcz
+libavdevice.tcz
+libavformat.tcz
+libavutil.tcz
+libpostproc.tcz
+libswscale.tcz
+libvpx.tcz
+jack.tcz

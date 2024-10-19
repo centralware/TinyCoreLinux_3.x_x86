@@ -1,0 +1,16 @@
+evas.tcz
+eet-dev.tcz
+fontconfig-dev.tcz
+libgsf-dev.tcz
+librsvg-dev.tcz
+glew.tcz
+graphics-libs-1-dev.tcz
+libgdiplus.tcz
+libxcb-dev.tcz
+libxcb.tcz
+libx11-xcb.tcz
+libtool-dev.tcz
+ftgl-dev.tcz
+Xorg-7.5-dev.tcz
+Xorg-7.5.tcz
+valgrind.tcz

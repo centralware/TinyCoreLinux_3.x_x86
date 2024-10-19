@@ -1,0 +1,11 @@
+Title:		fcgi-dev.tcz
+Description:	FastCGI application library
+Version:	2.4.0
+Author:		Open Market
+Original-site:	http://www.fastcgi.com/drupal
+Copying-policy:	FastCGI License
+Size:		32.0K
+Extension_by:	Daniel Barnes
+Comments:	---
+Change-log:	---
+Current:	2010/02/25 - Initial release

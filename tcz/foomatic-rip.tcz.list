@@ -1,0 +1,4 @@
+usr/local/bin/foomatic-rip
+usr/local/etc/foomatic/filter.conf
+usr/local/etc/foomatic/filter.conf.sample
+usr/local/lib/cups/filter/foomatic-rip

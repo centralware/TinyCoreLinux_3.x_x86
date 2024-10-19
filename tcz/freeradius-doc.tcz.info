@@ -1,0 +1,13 @@
+Title:		freeradius-doc.tcz
+Description:	freeradius - A free RADIUS server for network authentication - doc files
+Version:	2.1.10
+Author:		Various
+Original-site:	http://freeradius.org
+Copying-policy:	GPLv2 (see /usr/local/share/doc/License/freeradius-doc.txt)
+Size:		1.3M
+Extension_by:	gutmensch
+Comments:	Further comments at original freeradius.tcz extension.
+		---
+		This extension is PPI compatible.
+Change-log:	2010/09/27	Initial version 2.1.9
+Current:	2010/10/12	Bump to 2.1.10

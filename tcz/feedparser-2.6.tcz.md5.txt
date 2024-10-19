@@ -1,0 +1,1 @@
+412c0e3f80543a9c73fbb2daba73e8af  feedparser-2.6.tcz

@@ -1,0 +1,17 @@
+Title:          foxit_reader.tcz
+Description:    Foxit Reader is a free PDF document viewer for the Linux platform, with a new streamlined 
+		interface, user-customized toolbar, incredibly small size, breezing-fast launch speed and rich 
+		features. This empowers PDF document users with Zoom function, Navigation function, Bookmarks, 
+		Thumbnails, Text Selection Tool, Snapshot, and Full Screen capabilities. Foxit Reader for Desktop 
+		Linux is provided by Foxit Corporation free for non-commercial use.
+Version:        1.1
+Author:         Foxit Corporation Company of Fremont
+Original-site:  http://www.foxitsoftware.com/pdf/desklinux/
+Copying-policy: Custom
+Size:           4.0M
+Extension_by:   blofsy
+Comments:       See EULA: http://www.foxitsoftware.com/pdf/desklinux/eula.htm
+		Source,licence and build instructions:
+		http://mirrors.foxitsoftware.com/pub/foxit/reader/desktop/linux/1.x/1.1/enu/FoxitReader-1.1.0.tar.bz2
+Current:        Wed Aug  4 20:50:29 CEST 2010, foxit_reader 1.1 
+

@@ -1,0 +1,26 @@
+Title:          evilvte.tcz
+Description:    VTE based, highly customizable terminal emulator.
+Version:        0.4.6
+Author:         Wen-Yen Chuang
+Original-site:  http://www.calno.com/evilvte/
+Copying-policy: GPL-2
+Size:		20K
+Extension_by:   Arslan S.
+Comments:	Keybindings:
+		----------------------------
+		copy:		ctrl+shift+c
+		paste:		ctlr+shift+v
+		select all:	ctlr+shift+s
+		add tab:	ctlr+shift+t
+		remove tab:	ctlr+shift+w
+		next tab:	ctlr+shift+a
+		previous tab:	ctlr+shift+z
+		----------------------------
+		
+		Toggle background order: "No background", "Transparent", "Image"
+
+		Background image path: ~/.config/evilvte/background.png
+
+		This extension is PPI compatible.
+Change-log:     2009/12/08 First Version 0.4.5
+Current:        2010/05/22 Updated to 0.4.6

@@ -1,0 +1,7 @@
+usr/bin/flwm
+usr/bin/flwm_initmenu
+usr/bin/flwm_makemenu
+usr/bin/flwm_menu_common
+usr/bin/flwm_ondemand
+usr/bin/flwm_restart
+usr/local/tce.installed/flwm

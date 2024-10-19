@@ -1,0 +1,1 @@
+af231fc7fb35e7b9d7e142a04889475e  firewire-2.6.33.3-tinycore.tcz
