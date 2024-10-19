@@ -1,0 +1,1 @@
+f66bb6d9a75f10612892ac5a4224d211  ecore-locale.tcz

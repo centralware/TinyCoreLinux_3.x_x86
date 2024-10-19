@@ -1,0 +1,11 @@
+Title:          alsa-modules-2.6.33.3-l1-rt19.tcz
+Description:    Alsa sound support
+Version:        2.6.33.3-l1-rt19
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		1.5M
+Extension_by:   Arslan S.
+Comments:       ---
+Change-log:     ---
+Current:        2011/04/29 Original

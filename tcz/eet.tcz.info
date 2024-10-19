@@ -1,0 +1,18 @@
+Title:		eet.tcz
+Description:	a tiny library designed to write an arbitary set of chunks of data to a file
+Version:	1.4.1
+Author:		See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:	enlightenment.org
+Copying-policy:	GPL
+Size:		44K
+Extension_by:	Althalus, jls_legalize <unsenepopiu at tin dot it>
+Comments:	One of the libraries that make up the EFL
+		This extension is PPI compatible
+Change-log:	2010/03/06 First release
+		2010/03/31 Updated to 16.999.063
+		2010/09/30 Updated to svn 52903
+		2010/10/09 Updated to 1.4.0.beta
+		2010/11/14 Updated to 1.4.0.beta2
+		2010/12/29 Updated to 1.4.0.beta3
+		2011/02/02 Updated to 1.4.0
+Current:	2011/06/05 Updated to 1.4.1

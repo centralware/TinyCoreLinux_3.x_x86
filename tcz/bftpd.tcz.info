@@ -1,0 +1,16 @@
+Title:          bftpd.tcz
+Description:    bftpd ftp server
+Version:        3.6
+Author:         The BFTPD Project
+Original-site:  http://bftpd.sourceforge.net/
+Copying-policy: GPL
+Size:		32.0K
+Extension_by:   Curaga
+Comments:       A fast, secure, easy to configure FTP server.
+		Config file sample at /usr/local/etc/bftpd.conf.sample.
+-
+		Start as root (maybe from bootlocal.sh) with:
+		bftpd -d -c /path/to/config.file
+Change-log:     2009/07/01 Original
+		2011/04/13 Update to 3.2
+Current:        2011/10/04 Update to 3.6

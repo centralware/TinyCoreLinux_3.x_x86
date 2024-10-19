@@ -1,0 +1,31 @@
+Title:          cups1311.tcz
+Description:    CUPS Printing System
+Version:        1.3.11
+Author:         Apple Inc.
+Original-site:  http://www.cups.org/software.php?VERSION=1.3.11&FILE=cups/1.3.11/cups-1.3.11-source.tar.bz2
+Copying-policy: GPL, LGPL
+Size:           2.2MB
+Extension_by:   perthie
+Comments:       requires gs.tcz, expat2.tcz, dbus.tcz
+                foomatic-rip is now a separate extension for driver packages that use it
+                ----------
+                This version does not require a login 
+                To start it, add the following line to /opt/bootlocal.sh
+                     /etc/init.d/cups start
+                Or run it from a terminal with 
+                     sudo /etc/init.d/cups start | restart | status | stop
+                ----------
+                CUPS has a few built-in printers, but you probably want to add a
+                driver package like HPIJS or Gutenprint
+                ----------
+                To detect and install a printer automatically, open the
+                CUPS web interface at http://localhost:631 and select
+                     Administration > Find New Printers
+                ----------
+                Add the following lines to /opt/.filetool.lst
+                     etc/cups/printers.conf
+                     etc/cups/ppd
+                ----------
+Change-log:     2009/10/10 - first version
+                2009/10/12 - removed foomatic-rip and its perl5 dependency
+Current:        2009/10/18 - patched to detect network printers

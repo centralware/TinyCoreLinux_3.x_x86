@@ -1,0 +1,10 @@
+ecore.tcz
+gettext.tcz
+libtool-dev.tcz
+curl-dev.tcz
+eet-dev.tcz
+evas-dev.tcz
+libcares-dev.tcz
+gnutls-dev.tcz
+libxcb-util-dev.tcz
+libxcb-dev.tcz

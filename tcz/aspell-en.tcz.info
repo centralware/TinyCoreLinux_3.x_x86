@@ -1,0 +1,11 @@
+Title:          aspell-en.tcz
+Description:    The English dictionary package for Aspell
+Version:        0.60.0
+Author:         kevina@gnu.org
+Original-site:  ftp.gnu.org/gnu/aspell/dict/
+Copying-policy: GNU FDL
+Size:           1676K
+Extension_by:   perthie
+Comments:       -------------    
+Change-log:     2009/09/02 First Version
+Current:        2009/11/25 Now PPI compatible

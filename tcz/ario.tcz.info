@@ -1,0 +1,12 @@
+Title:		ario.tcz
+Description:	Ario is a GTK2 client for MPD (Music player daemon).
+Version:	1.5
+Author:		Marc Pavot
+Original-site:	http://ario-player.sourceforge.net/
+Copying-policy:	GPL-2
+Size:		400K
+Extension_by:	Arslan S.
+Comments:	An mpd daemon needs to be running.
+		This extension is PPI compatible.
+Change-log:	---
+Current:	2011/03/26 First Version

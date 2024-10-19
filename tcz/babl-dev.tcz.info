@@ -1,0 +1,15 @@
+Title:          babl-dev.tcz
+Description:    babl dev files
+Version:        0.1.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 80KB
+Extension_by:   juanito
+Comments:       dev files for babl
+                ----------
+                This extension contains:
+                babl-0.1.4 - LGPLv3 - ftp://ftp.gimp.org/pub/gegl/0.1/babl-0.1.4.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2011/02/22

@@ -1,0 +1,1 @@
+b3ddfd942ed27b03f40f5573e53ed1cc  bluetooth-2.6.33.3-tinycore64.tcz

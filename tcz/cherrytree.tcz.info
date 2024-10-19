@@ -1,0 +1,15 @@
+Title:		cherrytree.tcz
+Description:	A hierarchical note taking application featuring rich text and syntax highlighting.
+Version:	0.22.2
+Author:		Giuseppe Penone
+Original-site:	http://www.giuspen.com/cherrytree/
+Copying-policy:	GPL
+Size:		372K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2011/01/03 First Version 0.19
+		2011/01/09 Added wbar icon
+		2011/01/18 Updated to 0.19.3
+		2011/04/02 Updated to 0.20.1
+		2011/06/18 Updated to 0.22
+Current:	2011/08/13 Updated to 0.22.2

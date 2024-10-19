@@ -1,0 +1,30 @@
+Title:          cups-pdf1311.tcz
+Description:    cups-pdf for tiny core
+Version:        2.5.0
+Author:         Volker C. Behr
+Original-site:  http://www.cups-pdf.de
+Copying-policy: GPL
+Size:		397Kb
+Extension_by:   Onyarian
+Comments:       requires cups1311.tcz
+                optionally uses opera/minefield for browser interface
+                ----------
+                Howto:
+                It prints into pdf documents in /home/tc/cups-pdf directory
+		You can change it editing /etc/cups/cups-pdf.conf
+                http://localhost:631 will start browser interface, then select
+		as device the "CUPS-PDF (Virtual PDF Printer)"
+                To persist across boots add the following to your backup:
+                /etc/cups/printers.conf
+                /etc/cups/ppd/cups-pdf.ppd
+                /etc/cups/cups-pdf.conf (only if you changed it)
+                ----------
+                This extension contains:
+                cups-pdf_2.5.0.tar.gz source
+                Files:
+		/usr/local/lib/cups/backend/cups-pdf
+		/etc/cups/cups-pdf.conf
+		/usr/local/share/cups/model/CUPS-PDF.ppd
+Change-log:     2009/03/23
+                chnaged name to cups-pdf1311 (juanito)
+Current:        2011/02/11

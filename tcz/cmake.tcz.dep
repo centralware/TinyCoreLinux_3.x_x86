@@ -1,0 +1,7 @@
+gcc.tcz
+binutils.tcz
+ncurses.tcz
+openssl-0.9.8.tcz
+libidn.tcz
+libiconv.tcz
+

@@ -1,0 +1,1 @@
+898bbbe595d8780d0bed11b13266b1c2  asterisk-1.6-doc.tcz

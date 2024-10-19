@@ -1,0 +1,15 @@
+Title:          dbus-glib-dev.tcz
+Description:    dbus-glib dev files
+Version:        0.92
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 76KB
+Extension_by:   juanito
+Comments:       dev files for glib bindings for dbus
+                ----------
+                This extension contains:
+                dbus-glib-0.92 - GPLv2 - http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.92.tar.gz
+                ----------
+Change-log:     First version
+Current:        2010/12/04

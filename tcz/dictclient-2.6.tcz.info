@@ -1,0 +1,13 @@
+Title:			dictclient-2.6.tcz
+Description:		DictClient              (TESTING)
+Version:		1.0.3.1
+Author:			John Goerzen
+Original-site:		http://packages.debian.org/stable/interpreters/python-dictclient
+Copying-policy:		GPL2
+Size:			16.0K
+Extension_by:		Kingdomcome
+Comments:		Python DictClient
+			Requires python-2.6.2-testing.tcz
+Change-log:		2009/05/16 First Version
+			2009/08/28 Rebuit for Python2.6
+Current:		2010/10/04 Using 2.6 naming.

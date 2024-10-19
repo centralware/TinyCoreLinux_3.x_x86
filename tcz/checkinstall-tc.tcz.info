@@ -1,0 +1,23 @@
+Title:          checkinstall-tc.tcz
+Description:    Package maker and installer  
+Version:        1.6.2
+Author:         Kevin D. Knerr, Sr., Chris Spiegel, Christian Ruzicka
+		Chris Kuklewicz Matt Conway Nicholas Young-Soares
+		Ferdi Franceschini Tobias Fritz Dima Vukolov 
+		Bernhard Kaindl Sergey Kryaczevskih Sven Mueller 
+		Christian Tusche Guglielmo Bondioni Paul Wagland
+		Uwe Koloska olivier fleurigeon Max Norton Felipe Sateler
+Original-site:  http://www.asic-linux.com.mx/~izto/checkinstall/
+Copying-policy: GPL
+Size:		140K
+Extension_by:   Jason W
+Comments:       This has been adjusted to create a Tinycore tcz package.  
+		Just issue:
+		./configure --prefix=/usr/local
+		make
+		checkinstall
+		
+		and choose the Tinycore option to create a tcz in /tmp of
+		the package.
+Change-log:     ====
+Current:	2010/03/21 First version 1.6.2

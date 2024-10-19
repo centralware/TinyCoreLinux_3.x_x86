@@ -1,0 +1,11 @@
+Title:		bullet-docs.tcz
+Description:	A 3D Collision Detection and Rigid Body Dynamics Library.
+Version:	2.78-r2387
+Author:		various
+Original-site:	http://www.bulletphysics.com/Bullet
+Copying-policy:	zlib
+Size:		120M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/12/12 First Version 2.77
+Current:	2011/08/17 Updated to 2.78-r2387

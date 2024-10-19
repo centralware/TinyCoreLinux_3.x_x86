@@ -1,0 +1,15 @@
+Title:          cups-dev.tcz
+Description:    cups dev files
+Version:        1.4.5
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 52KB
+Extension_by:   juanito
+Comments:       dev files for cups
+                ----------
+                This extension contains:
+                cups-1.4.5 - GPLv2 - http://ftp.easysw.com/pub/cups/1.4.5/cups-1.4.5-source.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2010/12/16

@@ -1,0 +1,13 @@
+Title:          crypto-xts-2.6.33.3-tinycore.tcz
+Description:    Crypto XTS kernel module
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:           8K
+Extension_by:   gutmensch
+Comments:       Kernel module for crypto XTS support (e.g. truecrypt).
+
+Change-log:     2010/11/02 Initial version
+Current:        2010/11/02 Initial version
+

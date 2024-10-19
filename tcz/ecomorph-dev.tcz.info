@@ -1,0 +1,13 @@
+Title:		ecomorph-dev.tcz
+Description:	OpenGL compositing manager module for e17 window manager dev files
+Version:	git 2011/01/05
+Author:		Hannes Janetzek <hannes.janetzek@gmail.com> Davide Andreoli <dave@gurumeditation.it>
+Original-site:	http://code.google.com/p/itask-module/wiki/Stuff
+Copying-policy:	GPL
+Size:		64.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+		This extension is PPI compatible
+Change-log:	---------------
+Current:	2011/01/05 first version git 2011/01/05

@@ -1,0 +1,1 @@
+acfdd670d1b2982507a0d294a97fc346  avahi-2.7-dev.tcz

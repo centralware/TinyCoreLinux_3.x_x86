@@ -1,0 +1,1 @@
+60e6ec4d5b94be5401a5c3a7305dd06e  compiz-locale.tcz

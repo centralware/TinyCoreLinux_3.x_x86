@@ -1,0 +1,25 @@
+Title:          blueman-2.6.tcz
+Description:    bluetooth manager
+Version:        1.21
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 544KB
+Extension_by:   juanito
+Comments:       gtk2 bluetooth manager
+                ----------
+                Howto:
+                $ sudo /usr/local/etc/init.d/bluez start
+                add "dbus-launch --sh-syntax --exit-with-session" to .xsession
+                $ startx
+                use blueman to manage bluetooth connections
+                ----------
+                optionally can be used with hicolor-icon-theme
+                optionally can be used with GConf
+                ----------
+                This extension contains:
+                blueman-1.21 - GPLv3 - http://download.tuxfamily.org/blueman/blueman-1.21.tar.gz
+                ----------
+Change-log:     2010/04/11
+                added exit plugin and .desktop
+Current:        2010/04/20

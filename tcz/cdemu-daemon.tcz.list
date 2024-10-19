@@ -1,0 +1,3 @@
+usr/local/bin/cdemud
+usr/local/etc/dbus-1/system.d/cdemud-dbus.conf
+usr/local/etc/init.d/cdemu-daemon

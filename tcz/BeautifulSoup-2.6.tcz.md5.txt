@@ -1,0 +1,1 @@
+63847d91775b4f38f1099dba9db1d9d4  BeautifulSoup-2.6.tcz

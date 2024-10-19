@@ -1,0 +1,12 @@
+Title:		compat-wireless-2.6.33.3-tinycore64.tcz
+Description:	Latest Linux wireless drivers for kernels 2.6.24 and above.
+Version:	2.6.37-4
+Author:		---
+Original-site:	http://wireless.kernel.org/en/users/Download
+Copying-policy:	GPL-2
+Size:		1.4M
+Extension_by:	Arslan S.
+Comments:	This is useful for wireless devices that do not have driver support in current tc kernel version.
+		See http://wireless.kernel.org/en/users/Drivers for details.
+Change-log:	---
+Current:	2011/03/14 First Version

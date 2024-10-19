@@ -1,0 +1,12 @@
+Title:          ax25-2.6.33.3-tinycore64.tcz
+Description:    Ham radio support
+Version:        2.6.33.3-tinycore64
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		68K
+Extension_by:   Curaga
+Comments:       Modprobe the protocol and your adapter driver:
+		sudo modprobe -a ax25 mkiss
+Change-log:     
+Current:        2010/06/12 Original

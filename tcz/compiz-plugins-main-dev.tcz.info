@@ -1,0 +1,11 @@
+Title:          compiz-plugins-main-dev.tcz
+Description:    Main plugins for Compiz, development package.
+Version:        0.8.4
+Author:         Various
+Original-site:  http://www.compiz.org/
+Copying-policy: GPL-2
+Size:		296K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/27 First Version

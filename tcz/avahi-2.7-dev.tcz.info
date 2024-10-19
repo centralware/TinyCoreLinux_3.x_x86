@@ -1,0 +1,18 @@
+Title:          avahi-2.7-dev.tcz
+Description:    avahi network service
+Version:        0.6.30
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 260KB
+Extension_by:   juanito
+Comments:       dev files for avahi-2.7 and libavahi
+                ----------
+                This extension contains:
+                avahi-0.6.30 - GLGPLv2.1 - http://avahi.org/download/avahi-0.6.30.tar.gz
+                ----------
+Change-log:     2010/09/03
+                applied debian patch to allow avahi-browse to work with avahi-daemon
+                2010/09/29
+                updated 0.6.27 -> 0.6.30
+Current:        2011/05/15
