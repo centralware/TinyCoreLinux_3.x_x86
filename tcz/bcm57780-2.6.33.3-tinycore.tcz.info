@@ -1,0 +1,12 @@
+Title:          bcm57780-2.6.33.3-tinycore.tcz
+Description:    Driver for Broadcom BCM57780 network adapter
+Version:        2.6.33.3-tinycore
+Author:		Broadcom.com
+Original-site:  http://www.broadcom.com
+Copying-policy: GPL
+Size:		60K
+Extension_by:   Ldak
+Comments:       ---
+Change-log:     ---
+Current:	2011/07/03 Original
+

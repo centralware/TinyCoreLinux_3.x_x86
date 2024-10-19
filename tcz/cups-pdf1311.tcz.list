@@ -1,0 +1,3 @@
+etc/cups/cups-pdf.conf
+usr/local/lib/cups/backend/cups-pdf
+usr/local/share/cups/model/CUPS-PDF.ppd

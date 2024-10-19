@@ -1,0 +1,16 @@
+Title:          alsa-dev.tcz
+Description:    alsa dev files
+Version:        1.0.23
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 96KB
+Extension_by:   juanito/jasonw
+Comments:       development files for alsa
+                ----------
+                This extension contains:
+                alsa-lib-1.0.23 - LGPLv2.1 - ftp://ftp.alsa-project.org/pub/lib/alsa-lib-1.0.23.tar.bz2
+                ----------
+Change-log:     2010/01/25
+                updated  1.0.20 -> 1.0.23
+Current:	2010/05/27

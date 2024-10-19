@@ -1,0 +1,15 @@
+Title:          bluez-dev.tcz
+Description:    bluetooth dev files
+Version:        4.84
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 532KB
+Extension_by:   juanito
+Comments:       dev files for bluetooth
+                ----------
+                This extension contains:
+                bluez-4.84 - GPLv2 - http://www.kernel.org/pub/linux/bluetooth/bluez-4.84.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2011/01/07

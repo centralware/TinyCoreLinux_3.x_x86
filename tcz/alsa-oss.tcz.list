@@ -1,0 +1,15 @@
+usr/local/bin/aoss
+usr/local/include/oss-redir.h
+usr/local/lib/libalsatoss.a
+usr/local/lib/libalsatoss.la
+usr/local/lib/libalsatoss.so
+usr/local/lib/libalsatoss.so.0
+usr/local/lib/libalsatoss.so.0.0.0
+usr/local/lib/libaoss.a
+usr/local/lib/libaoss.la
+usr/local/lib/libaoss.so
+usr/local/lib/libaoss.so.0
+usr/local/lib/libaoss.so.0.0.0
+usr/local/lib/libossredir.a
+usr/local/lib/libossredir.la
+usr/local/share/man/man1/aoss.1

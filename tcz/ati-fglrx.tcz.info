@@ -1,0 +1,28 @@
+Title:		ati-fglrx.tcz
+Description:	AMD/ATI Linux drivers.
+Version:	11.8
+Author:		AMD/ATI
+Original-site:	http://www.ati.amd.com
+Copying-policy:	Proprietary
+Size:		30M
+Extension_by:	Arslan S.
+Comments:	Installation
+		1-) Download and install the extension ati-fglrx-kernel-source (ati license does not permit distribution of kernel module)
+		2-) Run ati-fglrx-kernel-module-installer to build a kernel module extension which is required by ati-fglrx
+			sudo ati-fglrx-kernel-module-installer
+		3-) Download and install the extension ati-flgrx
+		4-) Exit to prompt to terminate X and then run the following command:
+			sudo aticonfig --initial
+		5-) Start the desktop
+			startx
+		6-) For persistency you need to add etc/X11/xorg.conf to your backup list (/opt/.filetool.lst)
+			echo "etc/X11/xorg.conf" >> /opt/.filetool.lst
+
+		Important Notes for 64 bit kernel users:
+		You need to load toolchain64 extension for building 64 bit kernel module, and
+		run ati-fglrx-kernel-module-installer in a toolchain64 shell. You can start
+		toolchain64 shell by executing toolchain64-shell in a standart terminal.
+Change-log:	2010/11/20 First Version 10.11
+		2011/01/17 Updated to 10.12
+		2011/02/24 Updated to 11.2
+Current:	2011/09/13 Updated to 11.8

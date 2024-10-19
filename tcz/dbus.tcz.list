@@ -1,0 +1,14 @@
+/usr/local/libexec/dbus-daemon-launch-helper
+/usr/local/bin/dbus-uuidgen
+/usr/local/bin/dbus-cleanup-sockets
+/usr/local/bin/dbus-monitor
+/usr/local/bin/dbus-send
+/usr/local/bin/dbus-launch
+/usr/local/bin/dbus-daemon
+/usr/local/lib/libdbus-1.so
+/usr/local/lib/libdbus-1.so.3
+/usr/local/lib/libdbus-1.so.3.5.5
+/usr/local/tce.installed/dbus
+/usr/local/etc/init.d/dbus
+/usr/local/share/dbus/files/dbus-1/system.conf
+/usr/local/share/dbus/files/session.conf

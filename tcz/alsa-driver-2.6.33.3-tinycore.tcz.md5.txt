@@ -1,0 +1,1 @@
+6ea401d5c87c315c1cc46d2b0919b7cb  alsa-driver-2.6.33.3-tinycore.tcz

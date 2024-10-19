@@ -1,0 +1,20 @@
+Title: bashburn.tcz
+Description: Text mode CD/DVD burning and audio converting utility.
+Version: 3.0
+Author: Anders Linden and others
+Original-site: http://bashburn.dose.se/
+Copying-policy: GPL
+Size: 74K
+Extension_by: Jason W
+Comments: Default CD/DVD drive is set to /dev/hdc
+  in the default config file so bashburn should work out of the box
+  for most users. Use the setup option to change this
+  and other defaults. Reloading the extension upon reboot will not
+  overwrite an existing configuration.
+  Depends= cdrtools.tcz, ncurses-utils.tcz, coreutils.tcz lame.tcz, 
+  mpg123.tcz, flac.tcz, 
+  dvd+-rwtools.tcz, ogg-vorbis.tcz, cdrdao.tcz, cdparanoia.tcz
+Change-log: --------
+ 		2009/02/12 First version.
+Current:	2009/07/02 Set default to /dev/cdrom, fixed config file,
+		fixed dep file.

@@ -1,0 +1,24 @@
+Title:          bluez-hcidump.tcz
+Description:    BlueZ hcidump (TESTING)
+Version:        1.42
+Author:         Maxim Krasnyansky, Marcel Holtmann, Wayne Lee, Ricky Yuen, Takashi Sasai
+Original-site:  http://www.bluez.org
+Copying-policy: GPLv2
+Size:		64K
+Extension_by:   robc
+Comments:       This package requires bluez and its deps.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.bluez.org
+		for more information.
+		
+		----------------------------------------------
+		
+		This extension is PPI compatible.
+		
+Change-log:     2011/01/23 Original
+Current:	2011/01/23 Original

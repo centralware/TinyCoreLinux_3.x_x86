@@ -1,0 +1,13 @@
+Title:		bzr.tcz
+Description:	Bazaar is a distributed revision control system.
+Version:	2.3.4
+Author:		The Bazaar Team
+Original-site:	http://bazaar.canonical.com/
+Copying-policy:	GPL-2
+Size:		8.5M
+Extension_by:	Kingdomcome, Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/03/12 First Version 2.1.0
+		2010/10/05 Using 2.6 naming
+		2011/03/09 Updated to 2.3.0 and built against python 2.7 by Arslan S.
+Current:	2011/08/20 Updated to 2.3.4 by Arslan S.

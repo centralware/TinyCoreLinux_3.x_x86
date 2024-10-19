@@ -1,0 +1,18 @@
+Title:          adeskbar.tcz
+Description:    ADesk Bar is a easy, simple, unobtrusive application launcher for Openbox.
+Version:        0.3.9
+Author:         David Art
+Original-site:  http://www.ad-comp.be/?category/ADesk-Bar
+Copying-policy: GPL v3
+Size:           360K
+Extension_by:   blofsy
+Comments:       Requires python.tcz pygtk.tcz pycairo.tcz python-xlib.tcz vtemodule.tcz dbus-python.tcz
+				
+	 	 Default config file: /usr/local/share/adeskbar/default.cfg
+	 	 To use it place the config file to: ~/.config/adeskbar/default.cfg 
+	 	 Note:It will be edited automatically as you configure adeskbar.
+	 	 To run adeskbar: python /usr/local/share/adeskbar/adeskbar > /dev/null 2>&1 &
+	 	 Source and build instructions: http://www.ad-comp.be/public/projets/ADeskBar/adeskbar-0.3.9.tar.bz2
+Change-log:     ---------
+
+Current:        Thu Jul 15 11:32:34 CEST 2010, adeskbar 0.3.9 

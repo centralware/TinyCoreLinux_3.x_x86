@@ -1,0 +1,12 @@
+Title:          balsa-locale.tcz
+Description:    Balsa is an e-mail client for GNOME, locale files.
+Version:        2.4.7
+Author:         Various
+Original-site:  http://pawsa.fedorapeople.org/balsa/
+Copying-policy: GPL-3
+Size:		1.8M
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/03 Original

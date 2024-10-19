@@ -1,0 +1,1 @@
+5381d56adc07a58640b8442a5eb2aada  cairo-dock-plugins.tcz

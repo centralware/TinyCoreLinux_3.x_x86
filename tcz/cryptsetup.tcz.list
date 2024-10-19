@@ -1,0 +1,7 @@
+usr/local/lib/libcryptsetup.so
+usr/local/lib/libcryptsetup.so.1
+usr/local/lib/libcryptsetup.so.1.2.0
+usr/local/sbin/cryptsetup
+usr/local/share/doc/License/cryptsetup-authors.txt
+usr/local/share/doc/License/cryptsetup-copying.txt
+usr/local/share/doc/License/cryptsetup-readme.txt

@@ -1,0 +1,36 @@
+Title:          bitbake-2.6.tcz
+Description:    Simple tool for execution of tasks (TESTING)
+Version:        1.8.18
+Author:         Chris Larson
+Original-site:  http://developer.berlios.de/projects/bitbake
+Copying-policy: GPLv2, MIT/X Consortium License
+Size:		280k
+Extension_by:   robc
+Comments:       This package requires python, sqlite3,
+		openssl-0.9.8h, tcl_tk, and psyco.
+		
+		Add export PATH=... to the .bb file to use all
+		binaries available in $PATH, ie /usr/local/bin
+		
+		PERSISTENT_DIR is set to $HOME/.bb as default.
+		Edit bitbake.conf file found at
+		/usr/local/share/bitbake/conf to change this.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://developer.berlios.de/projects/bitbake
+		for more information.
+		
+		----------------------------------------------
+		
+		
+Change-log:     2009/05/19 Original
+		2009/06/08 Rebuilt for TC 2.X
+		2009/08/27 Rebuilt for python 2.6.2
+		2009/09/11 Fixed sets bug
+		2009/11/30 Updated to v1.8.18
+		2009/11/30 Updated to v1.8.18
+Current:	2010/10/04 Using 2.6 naming

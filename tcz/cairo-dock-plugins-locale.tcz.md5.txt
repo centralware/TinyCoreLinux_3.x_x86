@@ -1,0 +1,1 @@
+ac47d154950f5b844c2d6ea9a8469f4d  cairo-dock-plugins-locale.tcz

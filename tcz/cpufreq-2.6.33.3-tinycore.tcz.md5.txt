@@ -1,0 +1,1 @@
+bd7efbaddfcd889df8c4238241456e6e  cpufreq-2.6.33.3-tinycore.tcz

@@ -1,0 +1,28 @@
+Title:          balsa.tcz
+Description:    Balsa is an e-mail client for GNOME.
+Version:        2.4.7
+Author:         Various
+Original-site:  http://pawsa.fedorapeople.org/balsa/
+Copying-policy: GPL-3
+Size:		1M
+Extension_by:   Arslan S.
+Comments:       Edit-->Preferences & modify incoming/outgoing server settings
+		A typical gmail setup:
+		incoming: 	IMAP: imap.gmail.com:993 (recommended)
+				POP3: pop3.gmail.com:995
+				Required SSL
+		outgoing: 	smtp.gmail.com:587
+				Required TLS
+		
+		A typical hotmail setup:
+		incoming: 	pop3.live.com:995
+				Required SSL
+		outgoing: 	smtp.live.com:587
+				Required TLS
+		
+		aspell-en & gnome-icon-theme are recommended.
+		
+		This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/03 Original

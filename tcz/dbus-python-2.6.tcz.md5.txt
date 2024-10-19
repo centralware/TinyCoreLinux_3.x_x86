@@ -1,0 +1,1 @@
+ad7ec9c01a15227adf2646e2efeb8068  dbus-python-2.6.tcz

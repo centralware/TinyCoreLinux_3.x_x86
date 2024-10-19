@@ -1,0 +1,1 @@
+0d0095da4a086cb4eb1c79407f98bd64  asterisk-1.8.tcz

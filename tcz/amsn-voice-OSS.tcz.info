@@ -1,0 +1,13 @@
+Title:		amsn-voice-OSS.tcz
+Description:	a free open source MSN Messenger clone. Metapackage
+Version:	0.1
+Author:		amsn team
+Original-site:	http://www.amsn-project.net/
+Copying-policy:	GPLv2
+Size:		4,0K
+Extension_by:	jls_legalize <unsenepopiu at tin dot it>
+Comments:	Metapackage for using voice (OSS version)
+
+		This extension is PPI compatible.
+Change-log:	-----------------------------
+Current:	2011/01/29 First version 0.1

@@ -1,0 +1,11 @@
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/hdlcdrv.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/baycom_epp.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/bpqether.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/yam.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/baycom_ser_hdx.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/ax25.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/mkiss.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/baycom_par.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/6pack.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/scc.ko.gz
+./usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/baycom_ser_fdx.ko.gz

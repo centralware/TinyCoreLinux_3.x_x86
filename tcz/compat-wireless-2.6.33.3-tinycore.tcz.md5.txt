@@ -1,0 +1,1 @@
+89127aaaa00d32a4d9ccc480c949974f  compat-wireless-2.6.33.3-tinycore.tcz

@@ -1,0 +1,1 @@
+8c14db92aa8f4d7065d0f5c23668898b  cdemu-client.tcz

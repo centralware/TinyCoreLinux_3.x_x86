@@ -1,0 +1,11 @@
+Title:          compiz-locale.tcz
+Description:    OpenGL window and compositing manager, locale.
+Version:        0.8.4
+Author:         David Reveman
+Original-site:  http://www.compiz.org/
+Copying-policy: MIT/GPL/LGPL
+Size:		656K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/27 First Version

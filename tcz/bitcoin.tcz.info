@@ -1,0 +1,78 @@
+Title:          bitcoin.tcz
+Description:    Peer-to-peer digital currency
+Version:        0.3.24
+Author:         Satoshi Nakamoto (inactive, probably a pseudonym), Gavin Andresen, Pieter Wuille, Nils Schneider, Jeff Garzik
+Original-site:  www.bitcoin.org
+Copying-policy: MIT License (MIT)
+Size:		6.1M
+Extension_by:   Andrey Po poshat@ya.ru
+Comments:       Peer-to-peer network based anonymous digital currency - daemon
+		Bitcoin is a free open source peer-to-peer electronic cash system that
+		is completely decentralized, without the need for a central server or
+		trusted parties.  Users hold the crypto keys to their own money and
+		transact directly with each other, with the help of a P2P network to
+		check for double-spending.
+		By default connects to an IRC network to discover other peers.
+		Full transaction history is stored locally at each client.  This
+		requires 150+ MB of space, slowly growing.
+		This package provides bitcoind, a combined daemon and CLI tool to
+		interact with the daemon bitcoind.
+		Wallet Encryption
+
+Bitcoin supports native wallet encryption so that people who steal your
+wallet file don't automatically get access to all of your Bitcoins.
+In order to enable this feature, chose "Encrypt Wallet" from the
+Options menu.  You will be prompted to enter a passphrase, which
+will be used as the key to encrypt your wallet and will be needed
+every time you wish to send Bitcoins.  If you lose this passphrase,
+you will lose access to spend all of the bitcoins in your wallet,
+no one, not even the Bitcoin developers can recover your Bitcoins.
+This means you are responsible for your own security, store your
+password in a secure location and do not forget it.
+
+Remember that the encryption built into bitcoin only encrypts the
+actual keys which are required to send your bitcoins, not the full
+wallet.  This means that someone who steals your wallet file will
+be able to see all the addresses which belong to you, as well as the
+relevant transactions, you are only protected from someone spending
+your coins.
+
+It is recommended that you backup your wallet file before you
+encrypt your wallet.  To do this, close the Bitcoin client and
+copy the wallet.dat file from ~/.bitcoin/ on Linux, /Users/(user
+name)/Application Support/Bitcoin/ on Mac OSX, and %APPDATA%/Bitcoin/
+on Windows (that is /Users/(user name)/AppData/Roaming/Bitcoin on
+Windows Vista and 7 and /Documents and Settings/(user name)/Application
+Data/Bitcoin on Windows XP).  Once you have copied that file to a
+safe location, reopen the Bitcoin client and Encrypt your wallet.
+If everything goes fine, delete the backup and enjoy your encrypted
+wallet.  Note that once you encrypt your wallet, you will never be
+able to go back to a version of the Bitcoin client older than 0.4.
+
+Keep in mind that you are always responsible for you own security.
+All it takes is a slightly more advanced wallet-stealing trojan which
+installs a keylogger to steal your wallet passphrase as you enter it
+in addition to your wallet file and you have lost all your Bitcoins.
+Wallet encryption cannot keep you safe if you do not practice
+good security, such as running up-to-date antivirus software, only
+entering your wallet passphrase in the Bitcoin client and using the
+same passphrase only as your wallet passphrase.
+
+
+See the documentation at the bitcoin wiki:  
+https://en.bitcoin.it/wiki/Main_Page
+
+
+Change-log:     2011/05/28
+    * Improve various usage hints:
+    + Explicitly mention in long description that bitcoind contains
+    daemon and command-line interface.
+    * Favor final releases over prereleases in rules and watch file.
+    Thanks to Jan Dittberner.
+    * Drop patches 1004 and 1005 (integrated upstream) and simplify
+    CXXFLAGS in rules file.
+    * Stop stripping no longer included source-less binaries from upstream
+    tarballs.
+Current:        2011/07/19
+
+		

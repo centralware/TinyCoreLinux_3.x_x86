@@ -1,0 +1,1 @@
+195d19dea17c74c9c4208902005cbb9a  cpufreqd.tcz

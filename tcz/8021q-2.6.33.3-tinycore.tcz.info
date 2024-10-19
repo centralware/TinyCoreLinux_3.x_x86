@@ -1,0 +1,13 @@
+Title:          8021q-2.6.33.3-tinycore.tcz
+Description:    802.1q kernel module
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:           12K
+Extension_by:   Jan Phillip Greimann <jg@softjury.de>
+Comments:       Kernel module for VLAN support.
+
+Change-log:     2010/07/22 First version
+Current:        2010/07/22 First version
+

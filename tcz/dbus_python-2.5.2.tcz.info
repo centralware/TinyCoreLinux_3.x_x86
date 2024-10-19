@@ -1,0 +1,15 @@
+Title:          dbus_python-2.5.2.tcz
+Description:    dbus-python
+Version:        0.83.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 156KB
+Extension_by:   juanito
+Comments:       dbus-python for tinycore
+                Requires the glib2, expat2, dbus, dbus-glib and python-2.5.2 extensions
+                ----------
+                This extension contains:
+                dbus-python-0.83.0 - non copyleft - http://dbus.freedesktop.org/releases/dbus-python/dbus-python-0.83.0.tar.gz
+Change-log:     First version
+Current:        2009/01/25
