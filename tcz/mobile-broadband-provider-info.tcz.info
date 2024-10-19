@@ -1,0 +1,11 @@
+Title:		mobile-broadband-provider-info.tcz
+Description:	Mobile broadband settings for different service providers in different countries.
+Version:	20100510
+Author:		various
+Original-site:	http://live.gnome.org/NetworkManager/MobileBroadband/ServiceProviders
+Copying-policy:	CC-PD (Creative Commons Public Domain)
+Size:		32.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/14 First Version

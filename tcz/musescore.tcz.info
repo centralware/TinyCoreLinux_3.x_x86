@@ -1,0 +1,17 @@
+Title:		musescore.tcz
+Description:	WYSIWYG music notation program
+Version:	1.1
+Author:		Werner Schweer and others
+Original-site:	musescore.org
+Copying-policy:	GNU GPL
+Size:		11M
+Extension_by:	Marco Caminati
+Comments:	Import and export of MusicXML and MIDI.
+		Integrated sequencer.
+		Output as a PDF, SVG or PNG document.
+		Built from 68b43af92093a16f7f074c0eb560a867 mscore-1.1.tar.bz2
+		available on Original-site
+		Runtime dependencies are non-recursive, i.e.: each of them can be tce-loaded 
+		ignoring the respective .dep file, and the present extension should still work.
+Change-log:	----
+Current:	2011/08/30 First Version

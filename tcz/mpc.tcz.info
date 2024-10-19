@@ -1,0 +1,15 @@
+Title:		mpc.tcz
+Description:	Command line client for mpd (Music Player Daemon)
+Version:	0.19
+Author:		Max Kellerman and Waren Dukes, Eric Wong, Avuton Olrich.
+Original-site:	http://www.musicpd.org
+Copying-policy:	GPLv2
+Size:		41Kb
+Extension_by:	b1ackmai1er, jls_legalize (unsenepopiu at tin dot it)
+Comments:	Default host and port is: localhost:6600. No host password set.
+		Binaries only.
+		Compiled for TC 3.x
+		PPI Compatible.
+Change-log: 	2010/8/15 First Version by b1ackmai1er
+Current:	2010/10/24 removed wrong dirs /usr_1 /usr_2 /usr_3
+			   removed docs

@@ -1,0 +1,16 @@
+Title:          lxde-icon-theme.tcz
+Description:    Default icon theme, nuoveXT2 for LXDE/PCManFM
+Version:        0.0.1
+Author:         Alexandre Moore
+Original-site:  http://lxde.org
+Copying-policy: GPL v3
+Size:           4.7M
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/12/20 First version
+

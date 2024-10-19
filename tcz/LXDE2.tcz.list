@@ -1,0 +1,13 @@
+usr/local/bin/LXDE
+usr/local/bin/lxde
+usr/local/bin/openbox-lxde
+usr/local/etc/xdg/lxsession/LXDE/autostart
+usr/local/etc/xdg/lxsession/LXDE/config
+usr/local/share/lxde/libfm/libfm.conf
+usr/local/share/lxde/pcmanfm/main.lxde
+usr/local/share/lxde/pcmanfm/pcmanfm.conf
+usr/local/share/lxde/tc/.gtkrc-2.0
+usr/local/share/lxde/tc/exit.desktop
+usr/local/share/lxpanel/profile/LXDE/config
+usr/local/share/lxpanel/profile/LXDE/panels/panel
+usr/local/tce.installed/LXDE2

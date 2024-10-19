@@ -1,0 +1,15 @@
+libvorbis.tcz
+libmad.tcz
+flac.tcz
+wavpack.tcz
+libmpcdec.tcz
+curl.tcz
+libsamplerate.tcz
+libiconv.tcz
+libid3tag.tcz
+libltdl.tcz
+file.tcz
+bsddb.tcz
+taglib.tcz
+ncurses.tcz
+

@@ -1,0 +1,3 @@
+usr/local/bin/monit
+usr/local/share/monit/files/monitrc.sample
+usr/local/tce.installed/monit

@@ -1,0 +1,1 @@
+8fa46fd1ca6bf5d618c9aa8c05e6850e  lyx-locale.tcz

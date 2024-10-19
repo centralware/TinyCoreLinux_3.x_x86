@@ -1,0 +1,13 @@
+Title:          minefield5-dev.tcz
+Description:    Unbranded Firefox build dev files
+Version:        5.0.1
+Author:         Mozilla
+Original-site:  http://mozilla.com/firefox
+Copying-policy: MPL
+Size:		24M
+Extension_by:   Jason W
+Comments:       ----
+Change-log: 	2011/05/30  First version 5.0b3
+		2011/06/12  Update to 5.0b5
+		2011/06/26  Update to 5.0
+Current:	2011/07/14  Update to 5.0.1

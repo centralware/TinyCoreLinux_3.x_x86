@@ -1,0 +1,15 @@
+Title:          mysql-doc.tcz
+Description:    SQL database server and tools
+Version:        5.1.40
+Author:         MySQL AB
+Original-site:  http://www.mysql.com
+Copying-policy: GPL v2 for GPL (free) distributions
+Size:           3.2M
+Extension_by:   bmarkus
+Comments:       Doc files and sample configurations
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/27 First version

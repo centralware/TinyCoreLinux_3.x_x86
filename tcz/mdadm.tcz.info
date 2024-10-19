@@ -1,0 +1,14 @@
+Title:		mdadm.tcz
+Description:	mdadm - Software raid tools for Linux
+Version:	3.2
+Author:		Neil Brown
+Original-site:	http://www.kernel.org
+Copying-policy:	GPL (see /usr/local/share/doc/License/mdadm-copying.txt)
+Size:		348K
+Extension_by:	gutmensch
+Comments:	Create, assemble, monitor your Linux software raids.
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2010/12/08	Initial version 3.1.4 for tc 3.x
+		2010/12/19	Updated udev rule installer
+Current:	2011/02/06	Bump to 3.2

@@ -1,0 +1,15 @@
+Title:          madwifi.tcz
+Description:    MadWifi WLAN drivers 	 	
+Version:        snapshot
+Author:         Sam Leffler, Errno Consulting
+Original-site:  http://madwifi-project.org/
+Copying-policy: GPL v2
+Size:           316K
+Extension_by:   blofsy
+Comments:       MadWifi is one of the most advanced WLAN drivers available 
+		for Linux today. It is stable and has an established userbase.
+			 	
+		Source and build instructions: 
+		http://snapshots.madwifi-project.org/madwifi-0.9.4-current.tar.gz
+Current:        2010/07/23 20:23:59 madwifi snapshot 
+

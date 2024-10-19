@@ -1,0 +1,11 @@
+Title:		live-media.tcz
+Description:	C++ libraries for multimedia streaming, using open standard protocols (RTP/RTCP, RTSP, SIP). 
+Version:	2011.01.24
+Author:		various
+Original-site:	http://live555.com/liveMedia/
+Copying-policy:	LGPL
+Size:		2.3M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/01/25 First Version

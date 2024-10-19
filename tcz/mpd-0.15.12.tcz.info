@@ -1,0 +1,101 @@
+Title:          mpd-0.15.12.tcz
+Description:    Music Player Daemon (MPD) is a flexible, powerful, server-side 
+                application for playing music.
+Version:        0.15.12
+Author:         Max Kellermann, Avuton Olrich, ...
+Original-site:  http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki
+Copying-policy: GPLv2
+Size:           148K
+Extension_by:   TaoTePuh
+Comments:       Music Player Daemon (MPD) is a flexible, powerful, server-side
+                application for playing music. Through plugins and libraries it
+                can play a variety of sound files while being controlled by its
+                network protocol.
+                
+                CONFIGURATION
+                -------------
+                This version comes without any pre-configuration. Only a 
+                sample configuration file is available.
+                
+                Copy example configuration
+                  tce-load -i mpd-0.15.12-doc
+                  sudo cp /usr/local/share/doc/mpd/mpdconf.example /etc/mpd.conf
+                Modify (with sudo) /etc/mpd.conf according to your requirements.
+                The required directories must be created if necessary.
+                Put mpd.conf in your backup if /etc is not persistent
+                  echo "etc/mpd.conf" >> /opt/.filetool.lst
+
+                START mpd
+                ---------
+                sudo /usr/local/bin/mpd /etc/mpd.conf
+                Save this (without sudo) in your /opt/bootlocal.sh if mpd should
+                to be started automatically at boot time.
+                
+                STOP mpd
+                --------
+                sudo killall mpd
+                
+                
+                This version of mpd was compiled with the following options :
+
+                ########### MPD CONFIGURATION ############
+                Client Support:
+                IPv6 support ..................enabled
+                TCP support ...................enabled
+                Unix domain socket support ....enabled
+
+                Playback Support:
+                ALSA support ..................enabled
+                FIFO support ..................enabled
+                HTTP daemon support ...........enabled
+                JACK support ..................enabled
+                libao support .................enabled
+                OSS support ...................enabled
+                OS X support ..................disabled
+                Pipeline output support .......disabled
+                PulseAudio support ............enabled
+                Media MVP support .............enabled
+                SHOUTcast support .............enabled
+                Solaris /dev/audio support ....disabled
+
+                Streaming Encoder Support:
+                LAME mp3 encoder ..............enabled
+                Ogg Vorbis encoder ............enabled
+
+                File Format Support:
+                AAC support ...................enabled
+                C64 SID support ...............disabled
+                FFMPEG support ................enabled
+                FLAC support ..................enabled
+                fluidsynth MIDI support .......disabled
+                MikMod support ................disabled
+                MODPLUG support ...............enabled
+                MAD mp3 decoder support .......enabled
+                MP4 support ...................enabled
+                Musepack (MPC) support ........enabled
+                OggFLAC support ...............enabled(FLAC 1.1.3)
+                Ogg Vorbis support ............enabled
+                  using tremor.................no
+                Wave file support .............enabled
+                WavPack support ...............enabled
+                wildmidi MIDI support .........disabled
+
+                Archive support:
+                BZ2 archives support ..........enabled
+                ISO 9660 archives support .....enabled
+                ZIP archives support ..........enabled
+
+                Streaming support:
+                last.fm radio support .........enabled
+                libcurl support (streaming) ...enabled
+                libmms support ................enabled
+
+                Other features:
+                ID3 tag support ...............enabled
+                libsamplerate support .........enabled
+                Zeroconf support ..............avahi
+                libcue support ................enabled
+                ##########################################
+
+Change-log:
+Current:        2010/09/05 First Version, 0.15.12

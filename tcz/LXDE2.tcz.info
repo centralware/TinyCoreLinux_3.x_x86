@@ -1,0 +1,17 @@
+Title:          LXDE2.tcz
+Description:    LXDE meta extension with PCManFM2 (TESTING)
+Version:        0.5.0
+Author:         B. Markus
+Original-site:  No site, contact bmarkus@hasix.org
+Copying-policy: Free
+Size:		4.0K
+Extension_by:   bmarkus
+Comments:       LXDE packed with PCManFM2, the next generation file and desktop manager
+                ----
+                Binaries only
+                ----
+                Built for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/05/29 First version, 0.4.0
+Current:        2011/08/17 Updated for PCManFM/libfm and TC 3.8

@@ -1,0 +1,26 @@
+Title:          LXDE.tcz
+Description:    Loads all components for LXDE and adds TC specific files
+Version:        1.6
+Author:         B. Markus
+Original-site:  No site, contact bmarkus@hasix.org
+Copying-policy: Free
+Size:		4.0K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+Change-log:     2009/11/11 First version
+                2009/11/12 Initial TC menu item creation bug fixed
+                2009/11/13 Added appbrowser & cpanel icons for MC compatibility
+                2009/11/16 Fixed initial config file copy bug when mounted
+                2009/11/23 hicolor-icon-theme.tcz added to dependency list
+                2009/11/28 Default icon theme changed to LXDE's built-in
+                2010/04/17 Configuration changes
+                2010/04/25 Dropped lxterminal dependency, configuration changes
+                2010/09/14 aterm replaced with urxvt for UTF-8 compatibility
+Current:        2011/08/02 Adjusted to TC 3.8.rc3
+

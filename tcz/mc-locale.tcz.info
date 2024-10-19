@@ -1,0 +1,27 @@
+Title:          mc-locale.tcz
+Description:    User shell with text-mode full-screen interface
+Version:        4.7.5.4
+Author:         Various
+Original-site:  http://www.midnight-commander.org
+Copying-policy: GPL v2
+Size:		836K
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC 3.x/4.x
+                ----
+                PPI compatible
+Change-log:     2010/05/11 First version, 4.7.0.5
+                2010/06/05 Updated to 4.7.0.6
+                2010/07/06 Updated to 4.7.0.7
+                2010/08/06 Updated to 4.7.0.8
+                2010/09/10 Updated to 4.7.0.9
+                2010/11/09 Updated to 4.7.0.10
+                2011/02/03 Added freedesktop.org menu
+                2011/02/08 freedesktop.org menu corrected
+Current:        2011/09/18 Updated to 4.7.5.4
+
+
+
+
+

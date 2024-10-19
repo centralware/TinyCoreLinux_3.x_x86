@@ -1,0 +1,10 @@
+usr/local/bin/mpc
+usr/local/lib/libmpdclient.so
+usr/local/lib/libmpdclient.so.2
+usr/local/lib/libmpdclient.so.2.0.1
+usr/local/share/doc/libmpdclient/COPYING
+usr/local/share/doc/mpc/COPYING
+usr/local/share/doc/mpc/mpc-completion.bash
+usr/local/share/doc/mpc/mpd-m3u-handler.sh
+usr/local/share/doc/mpc/mpd-pls-handler.sh
+usr/local/share/doc/mpc/mppledit

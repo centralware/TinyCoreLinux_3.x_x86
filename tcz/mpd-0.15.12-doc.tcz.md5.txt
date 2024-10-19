@@ -1,0 +1,1 @@
+e5538c86f4ae16be5779c8fa1e55de90  mpd-0.15.12-doc.tcz

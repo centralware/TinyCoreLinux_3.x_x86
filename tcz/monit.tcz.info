@@ -1,0 +1,43 @@
+Title:          monit.tcz
+Description:    Monit is a free open source utility for managing and monitoring, processes, programs, files, 
+directories and filesystems on a UNIX system. Monit conducts automatic maintenance and repair and can execute 
+meaningful causal actions in error situations.
+Compiled for core v3.x
+Version:        5.3.2
+Author:         Tildeslash Ltd
+Original-site:  http://mmonit.com/monit/
+Copying-policy: GNU AFFERO GENERAL PUBLIC LICENSE
+Size:		1.3M
+Extension_by:   Remus
+Comments:       You can use Monit to monitor daemon processes or similar programs running on localhost. Monit is 
+particular useful for monitoring daemon processes, such as those started at system boot time from /etc/init.d/. For 
+instance sendmail, sshd, apache and mysql.
+
+In difference to many monitoring systems, Monit can act if an error situation should occur, e.g.; if sendmail is not 
+running, Monit can start sendmail again automatically or if apache is using too much resources (e.g. if a DoS attack 
+is in progress) Monit can stop or restart apache and send you an alert message. Monit can also monitor process 
+characteristics, such as; how much memory or cpu cycles a process is using.
+
+You can also use Monit to monitor files, directories and filesystems on localhost. Monit can monitor these items for 
+changes, such as timestamps changes, checksum changes or size changes. This is also useful for security reasons - you 
+can monitor the md5 or sha1 checksum of files that should not change and get an alert or perform an action if they 
+should change.
+
+Monit can monitor network connections to various servers, either on localhost or on remote hosts. TCP, UDP and Unix 
+Domain Sockets are supported. Network test can be performed on a protocol level; Monit has built-in tests for the 
+main Internet protocols, such as HTTP, SMTP etc. Even if a protocol is not supported you can still test the server as 
+you can configure Monit to send any data and test the response from the server.
+---
+HowTo
+Edit /etc/monitrc as required
+Test /etc/monitrc syntax with $ monit -t
+Start monit with $ monit
+Stop monit with $ monit quit
+Add etc/monitrc to your /opt/.filetools.lst file
+Want monit to autostart with core, $ echo monit >> /opt/bootlocal.sh
+Save changes with $ filetool.sh -b
+
+  
+
+Change-log:     03-02-2012 First Release
+Current:        03-02-2012 First Release

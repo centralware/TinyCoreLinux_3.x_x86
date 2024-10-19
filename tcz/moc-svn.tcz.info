@@ -1,0 +1,33 @@
+Title:          moc-svn.tcz
+Description:    MOC (music on console) 
+Version:        svn
+Author:         Damian Pietras
+Original-site:  http://moc.daper.net
+Copying-policy: GPL v2
+Size:           196K
+Extension_by:   blofsy
+Comments:       MOC is a console audio player for LINUX/UNIX designed to be powerful 
+		and easy to use. You just need to select a file from some directory using the menu similar to
+		Midnight Commander, and MOC will start playing all files in this directory beginning from the
+		chosen file. There is no need to create play lists like in other players. If you want to combine
+		some files from one or few directories on one play list, you can do this. The play list will 
+		be remembered between runs or you can save it as an m3u file to load it whenever you want.
+		
+		Need the console where MOC is running for more important things? Need to close the X terminal emulator? 
+		You don't have to stop playing - just press q and the interface will be detached leaving the 
+		server running. You can attach it later, or you can attach one interface in the console, and 
+		another in the X terminal emulator, no need to switch just to play another file.
+		
+		MOC plays smoothly, regardless of system or I/O load because it uses the output buffer in a 
+		separate thread. It doesn't cause gaps between files, because the next file to be played is 
+		precached while playing the current file. Internet stream (Icecast, Shoutcast) are supported.
+		Key mapping can be fully customized.
+		
+		Supported file formats are: mp3, Ogg Vorbis, FLAC, Musepack, Speex, WAVE, AIFF, AU (and other 
+		less popular formats supported by libsndfile. New formats support is under development.
+
+		Supported formats in this version: .ogg .flac .vw .mpc .mp3
+		Source,licence and build instructions:
+		svn://daper.net/moc/trunk
+Current:        2010/07/28 18:58:56 , moc-svn svn 
+

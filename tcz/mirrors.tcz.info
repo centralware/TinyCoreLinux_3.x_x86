@@ -1,0 +1,13 @@
+Title:          mirrors.tcz
+Description:    Current mirror list.
+Version:        n/a
+Author:         n/a
+Original-site:  n/a
+Copying-policy: n/a
+Size:		4K
+Extension_by:   roberts
+Comments:       Data file of current mirrors. 
+		See /usr/local/share/mirrors
+Change-log:     
+                2011/02/22 Original
+Current:        2011/05/14 Original

@@ -1,0 +1,15 @@
+Title:          mpd-doc.tcz
+Description:    Music Player Daemon (MPD) is a flexible, powerful, server-side 
+                application for playing music.
+Version:        0.16
+Author:         Max Kellermann, Avuton Olrich, ...
+Original-site:  http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki
+Copying-policy: GPLv2
+Size:           40K
+Extension_by:   TaoTePuh
+Comments:       Doc files
+Change-log:     2010/09/08 First Version, 0.15.12
+                2010/09/21 0.15.12, patched, now it works with gmpc-jamendo
+                           Added support for C64 SID, fluidsynth MIDI, MikMod,
+                           wildmidi MIDI
+Current:        2010/12/16 Version 0.16

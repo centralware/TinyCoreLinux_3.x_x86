@@ -1,0 +1,11 @@
+Title:		mtools.tcz
+Description:	a collection of utilities to access MS-DOS disks
+Version:	4.0.12
+Author:		David Niemi and Alain Knaff
+Original-site:	http://www.gnu.org/software/mtools/
+Copying-policy:	GNU General Public License, Version 3
+Size:		148.0K
+Extension_by:	jls_legalize (unsenepopiu at tin.it)
+Comments:	This extension is PPI compatible
+Change-log:	----
+Current:	2009/11/05 First Version

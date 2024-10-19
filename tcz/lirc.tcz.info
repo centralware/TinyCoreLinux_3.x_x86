@@ -1,0 +1,11 @@
+Title:          lirc.tcz
+Description:    LIRC is a package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
+Version:        0.8.7pre2
+Author:		Various
+Original-site:  http://www.lirc.org/
+Copying-policy: GPL
+Size:           360k
+Extension_by:   Thomas Genty <tomlohave@gmail.com>
+Comments:       One module doesn't compil : parallel	
+Change-log:     2010/08/16 First version
+Current:        2010/08/16 First version

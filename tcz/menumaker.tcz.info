@@ -1,0 +1,14 @@
+Title:          menumaker.tcz
+Description:    A menu generator for a number of window managers.
+Version:        0.99.7
+Author:         Oleg A. Khlybov and Steve Fullenwider
+Original-site:  http://menumaker.sourceforge.net/
+Copying-policy: BSD
+Size:		176.1 kB
+Extension_by:   andy_jp
+Comments:       MenuMaker can automatically generate menus based on your installed applications.
+		To see a list of supported window managers, type:
+		mmaker --help
+		This extension is PPI compatible.
+Change-log:     ----
+Current:	2010/08/08 - Extension Created (Version 0.99.7)

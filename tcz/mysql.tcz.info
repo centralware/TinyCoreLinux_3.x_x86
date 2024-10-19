@@ -1,0 +1,22 @@
+Title:          mysql.tcz
+Description:    SQL database server and tools
+Version:        5.1.40
+Author:         MySQL AB
+Original-site:  http://www.mysql.com
+Copying-policy: GPL v2 for GPL (free) distributions
+Size:           7.1M
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                Server starts automatically when loaded
+                ----
+                Databases stored in /usr/local/var/mysql
+                Config file /usr/local/etc/my.cnf
+                ----
+                No initial root password set
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/27 First version

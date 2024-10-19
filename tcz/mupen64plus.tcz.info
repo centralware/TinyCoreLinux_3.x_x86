@@ -1,0 +1,32 @@
+Title:          mupen64plus.tcz
+Description:    N64 Emulator (TESTING)
+Version:        1.5
+Author:         Richard
+Original-site:  http://code.google.com/p/mupen64plus/
+Copying-policy: GPLv2, Bitstream Vera Sans, bzip2
+Size:		2.0M
+Extension_by:   robc
+Comments:       This package requires SDL, gtk2, 
+		Xorg-7.5, shared-mime-info, and their deps.
+		
+		No ROMs/games are included with this package.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://code.google.com/p/mupen64plus/
+		for more information.
+		
+		----------------------------------------------
+		
+		This extension is PPI compatible.
+		
+Change-log:     2009/5/14 Original
+		2009/06/22 Rebuilt for TC 2.X
+		2009/10/09 Replaced user.tar.gz
+		2009/11/30 Rebuilt for TC 3.x, fixed 
+			.desktop file, fixed bugs
+Current:	2009/11/30 Rebuilt for TC 3.x, fixed 
+			.desktop file, fixed bugs

@@ -1,0 +1,19 @@
+Title:          lxinput-locale.tcz
+Description:    Desktop-independent keyboard and mouse configuration
+Version:        0.3.1
+Author:         Hong Yen Jee (PCMan)
+Original-site:  http://lxde.org
+Copying-policy: GPL v3
+Size:		56K
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/05/19 First version, 0.1.1
+                2010/08/08 Updated to 0.3.0
+Current:        2011/07/30 Updated to 0.3.1
+
+
+

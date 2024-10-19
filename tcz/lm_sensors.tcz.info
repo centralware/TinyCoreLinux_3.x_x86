@@ -1,0 +1,19 @@
+Title:          lm_sensors.tcz
+Description:    Hardware health monitoring tool
+Version:        3.1.2
+Author:         Frodo Looijaard, Merlin Hughes, Bob Schlaermann, Mark M. Hoffman, Jean Delvare
+Original-site:  http://www.lm-sensors.org
+Copying-policy: GPL v2
+Size:           131k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+                ----
+                First run sensors-detect to identify available sensors, then
+                check /etc/sysconfig/lm_sensors for necessary kernel moduls and add them
+                to modprobe in bootlocal.sh
+Change-log:     ----
+Current:        2010/07/07 First version, 3.1.2

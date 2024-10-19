@@ -1,0 +1,18 @@
+Title:		mpd-minimal.tcz
+Description:	Music Player Daemon.
+Version:	0.15.8
+Author:		Max Kellermann
+Original-site:  http://mpd.wikia.com/
+Copying-policy:	GPL
+Size:		2.1M
+Extension_by:	Davor Serfez
+Comments:	Clients: IPv6, TCP, Unix domain socket
+		Playback: ALSA, FIFO, HTTP daemon, libao, OSS
+		Streaming Encoder: Ogg Vorbis
+		File Format: AAC, FLAC, MAD mp3, MP4 , 
+			OggFLAC (FLAC 1.1.3), Ogg Vorbis 
+		Streaming: libcurl, libmms
+		Other features: ID3 tag, libsamplerate 
+
+Change-log:     
+Current: 	2010/03/02 - 1st version: 0.15.8

@@ -1,0 +1,11 @@
+Title:		ModemManager.tcz
+Description:	Mobile broadband modem manager.
+Version:	0.4
+Author:		Tambet Ingo
+Original-site:	http://projects.gnome.org/NetworkManager/
+Copying-policy:	GPL-2
+Size:		224.0K
+Extension_by:	Arslan S.
+Comments:	ModemManager is automatically started by NetworkManager if it is available.
+Change-log:	---
+Current:	2010/07/07 First Version
