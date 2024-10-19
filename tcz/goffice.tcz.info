@@ -1,0 +1,27 @@
+Title:          goffice.tcz
+Description:    A glib/gtk set of document centric objects and utilities
+Version:        0.8.17
+Author:         Jody Goldberg, Jean Brefort, Emmanuel Pacaud, Morten Welinder, Chris Lahey
+Original-site:  ftp://ftp.gnome.org/pub/gnome/sources/goffice/
+Copying-policy: GPL v2
+Size:		872K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/06 First version, 0.8.5
+                2010/06/29 Updated to 0.8.7
+                2010/07/31 Updated to 0.8.8
+                2010/08/17 Updated to 0.8.9
+                2010/09/10 Updated to 0.8.10
+                2010/10/02 Updated to 0.8.11
+                2010/11/26 Updated to 0.8.12
+                2011/02/03 Updated to 0.8.13
+                2011/03/25 Updated to 0.8.14
+                2011/05/22 Updated to 0.8.15
+                2011/06/19 Updated to 0.8.16
+Current:        2011/08/01 Updated to 0.8.17
+
+

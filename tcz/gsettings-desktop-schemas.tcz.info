@@ -1,0 +1,11 @@
+Title:		gsettings-desktop-schemas.tcz
+Description:	Shared GSettings schemas for the desktop.
+Version:	3.0.1
+Author:		---
+Original-site:	http://live.gnome.org/
+Copying-policy:	GPL-2
+Size:		16K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/05/07 First Version

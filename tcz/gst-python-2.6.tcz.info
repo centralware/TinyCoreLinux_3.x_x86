@@ -1,0 +1,18 @@
+Title:          gst-python-2.6.tcz
+Description:    python gstreamer bindings
+Version:        0.10.18
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size:		372K
+Extension_by:   juanito, Arslan S.
+Comments:       python bindings for gstreamer
+                ----------
+                requires the glib2, libxml2, gstreamer, python, openssl-0.9.8m,
+                sqlite3 and tcl_tk extensions
+                ----------
+                this extension contains:
+                gst-python-0.10.18 - GLPLv2.1 - http://gstreamer.freedesktop.org/src/gst-python/gst-python-0.10.18.tar.bz2
+                ----------
+Change-log:     2009/11/08 First version 0.10.17 by Juanito
+Current:   	2010/03/16 Updated to 0.10.18 (Arslan S.)

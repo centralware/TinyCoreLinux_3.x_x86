@@ -1,0 +1,10 @@
+usr/local/include/gps.h
+usr/local/include/gpsd.h
+usr/local/include/libgpsmm.h
+usr/local/lib/libgps.a
+usr/local/lib/libgps.la
+usr/local/lib/libgpsd.a
+usr/local/lib/libgpsd.la
+usr/local/lib/pkgconfig/Qgpsmm.pc
+usr/local/lib/pkgconfig/libgps.pc
+usr/local/lib/pkgconfig/libgpsd.pc

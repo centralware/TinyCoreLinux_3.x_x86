@@ -1,0 +1,17 @@
+Title:		gst-plugins-base-dev.tcz
+Description:	GStreamer Base Plugins, development files.
+Version:	0.10.34
+Author:		various
+Original-site:	http://gstreamer.freedesktop.org
+Copying-policy:	LGPL
+Size:		140K
+Extension_by:	juanito, Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2009/05/04 First version by Roberto A. Foglietta
+		2009/11/08 [juanito] updated 0.10.22 -> 0.10.25 & renamed tczl
+		2010/03/16 Updated to 0.10.28 (Arslan S.)
+		2010/07/19 Updated to 0.10.30 (Arslan S.)
+		2010/08/06 Fixed missing libtool archive files (Arslan S.)
+		2010/12/08 Updated to 0.10.31 (Arslan S.)
+		2011/02/08 Updated to 0.10.32, enabled experimental plugins, enabled orc acceleration and disabled gnome-vfs (Arslan S.)
+Current:	2011/06/12 Updated to 0.10.34 (Arslan S.)

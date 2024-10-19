@@ -1,0 +1,17 @@
+Title:          gpicview.tcz
+Description:    A Simple and Fast GTK2 based Image Viewer
+Version:        0.2.2
+Author:         Hon Jen Yee (PCMan) and others
+Original-site:  http://lxde.sourceforge.net/gpicview/
+Copying-policy: GPL v2
+Size:		48K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/09/24 First version, 0.2.1
+Current:        2011/08/02 Updated to 0.2.2
+
+

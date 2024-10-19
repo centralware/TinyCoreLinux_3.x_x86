@@ -1,0 +1,19 @@
+Title:          gs.tcz
+Description:    eps ghostscript
+Version:        7.05.6
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 3.0M
+Extension_by:   juanito
+Comments:       eps ghostscript and ghostscript fonts for use with cups & hplip
+                ----------
+                This extension contains:
+                espgs-7.05.6-source - GPLv2 - http://www.cups.org/espgs/software.php espgs-7.05.6-source.tar.bz2
+                ghostscript fonts from dsl - GPLv2
+Change-log:     2008/09/06
+                changed user.tar.gz -> start-up script
+                changed tczl -> tcz since extension has no libs
+                2008/10/08
+                modified start-up script to check for /usr/local/etc/cups
+Current:        2009/12/03

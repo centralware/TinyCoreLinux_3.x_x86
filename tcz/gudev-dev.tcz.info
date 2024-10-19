@@ -1,0 +1,11 @@
+Title:		gudev-dev.tcz
+Description:	GObject bindings for libudev, development files.
+Version:	151
+Author:		Various
+Original-site:	http://www.kernel.org/pub/linux/utils/kernel/hotplug/
+Copying-policy:	GPL-2
+Size:		8.0K
+Extension_by:	Arslan S.
+Comments:	This extension is not PPI compatible.
+Change-log:	2010/02/15 Original 151
+Current:	2010/07/22 Rebuilt

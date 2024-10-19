@@ -1,0 +1,22 @@
+Title:          gutenprint.tcz
+Description:    Gutenprint printer drivers for CUPS 
+Version:        5.2.4
+Author:         The Gutenprint Project Team
+Original-site:  gutenprint.sourceforge.net
+Copying-policy: GPL
+Size:           1928K
+Extension_by:   perthie
+Comments:       The Gutenprint package contains plug-and-play drivers
+                for hundreds of printers. It generates PPD files 
+                dynamically to save space on your hard drive.
+                ----------
+                Your /opt/.filetool.lst should include:
+                  etc/cups/printers.conf
+                  etc/cups/ppd
+                ----------                
+                To detect and install a local printer automatically, open the
+                CUPS web interface and select:
+                  Administration > Find New Printers
+                ----------               
+Change-log:     2009/08/30 - first version
+Current:        2009/10/07 - updated for CUPS 1.3.11

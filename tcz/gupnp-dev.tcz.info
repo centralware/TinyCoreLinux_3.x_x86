@@ -1,0 +1,16 @@
+Title:          gupnp-dev.tcz
+Description:    gupnp dev files
+Version:        0.16.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 92KB
+Extension_by:   juanito
+Comments:       dev files for gupnp
+                ----------
+                This extension contains:
+                gupnp-0.16.1 - GPLv2 - http://www.gupnp.org/sources/gupnp/gupnp-0.16.1.tar.gz
+                ----------
+Change-log:     2010/09/29
+                updated 0.14.0 -> 0.16.1
+Current:        2011/05/16

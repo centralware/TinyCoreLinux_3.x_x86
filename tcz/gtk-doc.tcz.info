@@ -1,0 +1,12 @@
+Title:		gtk-doc.tcz
+Description:	GTK+ API documentation tools.
+Version:	1.15
+Author:		Damon Chaplin, Owen Taylor
+Original-site:	http://www.gtk.org/gtk-doc/
+Copying-policy:	GPL-2/FDL
+Size:		512.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/01/08 Original 1.13
+		2010/07/11 Updated to 1.14
+Current:	2010/11/01 Updated to 1.15

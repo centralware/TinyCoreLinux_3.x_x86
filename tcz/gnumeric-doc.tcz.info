@@ -1,0 +1,35 @@
+Title:          gnumeric-doc.tcz
+Description:    Spreadsheet program, part of GNOME
+Version:        1.10.17
+Author:         Jody Goldberg, Jean Brefort, Emmanuel Pacaud, Morten Welinder, Chris Lahey
+Original-site:  http://projects.gnome.org/gnumeric/
+Copying-policy: GPL v2
+Size:		12K
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                While it is part of GNOME, doesn't require GNOME, works fine on stock TC
+                or other desktop environments like LXDE or Xfce4
+                ----
+                PPI compatible
+Change-log:     2010/06/06 First version, 1.10.5
+                2010/06/17 Updated to 1.10.6
+                2010/06/29 Updated to 1.10.7
+                2010/07/31 Updated to 1.10.8
+                2010/08/17 Updated to 1.10.9
+                2010/09/10 Updated to 1.10.10
+                2010/10/02 Updated to 1.10.11
+                2010/11/26 Updated to 1.10.12
+                2011/02/03 Updated to 1.10.13
+                2011/03/26 Updated to 1.10.14
+                2011/05/22 Updated to 1.10.15
+                2011/06/19 Updated to 1.10.16
+Current:        2011/08/01 Updated to 1.10.17
+
+
+
+
+
+

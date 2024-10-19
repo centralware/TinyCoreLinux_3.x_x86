@@ -1,0 +1,19 @@
+Title:          gsmartcontrol.tcz
+Description:    gsmartcontrol
+Version:        0.8.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 416KB
+Extension_by:   juanito
+Comments:       GUI for smartmontools
+                ----------
+                requires glib2, gtk2, atk, cairo, pango, pixman,
+                expat2, fontconfig, graphics-libs-1, libxml2,
+                ttf-bitstream-vera, libsigc++, glibmm, cairomm,
+                pangomm, gtkmm, pcre and smartmontools extensions
+                ----------
+                This extension contains:
+                gsmartcontrol-0.8.4 - GPLv2 - http://artificialtime.com/gsmartcontrol/gsmartcontrol-0.8.4.tar.bz2
+Change-log:     First version
+Current:        2009/05/19

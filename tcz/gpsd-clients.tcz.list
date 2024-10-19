@@ -1,0 +1,12 @@
+usr/local/bin/cgps
+usr/local/bin/gpscat
+usr/local/bin/gpsctl
+usr/local/bin/gpsdecode
+usr/local/bin/gpsfake
+usr/local/bin/gpsmon
+usr/local/bin/gpspipe
+usr/local/bin/gpsprof
+usr/local/bin/gpxlogger
+usr/local/bin/lcdgps
+usr/local/bin/xgps
+usr/local/bin/xgpsspeed

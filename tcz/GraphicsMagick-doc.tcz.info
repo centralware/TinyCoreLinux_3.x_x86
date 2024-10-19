@@ -1,0 +1,21 @@
+Title:          GraphicsMagick-doc.tcz
+Description:    Suite to create, edit and compose bitmap images
+Version:        1.3.12
+Author:         Various
+Original-site:  http://www.graphicsmagick.org
+Copying-policy: GPL
+Size:           2.2M
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                An ImageMagick alternative with nearly the same
+                functionality but smaller and faster
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2010/06/22 First version, 1.3.12
+
+
+

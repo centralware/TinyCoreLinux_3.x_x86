@@ -1,0 +1,1 @@
+05c199bbeb4d6e8291f2a2f303a5d018  gpsd-dev.tcz
