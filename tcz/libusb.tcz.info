@@ -1,0 +1,19 @@
+Title:          libusb.tcz
+Description:    usb library
+Version:        1.0.8
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 28KB
+Extension_by:   juanito
+Comments:       libusb-1.0 and libusb-0.x compatibility wrapper
+                ----------
+                This extension contains:
+                libusb-1.0.8 - GPLv2.1 - http://garr.dl.sourceforge.net/sourceforge/libusb/libusb-1.0.8.tar.bz2
+                libusb-compat-0.1.3 - LGPLv2.1 - http://garr.dl.sourceforge.net/sourceforge/libusb/libusb-compat-0.1.3.tar.bz2
+                ----------
+Change-log:     2009/10/06
+                updated 1.0.3 -> 1.0.6
+                2009/12/03
+                updated 1.0.6 -> 1.0.8, separated out dev files
+Current:        2010/07/07

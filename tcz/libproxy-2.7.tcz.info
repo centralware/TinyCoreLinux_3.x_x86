@@ -1,0 +1,21 @@
+Title:          libproxy-2.7.tcz
+Description:    dynamic proxy lib
+Version:        0.4.6
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		104KB
+Extension_by:   juanito
+Comments:       allows dynamic adjustment to changing network topology and
+                a standard way of dealing with proxy settings across all scenarios
+                ----------
+                optionally contains modules to interface with python and gnome
+                ----------
+                this extension contains:
+                ibproxy-0.4.6 - LGPLv2.1 - http://libproxy.googlecode.com/files/libproxy-0.4.6.tar.gz
+                ----------
+Change-log:     2009/11/08
+                recompiled against python-2.7 and updated 0.3.1 -> 0.4.6
+                2010/09/03
+                added symlink for libproxy.so.0
+Current:   	2011/03/11

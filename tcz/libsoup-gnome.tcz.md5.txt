@@ -1,0 +1,1 @@
+0a38a0c19da50997cd4016a0fc2df8fb  libsoup-gnome.tcz

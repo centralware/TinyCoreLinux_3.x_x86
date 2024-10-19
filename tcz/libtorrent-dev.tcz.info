@@ -1,0 +1,23 @@
+Title:          libtorrent-dev.tcz
+Description:    libTorrent dev files
+Version:        0.12.6 
+Author:         Jari Sundell
+Original-site:  http://libtorrent.rakshasa.no/
+Copying-policy: GPL
+Size:           80k
+Extension_by:   andriscom
+Comments:       LibTorrent is a BitTorrent library written in C++ for *nix, with a focus on high performance and good code.
+
+                The following patch was applied:
+                 http://www.ha-obsession.net/2010/02/rtorrent-patch-almost-linear.html
+
+                Built with CFLAGS: -march=i486 -mtune=i686 -Os -pipe
+                Built with CXXFLAGS: -march=i486 -mtune=i686 -Os -pipe
+                Built with LDFLAGS: -Wl,-O1
+                Built with the following options:
+                ./configure --prefix=/usr/local --disable-debug --with-posix-fallocate
+Source:         http://libtorrent.rakshasa.no/downloads/libtorrent-0.12.6.tar.gz
+Change-log:     2010/09/28 First version (0.12.6)
+                2010/10/16 Version: 0.12.6 - Added: CFLAGS, CXXFLAGS, LDFLAGS, file preallocation with posix-fallocate, almost-linear-downloading.patch
+Current:        2010/10/16 Version: 0.12.6 - Added: CFLAGS, CXXFLAGS, LDFLAGS, file preallocation with posix-fallocate, almost-linear-downloading.patch
+

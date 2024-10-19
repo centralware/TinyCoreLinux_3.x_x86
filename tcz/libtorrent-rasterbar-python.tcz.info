@@ -1,0 +1,16 @@
+Title:		libtorrent-rasterbar-python.tcz
+Description:	A C++ bittorrent library, python bindings.
+Version:	0.15.7
+Author:		Arvid Norberg
+Original-site:	http://code.google.com/p/libtorrent/
+Copying-policy:	New BSD License
+Size:		864K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2009/12/08 Original 0.14.7
+		2010/01/28 Updated to 0.14.8
+		2010/07/09 Updated to 0.14.10
+		2010/10/09 Updated to 0.15.4
+		2011/02/03 Updated to 0.15.5
+		2011/04/18 Updated to 0.15.6
+Current:	2011/08/06 Updated to 0.15.7

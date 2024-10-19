@@ -1,0 +1,21 @@
+Title:          libxmlrpc.tcz
+Description:    XML-RPC library
+Version:        1.16.31 
+Author:         Eric Kidd et al
+Original-site:  http://xmlrpc-c.sourceforge.net/
+Copying-policy: http://xmlrpc-c.svn.sourceforge.net/viewvc/xmlrpc-c/trunk/doc/COPYING
+Size:           852k
+Extension_by:   andriscom
+Comments:       A lightweight RPC library based on XML and HTTP.
+                XML/RPC for C/C++ (Xmlrpc-c) is developed and distributed by a Sourceforge project.
+
+                Built with CFLAGS: -march=i486 -mtune=i686 -Os -pipe
+                Built with CXXFLAGS: -march=i486 -mtune=i686 -Os -pipe
+                Built with LDFLAGS: -Wl,-O1
+                Built with the following options:
+                ./configure --prefix=/usr/local
+Source:         http://xmlrpc-c.svn.sourceforge.net/svnroot/xmlrpc-c/stable
+Change-log:     2010/09/28 First version (1.06.41 Super Stable)
+                2010/10/16 Version: 1.16.31 - Added: CFLAGS, CXXFLAGS, LDFLAGS, dynamically linked curl
+Current:        2010/10/16 Version: 1.16.31 - Added: CFLAGS, CXXFLAGS, LDFLAGS, dynamically linked curl
+

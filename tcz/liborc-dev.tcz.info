@@ -1,0 +1,11 @@
+Title:		liborc-dev.tcz
+Description:	The Oil Runtime Compiler, development files.
+Version:	0.4.14
+Author:		various
+Original-site:	http://code.entropywave.com/projects/orc/
+Copying-policy:	custom
+Size:		228K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2011/01/25 First Version 0.4.11
+Current:	2011/06/14 Updated to 0.4.14

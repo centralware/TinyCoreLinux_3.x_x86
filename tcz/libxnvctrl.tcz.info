@@ -1,0 +1,11 @@
+Title:		libxnvctrl.tcz
+Description:	NVCtrl library.
+Version:	1.25
+Author:		NVIDIA
+Original-site:	http://www.nvidia.com
+Copying-policy:	custom
+Size:		64.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/12/09 First Version

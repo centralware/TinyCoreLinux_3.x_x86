@@ -1,0 +1,5 @@
+usr/local/include/portaudio.h
+usr/local/lib/libportaudio.so
+usr/local/lib/libportaudio.so.2
+usr/local/lib/libportaudio.so.2.0.0
+usr/local/lib/pkgconfig/portaudio-2.0.pc

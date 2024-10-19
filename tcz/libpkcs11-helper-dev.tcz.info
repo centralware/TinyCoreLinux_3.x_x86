@@ -1,0 +1,13 @@
+Title:		libpkcs11-helper-dev.tcz
+Description:	pkcs11-helper - Helper tools for certificates and OpenVPN - dev files
+Version:	1.07
+Author:		Various (see /usr/local/share/doc/License/libpkcs11-helper-dev-authors.txt)
+Original-site:	http://www.opensc-project.org
+Copying-policy:	GPL (see /usr/local/share/doc/License/libpkcs11-helper-dev-copying.txt)
+Size:		204K
+Extension_by:	gutmensch
+Comments:	
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	
+Current:	2010/10/24	Initial version 1.07

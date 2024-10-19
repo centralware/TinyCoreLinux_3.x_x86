@@ -1,0 +1,7 @@
+usr/local/include/libv4l1-videodev.h
+usr/local/include/libv4l1.h
+usr/local/include/libv4l2.h
+usr/local/include/libv4lconvert.h
+usr/local/lib/pkgconfig/libv4l1.pc
+usr/local/lib/pkgconfig/libv4l2.pc
+usr/local/lib/pkgconfig/libv4lconvert.pc

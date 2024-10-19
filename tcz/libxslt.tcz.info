@@ -1,0 +1,11 @@
+Title:          libxslt-1.1.24.tcz
+Description:    LibXSLT
+Version:        1.1.24
+Author:         XMLSoft
+Original-site:  http://xmlsoft.org
+Copying-policy: MIT
+Size: 692K
+Extension_by:   Curaga
+Comments:       Add-on library for libxml2. Depends on it.
+Change-log:     
+Current:        2008/09/24 Original

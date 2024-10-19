@@ -1,0 +1,1 @@
+e018835c741b23ee5e1bb34e2472ed17  libxfce4ui-locale.tcz

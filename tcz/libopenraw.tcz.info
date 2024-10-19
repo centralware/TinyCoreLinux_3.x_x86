@@ -1,0 +1,17 @@
+Title:          libopenraw.tcz
+Description:    raw format decoder
+Version:        0.0.8
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 416KB
+Extension_by:   juanito
+Comments:       camera RAW files decoding library
+                ----------
+                can be used with the gegl extension
+                ----------
+                This extension contains:
+                libopenraw-0.0.8 - GPLv3 - http://libopenraw.freedesktop.org/download/libopenraw-0.0.8.tar.gz
+                ----------
+Change-log:     first release
+Current:        2009/09/28

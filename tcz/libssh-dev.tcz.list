@@ -1,0 +1,5 @@
+usr/local/include/libssh/callbacks.h
+usr/local/include/libssh/libssh.h
+usr/local/include/libssh/server.h
+usr/local/include/libssh/sftp.h
+usr/local/include/libssh/ssh2.h

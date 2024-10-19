@@ -1,0 +1,10 @@
+usr/local/bin/asn1Coding
+usr/local/bin/asn1Decoding
+usr/local/bin/asn1Parser
+usr/local/include/libtasn1.h
+usr/local/lib/libtasn1.a
+usr/local/lib/libtasn1.la
+usr/local/lib/libtasn1.so
+usr/local/lib/libtasn1.so.3
+usr/local/lib/libtasn1.so.3.1.6
+usr/local/lib/pkgconfig/libtasn1.pc

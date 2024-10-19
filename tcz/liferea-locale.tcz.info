@@ -1,0 +1,11 @@
+Title:		liferea-locale.tcz
+Description:	Liferea (Linux Feed Reader) is an aggregator for online news feeds, locale files.
+Version:	1.6.5
+Author:		various
+Original-site:	http://liferea.sourceforge.net/
+Copying-policy:	GPL
+Size:		508.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2011/01/03 First Version 1.6.5
+Current:	2011/01/05 Disabled nm support

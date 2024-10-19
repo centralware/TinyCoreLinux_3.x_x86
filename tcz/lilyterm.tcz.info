@@ -1,0 +1,15 @@
+Title:          lilyterm.tcz
+Description:    LilyTerm terminal emulator.
+Version:        0.9.8
+Author:         Lu, Chao-Ming
+Original-site:  http://lilyterm.luna.com.tw/index.html
+Copying-policy: GPL v2
+Size:           56K
+Extension_by:   blofsy
+Comments:       Requires: vte.tcz
+		Example config file can be found in: /usr/local/etc/xdg/lilyterm.conf. 
+	 	To use it copy the config file to ~/.config/lilyterm.conf
+		Source and build instructions: 
+		http://lilyterm.luna.com.tw/file/lilyterm-0.9.8.tar.gz
+Current:        2010/07/23 20:16:00 lilyterm 0.9.8 
+

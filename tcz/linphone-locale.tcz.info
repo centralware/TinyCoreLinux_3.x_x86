@@ -1,0 +1,15 @@
+Title:          linphone-locale.tcz
+Description:    Softphone based on SIP protocol
+Version:        3.3.2
+Author:         Various
+Original-site:  http://www.linphone.org
+Copying-policy: GPL v2
+Size:           74k
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/07/15 First version, 3.3.2
+Current:        2010/07/25 Video enabled

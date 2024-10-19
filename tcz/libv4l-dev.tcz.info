@@ -1,0 +1,19 @@
+Title:		libv4l-dev.tcz
+Description:	 Collection of video4linux support libraries. Dev files
+Version:	0.8.3
+Author:		?
+Original-site:	http://linuxtv.org
+Copying-policy:	gplv2
+Size:		12K
+Extension_by:	jls_legalize <jlslegalize at gmail dot com>
+Comments:	development files
+		----------------------------------------
+		This extension is PPI compatible
+Change-log:	2009/05/27 Initial packaging
+		2009/11/09  updated to version 0.6.1
+		2009/12/04  updated to version 0.6.3
+		2010/01/24  updated to version 0.6.4
+		2010/03/21  updated to version 0.7.91
+		2010/05/14  updated to version 0.8.0
+		2010/09/06  updated to version 0.8.1
+Current:	2011/02/16  updated to version 0.8.3

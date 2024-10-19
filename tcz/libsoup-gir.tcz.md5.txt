@@ -1,0 +1,1 @@
+13bf78088a691aa30f7d1977bba75710  libsoup-gir.tcz

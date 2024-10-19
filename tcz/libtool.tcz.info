@@ -1,0 +1,21 @@
+Title:          libtool.tcz
+Description:    library support script
+Version:        2.2.8
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 616KB
+Extension_by:   juanito
+Comments:       a generic library support script, libtool hides the complexity of using
+                shared libraries behind a consistent, portable interface.
+                ----------
+                This extension contains:
+                libtool-2.2.8 - GPLv2 - http://ftp.gnu.org/gnu/libtool/libtool-2.2.8.tar.lzma
+                ----------
+Change-log:     2009/05/08
+                updated 2.2.6a -> 2.2.6b
+                2009/12/26
+                updated 2.2.6b -> 2.2.8
+                2010/07/02
+                added libtool.m4 from libtool-dev extension
+Current:        2010/12/06

@@ -1,0 +1,1 @@
+11bf183ea3881b716e9d8955e305c76b  libraw1394-dev.tcz

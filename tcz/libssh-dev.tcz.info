@@ -1,0 +1,11 @@
+Title:		libssh-dev.tcz
+Description:	The SSH library, development files.
+Version:	0.4.4
+Author:		Aris Adamantiadis, Andreas Schneider, Nick Zitzmann, Norbert Kiesel, Jean-Philippe Garcia Ballester, Laurent Bigonville
+Original-site:	http://www.libssh.org/
+Copying-policy:	LGPL-2.1/BSD
+Size:		20.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/02 First Version

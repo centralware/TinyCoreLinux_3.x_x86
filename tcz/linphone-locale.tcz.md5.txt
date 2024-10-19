@@ -1,0 +1,1 @@
+ebdb6ced630e83897b38803302bd4d9b  linphone-locale.tcz
