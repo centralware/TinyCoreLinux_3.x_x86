@@ -1,0 +1,1 @@
+05240fa0c6c1466daeaa6713049f1e82  pidgin-otr-locale.tcz

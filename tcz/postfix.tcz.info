@@ -1,0 +1,18 @@
+Title:		postfix.tcz
+Description:	postfix - Standard MTA
+Version:	2.8-20101108
+Author:		Wietse Venema
+Original-site:	http://www.postfix.org
+Copying-policy:	IBM License (see /usr/local/share/doc/License/postfix.txt)
+Size:		3.0M
+Extension_by:	gutmensch
+Comments:	Steps:
+		1. Add "/usr/local/etc/init.d/postfix start" to your bootlocal.sh
+		2. Put mail config files (/usr/local/etc/postfix/*) and mail dirs to your backup
+
+		Maintainer contact: rsc_at_quantentunnel_de
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2010/09/26	Rebuilt for tc 3.x, support for CDB, Sqlite3, Cyrus-Sasl, OpenSSL, LDAP, Kerberos
+		2010/11/04	Linked against postgresql library and bumped to 2.8-20101007
+Current:	2010/11/12	Bump to 2.8-20101108, fixed libdb-4.8 vs. 5.1 issue

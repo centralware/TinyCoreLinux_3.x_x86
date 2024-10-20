@@ -1,0 +1,23 @@
+Title:          pci-utils.tcz
+Description:    pci-utils and pci.ids
+Version:        3.1.7
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 208KB
+Extension_by:   juanito
+Comments:       pci-utils and pci-ids device data
+                ----------
+                use "sudo update-pciids" to get the latest pci device data from the web
+                ----------
+                This extension contains:
+                pciutils-3.1.7 - GPLv2 - ftp://ftp.kernel.org/pub/software/utils/pciutils/pciutils-3.1.7.tar.bz2
+                ----------
+Change-log:     2008/09/26
+                Re-compiled on tc_2.x and updated 3.0.2 -> 3.1.2
+                2009/05/29
+                split out libpci to separate extension
+                updated 3.1.2 -> 3.1.4
+                2009/10/06
+                updated 3.1.4 -> 3.1.7
+Current:        2011/06/14

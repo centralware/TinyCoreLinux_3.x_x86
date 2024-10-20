@@ -1,0 +1,15 @@
+Title:          pavumeter.tcz
+Description:    pulseaudio volume meter
+Version:        0.9.3
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 24KB
+Extension_by:   juanito
+Comments:       a simple GTK volume meter for the PulseAudio sound server.
+                ----------
+                This extension contains:
+                pavumeter-0.9.3 - GPLv2 - http://0pointer.de/lennart/projects/pavumeter/pavumeter-0.9.3.tar.gz
+                ----------
+Change-log:     first version
+Current:        2010/09/12

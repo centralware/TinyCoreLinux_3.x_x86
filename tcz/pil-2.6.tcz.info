@@ -1,0 +1,19 @@
+Title:          pil-2.6.tcz
+Description:    python imaging library
+Version:        1.1.6
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 528KB
+Extension_by:   juanito
+Comments:       python imaging library
+                requires the python extension
+                ----------
+                Can be used with hplip for command line scanning, for example:
+                $ hp-scan -dhpaio:/usb/OfficeJet_K80?serial=ES0911401VOH
+                ----------
+                This extension contains:
+                Imaging-1.1.6 - (c) Secret Labs/Fredrik Lundh - http://www.pythonware.com/products/pil/Imaging-1.1.6.tar.gz
+Change-log:     2009/03/18
+                re-compiled against python-2.6
+Current:        2009/09/17

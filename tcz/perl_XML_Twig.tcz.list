@@ -1,0 +1,16 @@
+usr/local/bin/xml_grep
+usr/local/bin/xml_merge
+usr/local/bin/xml_pp
+usr/local/bin/xml_spellcheck
+usr/local/bin/xml_split
+usr/local/lib/perl5/site_perl/5.10.1/XML/Twig/XPath.pm
+usr/local/lib/perl5/site_perl/5.10.1/XML/Twig.pm
+usr/local/lib/perl5/site_perl/5.10.1/i686-linux/auto/XML/Twig/.packlist
+usr/local/share/man/man1/xml_grep.1
+usr/local/share/man/man1/xml_merge.1
+usr/local/share/man/man1/xml_pp.1
+usr/local/share/man/man1/xml_spellcheck.1
+usr/local/share/man/man1/xml_split.1
+usr/local/share/man/man3/XML::Twig.3
+usr/local/share/perl_XML_Twig/perllocal.pod
+usr/local/tce.installed/perl_XML_Twig

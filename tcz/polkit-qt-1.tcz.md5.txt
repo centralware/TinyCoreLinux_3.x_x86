@@ -1,0 +1,1 @@
+e92b0c287df4b867b585a45d2f79f34a  polkit-qt-1.tcz

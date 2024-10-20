@@ -1,0 +1,1 @@
+27d9583f06962bd271463ba1eca09610  pygoocanvas-2.7.tcz

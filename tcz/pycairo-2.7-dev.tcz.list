@@ -1,0 +1,3 @@
+usr/local/include/pycairo/pycairo.h
+usr/local/lib/pkgconfig/pycairo.pc
+usr/local/lib/python2.7/site-packages/cairo/_cairo.la

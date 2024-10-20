@@ -1,0 +1,1 @@
+8c4553da911f62ae14bf2ae8381f7b74  pidgin-autoresize.tcz

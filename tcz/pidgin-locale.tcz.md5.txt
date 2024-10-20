@@ -1,0 +1,1 @@
+29dba68f8b784819be351c8b464ed439  pidgin-locale.tcz

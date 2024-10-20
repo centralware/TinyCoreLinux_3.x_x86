@@ -1,0 +1,14 @@
+Title:          pidgin-otr-locale.tcz
+Description:    Off-the-Record Messaging plugin for pidgin (locale files)
+Version:        3.2.0
+Author:         Ian Goldberg, Rob Smits, Chris Alexander, and Nikita Borisov
+                <otr@cypherpunks.ca>
+Original-site:  http://otr.cypherpunks.ca/
+Copying-policy: GPLv2
+Size:           28K
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:       locale files
+		---------------------------------
+		This extension is PPI compatible.
+Change-log:     ------ 
+Current:        2009/10/2 Initial packaging

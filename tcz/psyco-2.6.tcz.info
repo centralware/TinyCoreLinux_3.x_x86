@@ -1,0 +1,25 @@
+Title:          psyco-2.6.tcz
+Description:    JIT Compiler for Python (TESTING)
+Version:        1.6
+Author:         Armin Rigo
+Original-site:  http://psyco.sourceforge.net/
+Copying-policy: MIT
+Size:		272k
+Extension_by:   robc
+Comments:       This package requires python
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://psyco.sourceforge.net/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/5/19 Original
+		2009/6/10 Rebuilt for TC 2.X
+		2009/08/27 Rebuilt for python 2.6.2
+Current:	2009/08/27 Rebuilt for python 2.6.2

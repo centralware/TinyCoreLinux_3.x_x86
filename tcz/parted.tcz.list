@@ -1,0 +1,5 @@
+/usr/local/sbin/partprobe
+/usr/local/sbin/parted
+/usr/local/lib/libparted.so
+/usr/local/lib/libparted.so.0
+/usr/local/lib/libparted.so.0.0.1

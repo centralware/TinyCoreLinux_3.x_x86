@@ -1,0 +1,17 @@
+Title:          perl_DBI.tcz
+Description:    Perl module DBI (TESTING)
+Version:        1.615
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           624K
+Extension_by:   BashlykovNikolay
+Comments:       Binaries only
+                ----
+                Created using tinycore_3.2
+                ----
+                PPI Compatible 
+                ----
+Change-log:     2010/10/22 First version
+Current:        2010/10/22
+

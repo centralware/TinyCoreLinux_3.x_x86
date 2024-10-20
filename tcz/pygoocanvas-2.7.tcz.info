@@ -1,0 +1,11 @@
+Title:		pygoocanvas.tcz
+Description:	Python bindings for 
+Version:	0.14.1
+Author:		Gian Mario Tagliaretti, Gustavo J. A. M. Carneiro
+Original-site:	http://live.gnome.org/PyGoocanvas
+Copying-policy:	LGPL-v2
+Size:		64K
+Extension_by:	Jose Maria Garcia
+Comments:	This extension is PPI compatible.
+Change-log:	2011/05/07 First Version 0.14.1
+Current:	2011/05/07 First Version 0.14.1

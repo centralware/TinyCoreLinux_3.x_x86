@@ -1,0 +1,18 @@
+Title:          pulseaudio-dev.tcz
+Description:    pulseaudio sound server
+Version:        0.9.22
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 96KB
+Extension_by:   juanito
+Comments:       headers, pc files, etc for pulseaudio
+                ----------
+                This extension contains:
+                pulseaudio - LGPLv2.1 - http://0pointer.de/lennart/projects/pulseaudio/pulseaudio-0.9.22.tar.gz 
+                ----------
+Change-log:     2010/05/01
+                edited pkg-config files to show version 0.9.22 (actually 0.9.21+)
+                2010/06/01
+                updated git 2010/05/01 -> 0.9.22
+Current:        2010/12/10

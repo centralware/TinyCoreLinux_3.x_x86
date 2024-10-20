@@ -1,0 +1,13 @@
+Title:		polkit-dev.tcz
+Description:	An application-level toolkit for managing administrative policies and privileges, development files.
+Version:	0.99
+Author:		various
+Original-site:	http://www.freedesktop.org/wiki/Software/PolicyKit
+Copying-policy:	LGPL
+Size:		144.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/02/12 Original 0.96
+		2010/02/15 Fixed permissions on pkexec & polkit-agent-helper-1
+		2010/07/01 Rebuilt
+Current:	2010/10/10 Updated to 0.99 & renamed policykit --> polkit

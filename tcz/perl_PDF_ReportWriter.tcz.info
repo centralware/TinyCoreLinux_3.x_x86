@@ -1,0 +1,17 @@
+Title:          perl_PDF_ReportWriter.tcz
+Description:    Perl module PDF::ReportWriter (TESTING)
+Version:        1.5
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           84.0K
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/07
+

@@ -1,0 +1,11 @@
+Title:		perl_Net_DBus-doc.tcz
+Description:	Perl Binding for DBus messaging protocol, documentation files.
+Version:	0.33.6
+Author:		Daniel Berrange
+Original-site:	http://search.cpan.org/dist/Net-DBus
+Copying-policy:	GPL/Perl Artistic License
+Size:		116.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/25 First Version

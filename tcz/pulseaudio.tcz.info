@@ -1,0 +1,38 @@
+Title:          pulseaudio.tcz
+Description:    pulseaudio sound server
+Version:        0.9.22
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 852KB
+Extension_by:   juanito
+Comments:       PulseAudio is a sound system for POSIX OSes, meaning that it is a proxy 
+                for sound applications. It allows you to do advanced operations on your
+                sound data as it passes between your application and your hardware.
+                Things like transferring the audio to a different machine, changing
+                the sample format or channel count and mixing several sounds into one
+                are easily achieved using a sound server
+                ----------
+                howto:
+                alsa needs to be working for whatever sound device you have
+                exit to console
+                create ~/.X.d/dbus containing:
+                "dbus-launch --sh-syntax --exit-with-session"
+                startx
+                $ pulseaudio -vv [to test]
+                create ~/.X.d/pulseaudio containing:
+                "pulseaudio -D" [once tested]
+                ----------
+                if a bluetooth sound devices is paired and configured, pulseaudio
+                should find it automatically if the daemon is running
+                ----------
+                use pavucontrol to switch source & control volume
+                ----------
+                This extension contains:
+                pulseaudio - LGPLv2.1 - http://0pointer.de/lennart/projects/pulseaudio/pulseaudio-0.9.22.tar.gz 
+                ----------
+Change-log:     2010/05/01
+                added 78-sound-card.rules
+                2010/05/17
+                updated git 2010/05/01 -> 0.9.22 added avahi & jack interfaces
+Current:        2010/12/10

@@ -1,0 +1,1 @@
+be30a6660e34034b95087bc5f07b45b2  postgresql-locale.tcz

@@ -1,0 +1,15 @@
+Title:          paprefs.tcz
+Description:    pulseaudio config utility
+Version:        0.9.9
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 36KB
+Extension_by:   juanito
+Comments:       a simple GTK based configuration dialog for the PulseAudio sound server.
+                ----------
+                This extension contains:
+                paprefs-0.9.9 - GPLv2 - http://0pointer.de/lennart/projects/paprefs/paprefs-0.9.9.tar.gz
+                ----------
+Change-log:     first version
+Current:        2010/09/12

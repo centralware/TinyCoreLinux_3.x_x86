@@ -1,0 +1,11 @@
+Title:		phonon-backend-vlc.tcz
+Description:	Phonon VLC backend.
+Version:	0.3.2
+Author:		various
+Original-site:	http://www.kde.org/
+Copying-policy:	LGPL
+Size:		92K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/10/05 First Version 0.2.0
+Current:	2011/04/16 Updated to 0.3.2

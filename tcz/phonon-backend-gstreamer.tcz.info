@@ -1,0 +1,11 @@
+Title:		phonon-backend-gstreamer.tcz
+Description:	Phonon Gstreamer backend.
+Version:	4.5.0
+Author:		various
+Original-site:	http://www.kde.org/
+Copying-policy:	LGPL
+Size:		152K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/04/16 First Version 4.5.0

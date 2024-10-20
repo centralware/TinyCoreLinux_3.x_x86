@@ -1,0 +1,17 @@
+Title:          perl_Data_ParseBinary.tcz
+Description:    Perl module Data::ParseBinary (TESTING)
+Version:        0.27
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           96K
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2010/09/13
+

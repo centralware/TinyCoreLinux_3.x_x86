@@ -1,0 +1,1 @@
+42c487ce53929b311cd6766ebc09185e  pidgin-autoresize-dev.tcz

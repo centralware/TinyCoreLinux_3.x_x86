@@ -1,0 +1,17 @@
+Title:          perl_Data_Dumper.tcz
+Description:    Perl module Data::Dumper (TESTING)
+Version:        2.125
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           32.0K
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/07
+

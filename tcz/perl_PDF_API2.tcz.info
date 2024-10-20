@@ -1,0 +1,17 @@
+Title:          perl_PDF_API2.tcz
+Description:    Perl module PDF::API2 (TESTING)
+Version:        0.73
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           8.0M
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/07
+

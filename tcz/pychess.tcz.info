@@ -1,0 +1,13 @@
+Title:          pychess.tcz
+Description:    PyChess is a gtk chess client, originally developed for gnome, but running well under 
+		all other linux desktops. 
+Version:        mercurial
+Author:         
+Original-site:  http://sites.google.com/site/pychess/home
+Copying-policy: GPL v2
+Size:           9.1M
+Extension_by:   blofsy
+Comments:       
+		Source and build instructions: https://pychess.googlecode.com/hg/
+Current:        Sun Jul 25 23:29:15 CEST 2010, pychess mercurial 
+

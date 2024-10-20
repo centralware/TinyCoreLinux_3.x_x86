@@ -1,0 +1,1 @@
+b0719b5f3981111b2eee61039a7a0462  pidgin-autoresize-locale.tcz

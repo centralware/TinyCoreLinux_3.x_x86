@@ -1,0 +1,17 @@
+Title:          perl_Tk.tcz
+Description:    Perl module Tk (TESTING)
+Version:        804.028_501
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           2.7M
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/04
+

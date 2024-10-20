@@ -1,0 +1,17 @@
+Title:          perl_JSON.tcz
+Description:    Perl module JSON (TESTING)
+Version:        2.16
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           100.0K
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/04
+

@@ -1,0 +1,10 @@
+openssl-0.9.8.tcz
+bsddb.tcz
+cyrus-sasl.tcz
+pcre.tcz
+ncurses.tcz
+gnutls.tcz
+sqlite3.tcz
+openldap.tcz
+krb5.tcz
+postgresql-lib.tcz

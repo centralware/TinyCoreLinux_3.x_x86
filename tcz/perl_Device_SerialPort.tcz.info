@@ -1,0 +1,17 @@
+Title:          perl_Device_SerialPort.tcz
+Description:    Perl module Device::SerialPort (TESTING)
+Version:        1.04
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           44K
+Extension_by:   BashlykovNikolay
+Comments:       Binaries only
+                ----
+                Created using tinycore_3.2
+                ----
+                PPI Compatible 
+                ----
+Change-log:     2010/10/22 First version
+Current:        2010/10/22
+

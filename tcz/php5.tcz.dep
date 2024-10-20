@@ -1,0 +1,11 @@
+mysql.tcz
+libxslt.tcz
+libmcrypt.tcz
+gmp.tcz
+bsddb.tcz
+libgdbm.tcz
+curl.tcz
+libltdl.tcz
+libiconv.tcz
+bzip2-lib.tcz
+openssl-0.9.8.tcz

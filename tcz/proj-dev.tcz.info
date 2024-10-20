@@ -1,0 +1,17 @@
+Title:          proj-dev.tcz
+Description:    Cartographic projection software
+Version:        4.7.0
+Author:         Gerald Evenden
+Original-site:  http://trac.osgeo.org/proj/
+Copying-policy: MIT
+Size:           180k
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2010/06/11 First version, 4.7.0
+
+

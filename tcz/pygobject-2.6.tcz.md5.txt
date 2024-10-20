@@ -1,0 +1,1 @@
+68f9687b979a0cdea4ba1c13b1a03f66  pygobject-2.6.tcz

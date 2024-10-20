@@ -1,0 +1,1 @@
+e94ad9d0d70e07a74d6fd028c867b883  pycairo-2.7-dev.tcz

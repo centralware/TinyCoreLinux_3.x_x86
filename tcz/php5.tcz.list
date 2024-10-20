@@ -1,0 +1,10 @@
+usr/local/bin/phar
+usr/local/bin/phar.phar
+usr/local/bin/php
+usr/local/bin/php-cgi
+usr/local/bin/php-config
+usr/local/bin/phpize
+usr/local/lib/php/XML/Util.php
+usr/local/lib/php.ini.orig
+usr/local/share/doc/License/php5.txt
+usr/local/tce.installed/php5

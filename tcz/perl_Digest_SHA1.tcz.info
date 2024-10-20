@@ -1,0 +1,17 @@
+Title:          perl_Digest_SHA1.tcz
+Description:    Perl module Digest::SHA1 (TESTING)
+Version:        2.13
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           12K
+Extension_by:   BashlykovNikolay
+Comments:       Binaries only
+                ----
+                Created using tinycore_3.2
+                ----
+                PPI Compatible 
+                ----
+Change-log:     2010/10/22 First version
+Current:        2010/10/22
+

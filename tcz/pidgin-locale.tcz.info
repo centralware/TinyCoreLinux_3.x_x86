@@ -1,0 +1,27 @@
+Title:		pidgin-locale.tcz
+Description:	A multi-protocol instant messaging (IM) client. locale files
+Version:	2.9.0
+Author:		Sean Egan
+Original-site:	http://pidgin.im/
+Copying-policy:	GPL
+Size:		8.5M
+Extension_by:	jls_legalize <jlslegalize at gmail dot com>
+Comments:	locale files
+				
+		This extension is PPI compatible
+Change-log:	2009/04/28 First Version by Róbinson J. Araújo
+		2009/11/28 updated to 2.6.3
+		2009/11/30 updated to 2.6.4
+		2010/01/12 updated to 2.6.5
+		2010/02/13 recompiled with voice & video support
+		2010/06/13 updated to 2.7.0
+		2010/07/24 updated to 2.7.2
+		2010/08/12 updated to 2.7.3
+		2010/10/22 Updated to 2.7.4
+		2010/11/02 updated to 2.7.5
+		2010/11/28 updated to 2.7.7
+		2010/12/30 updated to 2.7.9
+		2011/02/12 updated to 2.7.10
+		2011/03/12 updated to 2.7.11
+		2011/06/09 Updated to 2.8.0
+Current:	2011/06/24 Updated to 2.9.0

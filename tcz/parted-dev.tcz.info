@@ -1,0 +1,15 @@
+Title:          parted-dev.tcz
+Description:    dev files for parted
+Version:        2.3
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 292KB
+Extension_by:   juanito
+Comments:       dev files for command-line partition editor 
+                ----------
+                This extension contains:
+                parted-2.3 - GPLv3 - http://ftp.gnu.org/gnu/parted/parted-2.3.tar.xz
+                ----------
+Change-log:     first version
+Current:        2010/08/30

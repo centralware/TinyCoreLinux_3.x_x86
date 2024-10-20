@@ -1,0 +1,17 @@
+Title:		pygobject-dev-2.6.tcz
+Description:	bindings for the GLib, GObject and GIO,to be used in Python dev files
+Version:	2.21.3
+Author:		Original author: James Henstridge <james@daa.com.au> Current maintainer: Johan Dahlin <johan@gnome.org>
+Original-site:	http://ftp.gnome.org/pub/GNOME/sources/pygobject/
+Copying-policy:	GPLv2
+Size:		12.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+		This extension is PPI compatible
+Changelog: 	2009/03/25 Initial packaging
+		2009/08/26 Rebuilt against python 2.6.2 and updated to 2.18.0. (Jason W -
+		  I will field issues with this build.)
+		2009/12/12 updated to 2.20.0
+		2010/06/17 updated to 2.20.0
+Current:	2010/06/23 updated to 2.21.3

@@ -1,0 +1,17 @@
+Title:          perl_Tk_XMLViewer.tcz
+Description:    Perl module Tk::XMLViewer (TESTING)
+Version:        0.21
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           20.0K
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/07
+

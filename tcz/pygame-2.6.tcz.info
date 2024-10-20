@@ -1,0 +1,12 @@
+Title:          pygame-2.6.tcz
+Description:    Pygame is a cross-platfrom library designed to make it easy to write multimedia software, such as games, in Python.
+Version:        1.9.1
+Author:		Various
+Original-site:  http://www.pygame.org/
+Copying-policy: GPL
+Size:           2.9M
+Extension_by:   Thomas Genty <tomlohave@gmail.com>
+Comments:       
+Change-log:     2010/08/07 First version
+Current:        2010/08/07 First version
+

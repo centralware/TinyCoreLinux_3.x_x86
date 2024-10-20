@@ -1,0 +1,18 @@
+Title:          pavucontrol.tcz
+Description:    pulseaudio volume control
+Version:        0.9.10
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 80KB
+Extension_by:   juanito
+Comments:       PulseAudio Volume Control (pavucontrol) is a simple GTK based volume
+                control tool ("mixer") for the PulseAudio sound server.
+                In contrast to classic mixer tools this one allows you to control both
+                 the volume of hardware devices and of each playback stream separately.
+                ----------
+                This extension contains:
+                pavucontrol-0.9.10 - GPLv2 - http://0pointer.de/lennart/projects/pavucontrol/pavucontrol-0.9.10.tar.gz
+                ----------
+Change-log:     first version
+Current:        2010/05/01

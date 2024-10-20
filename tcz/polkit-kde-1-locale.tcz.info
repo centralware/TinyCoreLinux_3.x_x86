@@ -1,0 +1,11 @@
+Title:		polkit-kde-1-locale.tcz
+Description:	KDE PolicyKit Authentication Agent, locale files.
+Version:	0.95.1
+Author:		KDE development team
+Original-site:	http://www.kde.org
+Copying-policy:	GPL-2
+Size:		12.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/07/17 First Version 0.95.1
+Current:	2011/01/26 Rebuilt

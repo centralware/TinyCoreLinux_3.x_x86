@@ -1,0 +1,11 @@
+Title:		perl_YAML.tcz
+Description:	Perl module YAML, YAML Ain't Markup Language (tm).
+Version:	0.72
+Author:		various
+Original-site:	http://search.cpan.org/dist/YAML/
+Copying-policy:	GPL/PerlArtistic
+Size:		80.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/12/30 First Version

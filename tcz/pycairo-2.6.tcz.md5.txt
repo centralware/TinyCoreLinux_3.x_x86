@@ -1,0 +1,1 @@
+6219700e8351fde06f1a4829574d6c7f  pycairo-2.6.tcz

@@ -1,0 +1,1 @@
+aad1a8679693c25cc92ba3346179a109  pci-hotplug-2.6.33.3-tinycore.tcz

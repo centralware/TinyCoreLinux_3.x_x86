@@ -1,0 +1,20 @@
+Title:		pidgin-skype.tcz
+Description:	Skype Chat plugin for Pidgin
+Version:	7-Apr-2011
+Author:		Eion Robb
+Original-site:	http://eion.robbmob.com
+Copying-policy:	gplv3
+Size:		200K
+Extension_by:	jls_legalize <unsenepopiu at tin dot it>
+Comments:	Once pidgin connects to skype, skype disappears, and if u don't
+		have a tray I haven't found a way to show skype again, but this
+		is not a problem, since with pidgin u can call, receive calls,
+		messsages..
+		
+		This extension is PPI compatible.
+Change-log: 	2009/07/02 Initial packaging
+		2009/10/01 upgraded to version 20 sept 2009
+		2010/01/26 upgraded to version 21 janu 2010
+		2010/03/07 updated to version 2 March 2010
+		2011/01/28 updated to version 26 Aug 2010
+Current:	2011/05/16 updated to version 7-Apr-2011

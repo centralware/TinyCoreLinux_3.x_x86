@@ -1,0 +1,27 @@
+Title:          pybsddb-2.6.tcz
+Description:    BSDDB Python bindings (TESTING)
+Version:        4.7.6
+Author:         Robin, George P. Smith, Barry A. Warsaw
+Original-site:  http://www.jcea.es/programacion/pybsddb.htm
+Copying-policy: MIT
+Size:		512k
+Extension_by:   robc
+Comments:       This package requires python, and 
+		bsddb.
+		
+		413/416 tests passed, 99.3% pass rate.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.jcea.es/programacion/pybsddb.htm
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/08/27  Original
+		2009/09/01 Split devs
+Current:	2009/09/01 Split devs

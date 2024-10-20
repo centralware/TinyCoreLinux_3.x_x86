@@ -1,0 +1,11 @@
+pidgin.tcz
+intltool.tcz
+gtk2-dev.tcz
+libidn-dev.tcz
+libiconv-dev.tcz
+GConf.tcz
+avahi-2.7-dev.tcz
+ncurses-dev.tcz
+dbus-dev.tcz
+libgadu-dev.tcz
+farsight2-dev.tcz

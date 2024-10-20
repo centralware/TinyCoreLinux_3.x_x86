@@ -1,0 +1,1 @@
+c05802e55aa94b3ef0ef6afc708a0294  pycairo-dev-2.6.tcz

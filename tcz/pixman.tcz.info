@@ -1,0 +1,16 @@
+Title:          pixman.tcz
+Description:    Pixel manipulation library. 
+Version:        0.20.2
+Author:         Xorg Foundation
+Original-site:  http://www.X.org
+Copying-policy: OpenSource
+Size:		236K
+Extension_by:   Jason W
+Comments:       ----
+Change-log:     2008/09/10 First version
+                2009/01/10 Rebuilt for i486, size, cramfs.
+	        2009/02/19 Updated to 0.14.0 
+		2009/07/02 Updated to 0.15.14
+		2010/05/26 Updated to 0.18.2
+		2010/10/10 Updated to 0.18.4
+Current:	2011/02/13 Updated to 0.20.2

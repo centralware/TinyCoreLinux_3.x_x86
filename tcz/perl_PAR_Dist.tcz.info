@@ -1,0 +1,17 @@
+Title:          perl_PAR_Dist.tcz
+Description:    Perl module PAR::Dist (TESTING)
+Version:        0.47
+Author:         see CPAN
+Original-site:  http://cpan.perl.org
+Copying-policy: GPL
+Size:           28.0K
+Extension_by:   AlabamaPaul
+Comments:       Binaries only
+                ----
+                Created for TC2.x
+                ----
+                PPI Compatible 
+                ----
+Change-log:     First version
+Current:        2009/12/04
+
