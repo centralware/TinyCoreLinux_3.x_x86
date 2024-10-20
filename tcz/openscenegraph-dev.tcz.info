@@ -1,0 +1,11 @@
+Title:		openscenegraph-dev.tcz
+Description:	An open source high performance 3D graphics toolkit, development files.
+Version:	2.8.3
+Author:		various
+Original-site:	http://www.openscenegraph.org
+Copying-policy:	OSGPL
+Size:		880.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/12/19 First Version

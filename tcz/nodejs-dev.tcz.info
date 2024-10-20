@@ -1,0 +1,11 @@
+Title:		nodejs-dev.tcz
+Description:	node.js
+Version:	0.4.11
+Author:		Ryan Lienhart Dahl
+Original-site:	http://www.nodejs.org/
+Copying-policy:	MIT License
+Size:		80K
+Extension_by:	solorin
+Comments:	headers for nodejs
+Change-log:	2011/02/04 v0.2.6
+Current:	2011/09/08 v0.4.11

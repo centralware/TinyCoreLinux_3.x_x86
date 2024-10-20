@@ -1,0 +1,8 @@
+libxcb-util.tcz
+graphics-libs-1.tcz
+libxml2.tcz
+curl.tcz
+SDL.tcz
+glibc_gconv.tcz
+
+openssl-0.9.8.tcz

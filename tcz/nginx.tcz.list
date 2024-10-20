@@ -1,0 +1,13 @@
+usr/local/conf/fastcgi.conf
+usr/local/conf/fastcgi.conf.default
+usr/local/conf/fastcgi_params
+usr/local/conf/fastcgi_params.default
+usr/local/conf/koi-utf
+usr/local/conf/koi-win
+usr/local/conf/mime.types
+usr/local/conf/mime.types.default
+usr/local/conf/nginx.conf
+usr/local/conf/nginx.conf.default
+usr/local/conf/win-utf
+usr/local/sbin/nginx
+usr/local/share/doc/nginx/LICENSE

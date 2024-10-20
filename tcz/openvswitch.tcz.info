@@ -1,0 +1,21 @@
+Title:          openvswitch.tcz
+Description:    Production quality, multilayer virtual switch
+Version:        1.2.0
+Author:         http://openvswitch.org/?page_id=307
+Original-site:  http://openvswitch.org
+Copying-policy: Apache 2.0
+Size:		3.3M
+Extension_by:   brezular
+Comments:       Open vSwitch is a production quality open source
+		software switch designed to be used as a vswitch
+                in virtualized server environments. 
+		A vswitch forwards traffic between different VMs 
+		on the same physical host and also forwards traffic 
+		between VMs and the physical network.
+                Open vSwitch supports standard management interfaces
+		(e.g. NetFlow, RSPAN, ERSPAN, CLI), and is open to 
+		programmatic extension and control using OpenFlow 
+		and the OVSDB management protocol.              
+
+Change-log:     2011/06/21 First version 1.1.1
+Current:        2011/08/18 Update to 1.2.0

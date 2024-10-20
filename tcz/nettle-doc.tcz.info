@@ -1,0 +1,15 @@
+Title:          nettle-doc.tcz
+Description:    Cryptographic library
+Version:        2.2
+Author:         See nettle.info in nettle-doc.tcz
+Original-site:  http://www.lysator.liu.se/~nisse/nettle/
+Copying-policy: GNU Lesser General Public License 2.1
+Size:		48K
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2011/08/09 First version, 2.2

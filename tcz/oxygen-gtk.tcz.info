@@ -1,0 +1,11 @@
+Title:		oxygen-gtk.tcz
+Description:	Oxygen-Gtk is a port of the default KDE widget theme (Oxygen), to gtk.
+Version:	1.0.0
+Author:		various
+Original-site:	http://kde-look.org/content/show.php/?content=136216
+Copying-policy:	LGPL
+Size:		408.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/12/14 First Version

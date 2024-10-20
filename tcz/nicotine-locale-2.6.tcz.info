@@ -1,0 +1,19 @@
+Title:          nicotine-locale-2.6.tcz
+Description:    a client for the SoulSeek filesharing network locale data.(TESTING)
+Version:        1.0.8
+Author:         
+Original-site:  http://sensi.org/~ak/pyslsk/
+Copying-policy: GPLv2
+Size: 80K
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:       nicotine is a client for the SoulSeek 
+		filesharing network. It was "forked"
+		(and thus reuses a lot of code) from the
+		PySoulSeek project by Alexander Kanavin,
+		and features (among other things) a
+		completely new graphical user interface.
+		
+		This extension is PPI compatible.
+Changelog:      ------
+	        2009/25/3 Initial packaging
+Current:	2009/09/06 Built for python2.6 (Jason W)

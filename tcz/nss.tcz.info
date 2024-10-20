@@ -1,0 +1,14 @@
+Title:		nss.tcz
+Description:	Network Security Services.
+Version:	3.12.11
+Author:		The Mozilla Community
+Original-site:	http://www.mozilla.org/projects/security/pki/nss/
+Copying-policy:	MPL 1.1/GPL 2.0/LGPL
+Size:		1.4M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/06/07 Original 3.12.6
+		2010/10/11 Updated to 3.12.8
+		2011/01/15 Updated to 3.12.9
+		2011/06/02 Updated to 3.12.10
+Current:	2011/09/03 Updated to 3.12.11

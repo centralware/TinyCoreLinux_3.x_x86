@@ -1,0 +1,1 @@
+55e2b34055c6edd50bfc275bdc657333  ncurses-terminfo.tcz

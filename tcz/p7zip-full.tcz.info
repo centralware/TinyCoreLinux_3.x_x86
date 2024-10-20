@@ -1,0 +1,16 @@
+Title:		p7zip-full.tcz
+Description:	7-zip full package.
+Version:	9.04
+Author:		Igor Pavlov, others
+Original-site:	p7zip.sourceforge.net
+Copying-policy:	GNU LGPL, unRAR restrictions
+Size:		1.2M
+Extension_by:	Arslan S.
+Comments:	7-Zip is a file archiver with a high
+		compression ratio.
+-
+		Contains: 7zr, 7za
+-
+		Documentation: p7zip-doc.tcz
+Change-log:	---
+Current:	2010/02/27 Original

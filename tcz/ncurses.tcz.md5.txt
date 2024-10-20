@@ -1,0 +1,1 @@
+f77ddca5870d882df004e1164ed0a301  ncurses.tcz

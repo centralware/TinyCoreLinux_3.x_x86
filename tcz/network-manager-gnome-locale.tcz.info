@@ -1,0 +1,11 @@
+Title:		network-manager-gnome-locale.tcz
+Description:	NetworkManager GNOME frontend, locale files.
+Version:	0.8.1
+Author:		Dan Williams
+Original-site:	http://projects.gnome.org/NetworkManager/
+Copying-policy:	GPL-2
+Size:		1.0M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/07/05 First Version 0.8.1~git100705
+Current:	2010/08/04 Updated to 0.8.1

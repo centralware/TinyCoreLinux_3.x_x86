@@ -1,0 +1,27 @@
+Title:          ndiswrapper.tcz
+Description:    ndiswrapper
+Version:        1.56
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 92KB
+Extension_by:   juanito
+Comments:       ndiswrapper for tc_3.x
+                ----------
+                example howto:
+                $ sudo ndiswrapper -i /mnt/sda1/drivers/ndiswrapper/bcmwl5.inf
+                $ sudo ndiswrapper -l
+                $ sudo ndiswrapper -m
+                $ sudo modprobe ndiswrapper
+                ----------
+                Note: you can now make an extension out of everything in
+                .. /etc/ndiswrapper and use it with the ndiswrapper extension
+                ..to avoid having to use the perl5 extension
+                ----------
+                This extension contains:
+                ndiswrapper-1.56 - GPL - http://freefr.dl.sourceforge.net/sourceforge/ndiswrapper/ndiswrapper-1.56.tar.gz
+Change-log:     2009/03/13
+                Re-compiled for tc_2.x
+                2009/06/19
+                Re-compiled for tc_3.x, updated 1.54 -> 1.56
+Current:        2010/07/06

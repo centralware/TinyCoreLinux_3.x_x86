@@ -1,0 +1,1 @@
+9528c2a808fbee37659cbdd585ffe392  openjdk-6-jre.tcz

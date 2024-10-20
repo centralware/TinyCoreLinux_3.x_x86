@@ -1,0 +1,11 @@
+Title:		ocaml.tcz
+Description:	a general purpose programming language
+Version:	3.12.0
+Author:		various
+Original-site:	http://caml.inria.fr/
+Copying-policy:	Copyright INRIA
+Size:		36M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	This extension is PPI compatible
+Change-log:     -----------------------------
+Current:	2011/01/25 first version 3.12.0

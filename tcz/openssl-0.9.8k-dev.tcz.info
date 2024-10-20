@@ -1,0 +1,14 @@
+Title:          openssl-0.9.8k-dev.tcz
+Description:    Openssl development files.
+Version:        0.9.8k
+Author:         OpenSSL Project
+Original-site:  http://www.openssl.org/
+Copying-policy: OpenSSL License:  http://www.openssl.org/source/license.html
+Size: 1.1M
+Extension_by:   Jason W
+Comments:       Requires the openssl-0.9.8k.tce extension and compiletc.
+		This extension is PPI compatible.
+Change-log:     2008/07/30 First version
+		2008/12/03 Rebuilt for i486 and size.
+Current:	2009/09/09 Updated to 0.9.8k.
+

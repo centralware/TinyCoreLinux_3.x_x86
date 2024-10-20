@@ -1,0 +1,12 @@
+Title:		nvidia-glx-doc.tcz
+Description:	NVIDIA Linux Drivers, documentation files.
+Version:	280.13
+Author:		NVIDIA
+Original-site:	http://www.nvidia.com
+Copying-policy:	Proprietary
+Size:		212K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/05/24 Original 195.36.24
+		2010/11/15 Updated to 260.19.21
+Current:	2011/08/20 Updated to 280.13

@@ -1,0 +1,17 @@
+Title:          ncursesw-utils.tcz
+Description:    Library to write text UI terminal-independent
+Version:        5.7
+Author:         Various
+Original-site:  http://invisible-island.net/ncurses/
+Copying-policy: MIT
+Size:           61k
+Extension_by:   bmarkus
+Comments:       Binary utilities for ncursesw
+                ----
+                Overwrites ncurses-utils.tcz content if both installed
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/08/23 First version
+Current:        2010/09/28 Rebuilt

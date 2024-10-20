@@ -1,0 +1,24 @@
+Title:		openldap-server.tcz
+Description:	Open LDAP (Lightweight Directory Access Protocol).
+Version:	2.4.25
+Author:		OpenLDAP
+Original-site:	http://www.openldap.org/
+Copying-policy:	OpenLDAP Public License
+Size:		1.5M
+Extension_by:	Arslan S.
+Comments:	OpenLDAP server can be started or stopped with the following command:
+			sudo /usr/local/etc/init.d/openldap-server start|stop
+
+		The server is started with the default configuration:
+		/usr/local/etc/default/openldap-server
+
+		Add these to your backup list (/opt/.filetool.lst) if you modify the files
+			usr/local/etc/default/openldap-server
+			usr/local/etc/openldap/slapd.conf
+
+		This extension is PPI compatible.
+Change-log:	2010/02/21 Original 2.4.19
+		2010/07/03 Updated to 2.4.21 & renamed extensions & added init.d script for openldap-server
+		2010/11/09 Updated to 2.4.23
+		2011/02/20 Updated to 2.4.24
+Current:	2011/04/22 Updated to 2.4.25

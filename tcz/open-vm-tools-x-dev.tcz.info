@@ -1,0 +1,40 @@
+Title:		open-vm-tools-x-dev.tcz
+Description:	The open source VMware tools
+Version:	2011.03.28-387002
+Author:		VMware.com <info@vmware.com>
+Original-site:	http://open-vm-tools.sourceforge.net/
+Copying-policy:	LGPL
+Size:		324K
+Extension_by:	Daniel Barnes
+Comments:	-- To start vmtoolsd:
+		sudo /usr/local/etc/init.d/open-vm-tools-x
+		The vmware-user daemon will be started when X starts.
+		-- pcnet32:
+		When using the "Flexible" adapter, the blacklist=pcnet32
+		boot option must be used.
+		-- DHCP:
+		DHCP will be started by the startup script unless the nodhcp
+		boot option is specified.
+		-- GSO/TSO:
+		If the ethtool extension is loaded, GSO and TSO will be enabled.
+		-- Mouse integration:
+		If /etc/X11/xorg.conf exists, the Driver line will be modified
+		from
+			Driver	"mouse"
+		to
+			Driver	"vmmouse"
+		-- Resolution
+		The screen resolution can be specified with the xvirt bootcode
+		(xvirt=1024x768x24, for example) or in xorg.conf as shown:
+		Section "Screen"
+		  ...
+		  SubSection "Display"
+		    ...
+		    Depth 24
+		    Virtual 1024 768
+		  EndSubsection
+		EndSection
+Change-log:	2009/07/19 Initial release
+		2009/12/01 Update to 2009.11.16-210370
+		2011/04/08 Update to 2011.03.28-387002
+Current:	2011/04/14 Add support for 

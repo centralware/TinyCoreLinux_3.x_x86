@@ -1,0 +1,23 @@
+Title:		open-vm-tools.tcz
+Description:	The open source VMware tools
+Version:	2011.03.28-387002
+Author:		VMware.com <info@vmware.com>
+Original-site:	http://open-vm-tools.sourceforge.net/
+Copying-policy:	LGPL
+Size:		460K
+Extension_by:	Daniel Barnes
+Comments:	This extension is a build of open-vm-tools with a minimum
+		of dependencies and does not include support for X.
+		-- To start vmtoolsd:
+		sudo /usr/local/etc/init.d/open-vm-tools
+		-- pcnet32:
+		When using the "Flexible" adapter, the blacklist=pcnet32
+		boot option must be used.
+		-- DHCP:
+		DHCP will be started by the startup script unless the nodhcp
+		boot option is specified.
+		-- GSO/TSO:
+		If the ethtool extension is loaded, GSO and TSO will be enabled.
+Change-log:	2009/07/19 Initial release
+		2009/12/01 Update to 2009.11.16-210370
+Current:	2011/04/08 Update to 2011.03.28-387002

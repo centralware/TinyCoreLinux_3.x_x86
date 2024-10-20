@@ -1,0 +1,36 @@
+Title:          openssl-0.9.8k.tcz
+Description:    The Open Source toolkit for SSL/TLS
+Version:        0.9.8k
+Author:         OpenSSL Project
+Original-site:  http://www.openssl.org/
+Copying-policy: OpenSSL License:  http://www.openssl.org/source/license.html
+Size: 900K
+Extension_by:   Jason W
+Comments:       This extension is PPI compatible.
+		This extension can be installed alongside other versions
+		of openssl as it is installed into a dedicated directory.
+		To use this as openssl, either use the command:
+		$ /usr/local/openssl-0.9.8k/bin/openssl
+		or add /usr/local/openssl-0.9.8k/bin to the front of your 
+		$PATH.  The certs directory is /usr/local/openssl-0.9.8k/etc/ssl/certs.
+		To build extensions against this one, you may need to
+		use a configure switch like --with-ssl=/usr/local/openssl-0.9.8k.
+		Or adding /usr/local/openssl-0.9.8k/lib/pkgconfig to your 
+		pkgconfig path.  If you use this extension to build apps against,
+		you will need to use a wrapper for the executables in that extension
+		to find the right ssl libs.  Here is an example wrapper script for links.
+		Just rename /usr/local/bin/links to /usr/local/bin/links-bin and call
+		the wrapper /usr/local/bin/links:
+		----------
+		#!/bin/sh
+
+		export LD_LIBRARY_PATH=/usr/local/openssl-0.9.8k/lib
+
+		/usr/local/bin/links-bin "$@"
+
+		---------
+		That will use the libs in /usr/local/openssl-0.9.8k/lib in priority over	
+		those in the system for that app.
+Change-log:     2008/07/30 First version
+		2008/12/03 Rebuilt for i486 and size.
+Current:	2009/09/09 Updated to 0.9.8k.

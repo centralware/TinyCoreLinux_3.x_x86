@@ -1,0 +1,1 @@
+d575aadc5fc560f20c92d0e6cbb95c2d  NetworkManager-vpnc-locale.tcz

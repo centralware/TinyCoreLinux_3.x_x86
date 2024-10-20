@@ -1,0 +1,11 @@
+Title:          ossxmix.tcz
+Description:    OSS GTK2 mixer
+Version:        4.2 build 2002
+Author:         4Front Technologies
+Original-site:  http://www.opensound.com
+Copying-policy: GPL
+Size:		24K
+Extension_by:   Curaga
+Comments:       -
+Change-log:	2010/01/25 Separated gtk2 mixer from OSS.tcz
+Current:        2010/05/12 Updated with OSS to 4.2

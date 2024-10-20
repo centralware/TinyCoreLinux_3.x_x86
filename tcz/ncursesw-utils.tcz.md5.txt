@@ -1,0 +1,1 @@
+3bf021a31b7d095b61b68a5adae37b60  ncursesw-utils.tcz

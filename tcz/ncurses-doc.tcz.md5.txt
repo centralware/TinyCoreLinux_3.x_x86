@@ -1,0 +1,1 @@
+3f76749428bbed318bad528c4f1fc25f  ncurses-doc.tcz

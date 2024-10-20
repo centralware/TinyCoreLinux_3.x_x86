@@ -1,0 +1,1 @@
+b2dc6acc84d747e135a5fcbfceaf92b8  NetworkManager-dev.tcz

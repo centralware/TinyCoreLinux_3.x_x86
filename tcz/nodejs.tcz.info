@@ -1,0 +1,14 @@
+Title:		nodejs.tcz
+Description:	node.js
+Version:	0.4.11
+Author:		Ryan Lienhart Dahl
+Original-site:	http://www.nodejs.org/
+Copying-policy:	MIT License
+Size:		3.5M
+Extension_by:	solorin
+Comments:	Installs node & node-waf(for compiling binary addons -requires python)
+		Compiled in TC 3.8.4
+		Source code: nodejs.org/dist/node-v0.4.11.tar.gz
+
+Change-log:	2011/02/04 v0.2.6
+Current:	2011/09/08 v0.4.11

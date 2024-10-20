@@ -1,0 +1,17 @@
+Title:          ncursesw-dev.tcz
+Description:    Library to write text UI terminal-independent
+Version:        5.7
+Author:         Various
+Original-site:  http://invisible-island.net/ncurses/
+Copying-policy: MIT
+Size:           1.7M
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                widec version, UTF-8 enabled
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/08/23 First version, 5.7
+Current:        2010/09/29 Rebuilt

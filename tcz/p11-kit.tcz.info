@@ -1,0 +1,15 @@
+Title:          p11-kit.tcz
+Description:    Provides a way to load and enumerate PKCS#11 modules
+Version:        0.5
+Author:         Stef Walter
+Original-site:  http://p11-glue.freedesktop.org
+Copying-policy: See /usr/local/share/info/COPYING
+Size:		28K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x/4.x
+                ----
+                PPI compatible
+Change-log:     2011/08/27 First version, 0.4
+Current:        2011/09/01 Updated to 0.5

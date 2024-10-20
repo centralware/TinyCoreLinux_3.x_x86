@@ -1,0 +1,29 @@
+Title:          nestopia.tcz
+Description:    NES/Famicon Emulator (TESTING)
+Version:        1.40h
+Author:         Arbee, Martin Freij
+Original-site:  http://nestopia.sourceforge.net/
+Copying-policy: GPLv2
+Size: 		1.4M
+Extension_by:   robc
+Comments:   	This extension requires SDL, Xorg-7.5,
+		gtk2, libasound, hicolor-icon-theme and their
+		deps.
+		
+		No ROMs/games are included with this package.
+		
+		The Nestopia icon is from the Nestopia v1.37 
+		Dribble package: http://dribble.org.uk/
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://nestopia.sourceforge.net/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/11/30 Original
+Current:	2010/11/30 Original

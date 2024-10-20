@@ -1,0 +1,1 @@
+2b291de62f79758b4964f60b9254f8a6  NetworkManager-locale.tcz

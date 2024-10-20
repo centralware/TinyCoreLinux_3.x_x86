@@ -1,0 +1,14 @@
+usr/local/include/vmGuestLib/includeCheck.h
+usr/local/include/vmGuestLib/vmGuestLib.h
+usr/local/include/vmGuestLib/vmSessionId.h
+usr/local/include/vmGuestLib/vm_basic_types.h
+usr/local/include/vmci_sockets.h
+usr/local/lib/libguestlib.a
+usr/local/lib/libguestlib.la
+usr/local/lib/libhgfs.a
+usr/local/lib/libhgfs.la
+usr/local/lib/libvmtools.a
+usr/local/lib/libvmtools.la
+usr/local/lib/open-vm-tools/plugins/common/libhgfsServer.la
+usr/local/lib/open-vm-tools/plugins/common/libvix.la
+usr/local/lib/pkgconfig/vmguestlib.pc

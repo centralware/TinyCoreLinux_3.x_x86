@@ -1,0 +1,10 @@
+./usr/local/bin/nvzoom
+./usr/local/bin/nvimgdiff
+./usr/local/bin/nvdecompress
+./usr/local/bin/nvddsinfo
+./usr/local/bin/nvcompress
+./usr/local/bin/nvassemble
+./usr/local/lib/libnvtt.so
+./usr/local/lib/libnvmath.so
+./usr/local/lib/libnvimage.so
+./usr/local/lib/libnvcore.so

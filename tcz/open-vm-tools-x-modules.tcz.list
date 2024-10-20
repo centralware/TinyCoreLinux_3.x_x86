@@ -1,0 +1,7 @@
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/misc/vmci.ko
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/misc/vmmemctl.ko
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/misc/vmsync.ko
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/net/vmxnet.ko
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/fs/vmblock/vmblock.ko
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/fs/vmhgfs/vmhgfs.ko
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/net/vsock/vsock.ko

@@ -1,0 +1,19 @@
+Title:          orage.tcz
+Description:    Time-managing application for Xfce4
+Version:        4.8.2
+Author:         Juha Kautto, Mickael Graf, Benedikt Meurer
+Original-site:  www.xfce.org
+Copying-policy: GPL v2
+Size:		980K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x/4.x
+                ----
+                PPI compatible
+Change-log:     2010/08/28 First version, 4.7.5
+                2011/01/21 Updated to 4.8.0
+                2011/03/03 Updated to 4.8.1
+Current:        2011/09/15 Updated to 4.8.2
+
+

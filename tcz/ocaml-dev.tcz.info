@@ -1,0 +1,13 @@
+Title:		ocaml-dev.tcz
+Description:	a general purpose programming language. Development files
+Version:	3.12.0
+Author:		Various
+Original-site:	http://caml.inria.fr/
+Copying-policy:	Copyright INRIA
+Size:		1.2M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	development files
+				
+		This extension is PPI compatible
+Change-log:	---------------------------
+Current:	2011/01/25 first version 3.12.0

@@ -1,0 +1,11 @@
+Title:          notify-python-2.6.tcz
+Description:    Python bindings for libnotify.
+Version:        0.1.1
+Author:		Christian Hammond
+Original-site:  http://www.galago-project.org
+Copying-policy: Lesser GPL-2.1
+Size:		12K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/03/10 Original

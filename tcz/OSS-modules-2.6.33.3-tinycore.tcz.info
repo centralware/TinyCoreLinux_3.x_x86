@@ -1,0 +1,11 @@
+Title:          OSS-modules-2.6.33.3-tinycore.tcz
+Description:    Open Sound System modules for 2.6.33.3-tinycore
+Version:        build 2002
+Author:         4Front Technologies
+Original-site:  http://www.opensound.com
+Copying-policy: GPL
+Size:		996K
+Extension_by:   Curaga
+Comments:       32-bit OSS modules.
+Change-log:     
+Current:        2010/05/12 Original

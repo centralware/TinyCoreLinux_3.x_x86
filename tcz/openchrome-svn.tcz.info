@@ -1,0 +1,13 @@
+Title:          openchrome-svn.tcz
+Description:    A free and Open Source video driver for the VIA/S3G UniChrome, UniChrome Pro and Chrome9 graphics chipsets
+Version:        svn
+Author:         Various
+Original-site:  http://www.openchrome.org
+Copying-policy: Custom
+Size:           180K
+Extension_by:   blofsy
+Comments:       
+		Source,licence and build instructions:
+		http://svn.openchrome.org/svn/trunk
+Current:        Wed Jul 28 19:23:25 CEST 2010, openchrome-svn svn 
+

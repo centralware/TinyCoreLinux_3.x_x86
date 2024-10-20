@@ -1,0 +1,1 @@
+464b71f46f2b398074bfde9daf330c0f  ncmpcpp-doc.tcz
