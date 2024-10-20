@@ -1,0 +1,4 @@
+usr/local/sbin/smartctl
+usr/local/sbin/smartd
+usr/local/share/smartmontools/files/smartd.conf
+usr/local/tce.installed/smartmontools

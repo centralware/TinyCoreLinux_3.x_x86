@@ -1,0 +1,1 @@
+79734b28293e4bb14b3f607d0f5a5354  sqlite3-bin.tcz

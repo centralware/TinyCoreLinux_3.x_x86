@@ -1,0 +1,20 @@
+Title:          smartmontools.tcz
+Description:    smartmontools
+Version:        5.38
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 160KB
+Extension_by:   juanito
+Comments:       S.M.A.R.T. is a system in modern hard drives designed to..
+                ..report conditions that may indicate impending failure
+                ----------
+                Howto:
+                $ sudo smartctl -i /dev/hda
+                see http://blog.shadypixel.com/monitoring-hard-drive-health-on-linux-with-smartmontools
+                ----------
+                This extension contains:
+                smartmontools-5.38 - GPLv2 - http://garr.dl.sourceforge.net/sourceforge/smartmontools/smartmontools-5.38.tar.gz 
+Change-log:     2009/05/18
+                moved user.tar.gz -> start-up script
+Current:        2009/10/10

@@ -1,0 +1,13 @@
+Title:          rsvg-2.6.tcz
+Description:    This package contains a module that allows to use librsvg to read and write SVG files from Python applications.
+Version:        2.31.1
+Author:         Various
+Original-site:  http://www.gnome.org/
+Copying-policy: GPL v2
+Size:           148K
+Extension_by:   blofsy
+Comments:       
+		Source and build instructions: ftp://ftp.gnome.org/pub/gnome/sources/gnome-python-desktop/2.31/gnome-python-desktop-2.31.1.tar.gz
+        	Sun Jul 25 22:06:54 CEST 2010, rsvg 2.31.1 
+Current:	2010/10/22 Renamed with 2.6 naming
+

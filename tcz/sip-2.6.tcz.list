@@ -1,0 +1,5 @@
+usr/local/bin/sip
+usr/local/include/python2.6/sip.h
+usr/local/lib/python2.6/site-packages/sip.so
+usr/local/lib/python2.6/site-packages/sipconfig.py
+usr/local/lib/python2.6/site-packages/sipdistutils.py

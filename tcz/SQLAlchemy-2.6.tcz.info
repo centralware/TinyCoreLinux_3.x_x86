@@ -1,0 +1,15 @@
+Title:			SQLAlchemy-2.6.tcz
+Description:		SQLAlchemy              (TESTING)
+Version:		0.5.5
+Author:			Michael Bayer
+Original-site:		http://www.sqlalchemy.org
+Copying-policy:		MIT
+Size:			968.0K
+Extension_by:		Kingdomcome
+Comments:		Python SQL toolkit
+			Supports most popular SQL databases
+			Requires python.tcz and your favorite database with driver
+			ie: sqlite3.tcz and pysqlite2.tcz
+Change-log:		2009/05/16 First Version
+			2009/08/27 Rebuilt for Python 2.6
+Current:		2010/10/04 Using 2.6 naming.

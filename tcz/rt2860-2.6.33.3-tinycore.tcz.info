@@ -1,0 +1,19 @@
+Title:          rt2860-2.6.33.3-tinycore.tcz
+Description:    Ralink rt2860 wireless chipset staging driver (TESTING)
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		196K
+Extension_by:   Popolon
+Comments:       This was compiled from the Tiny Core kernel source and
+                config file, by enabling staging drivers and then enabling
+                the rt2860 driver.
+                It was tested successfully on an eeepc 1000H.
+                Note that the iwpriv based WPA configuration samples from
+                the 2.x version of the extension do not work anymore, but
+                wpa_supplicant seems to work fine now.
+                This extension is PPI-compatible.
+Change-log:     
+Current:        2010/05/24 Original
+

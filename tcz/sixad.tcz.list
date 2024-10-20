@@ -1,0 +1,13 @@
+usr/local/bin/sixad
+usr/local/etc/default/sixad
+usr/local/etc/init.d/sixad
+usr/local/etc/udev/rules.d/98-sixad.rules
+usr/local/sbin/hcid
+usr/local/sbin/hidraw-dump
+usr/local/sbin/sixad-bin
+usr/local/sbin/sixad-raw
+usr/local/sbin/sixad-uinput-sixaxis
+usr/local/sbin/sixpair
+usr/local/sbin/sixpair-kbd
+usr/local/share/hal/fdi/policy/20thirdparty/x11-sony-keypad.fdi
+usr/local/tce.installed/sixad

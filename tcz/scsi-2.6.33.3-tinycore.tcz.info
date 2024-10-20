@@ -1,0 +1,11 @@
+Title:          scsi-2.6.33.3-tinycore.tcz
+Description:    SCSI support
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		1.5M
+Extension_by:   Curaga
+Comments:       
+Change-log:     
+Current:        2010/04/27 Original

@@ -1,0 +1,1 @@
+824d6bd1c12bb00976dd55b7fc1a53dd  suckless_utils.tcz

@@ -1,0 +1,1 @@
+811764cacbd7e6b1a04e02efc7fe2b3d  rt2860-2.6.33.3-tinycore.tcz

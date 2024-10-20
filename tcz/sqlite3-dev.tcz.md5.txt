@@ -1,0 +1,1 @@
+7c66b64b9ca130c85dd4b5a81554f7b5  sqlite3-dev.tcz

@@ -1,0 +1,7 @@
+/usr/local/include/rygel-1.0/rygel.h
+/usr/local/lib/rygel-1.0/librygel-playbin.la
+/usr/local/lib/rygel-1.0/librygel-mpris.la
+/usr/local/lib/rygel-1.0/librygel-external.la
+/usr/local/lib/rygel-1.0/librygel-media-export.la
+/usr/local/lib/rygel-1.0/librygel-tracker.la
+/usr/local/lib/pkgconfig/rygel-1.0.pc

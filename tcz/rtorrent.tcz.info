@@ -1,0 +1,46 @@
+Title:          rtorrent.tcz
+Description:    rTorrent + patches
+Version:        0.8.6 
+Author:         Jari Sundell
+Original-site:  http://libtorrent.rakshasa.no/
+Copying-policy: GPL
+Size:           312k
+Extension_by:   andriscom
+Comments:       LibTorrent is a BitTorrent library written in C++ for *nix, with a focus on high performance and good code.
+                The library differentiates itself from other implementations by transfering directly from file pages to the network stack.
+                On high-bandwidth connections it is able to seed at 3 times the speed of the official client.
+                The client uses ncurses and is ideal for use with  screen or dtach.
+                It supports saving of sessions and allows the user to add and remove torrents.
+
+                The following patches were applied:
+                Colored user interface patch:
+                 http://aur.archlinux.org/packages/rtorrent-color/rtorrent-color/rtorrent-0.8.6-canvas-fix.patch
+                Equal operator patch: (needed for automatically Move Completed Torrent Data to 'Completed' Folders)
+                 http://ovh.ttdpatch.net/~jdrexler/rt/old/equal-operator.diff
+
+                Built with CFLAGS: -march=i486 -mtune=i686 -Os -pipe
+                Built with CXXFLAGS: -march=i486 -mtune=i686 -Os -pipe
+                Built with LDFLAGS: -Wl,-O1
+                Built with the following options:
+                ./configure --prefix=/usr/local --disable-debug --with-xmlrpc-c
+
+                You should move the /usr/local/etc/.rtorrent.rc config file to your home directory!
+                Check the configuration and create the proper directories! (/home/tc/.session for example)
+
+                If you would like to use a good WebUI:
+                Download ruTorrent via svn:
+                 cd /usr/local/var/www/
+                 svn co http://rutorrent.googlecode.com/svn/trunk/rutorrent
+                 cd /usr/local/var/www/rutorrent/
+                 svn co http://rutorrent.googlecode.com/svn/trunk/plugins
+                Uncomment line: scgi_port = localhost:5000 in ~/.rtorrent.rc
+                Configure your webserver to connect rTorrent via SCGI on port: 5000.
+                 http://code.google.com/p/rutorrent/wiki/WebSERVER
+
+                For man entries you can install the rtorrent-doc.tcz package or visit:
+                 http://libtorrent.rakshasa.no/rtorrent/rtorrent.1.htm
+Source:         http://libtorrent.rakshasa.no/downloads/rtorrent-0.8.6.tar.gz
+Change-log:     2010/09/28 First version (0.8.6)
+                2010/10/16 Version: 0.8.6 - Added: CFLAGS, CXXFLAGS, LDFLAGS, canvas-fix.patch, equal-operator.patch
+Current:        2010/10/16 Version: 0.8.6 - Added: CFLAGS, CXXFLAGS, LDFLAGS, canvas-fix.patch, equal-operator.patch
+

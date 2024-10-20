@@ -1,0 +1,16 @@
+Title:          tc-grub4dos.tcz
+Description:    Tiny Core Installation Tool
+Version:        0.2
+Author:         Robert Shingledecker
+Original-site:  www.tinycorelinux.com
+Copying-policy: GPL
+Size:		12K
+Extension_by:   roberts
+Comments:       An FLTK GUI installer for Tiny Core.
+                Supports frugal hard drive and Windows embedded methods.
+                Selectable from menu or icon.
+                *** This will overwrite the MBR. ***
+		
+Change-log:     
+		2011/06/04 v0.1 Original GUI Tiny Core Installer.
+Current:	2011/07/26 v0.2 Added installation of tce infrastructure. 

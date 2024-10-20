@@ -1,0 +1,11 @@
+Title:		simgear.tcz
+Description:	A set of open-source libraries designed to be used as building blocks for quickly assembling 3d simulations, games, and visualization.
+Version:	2.0.0
+Author:		Curtis Olsen et al
+Original-site:	http://www.simgear.org
+Copying-policy:	GPL
+Size:		1.9M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/12/19 First Version

@@ -1,0 +1,24 @@
+Title:          sox.tcz
+Description:    SoX - Sound eXchange command line audio file utility
+Version:	14.3.1
+Author:         Chris Bagwell, Rob Sykes, Pascal Giard
+Original-site:  http://sox.sourceforge.net
+Copying-policy: GPLv2 or later (some components dual licensed LGPL)
+Size:		780K
+Extension_by:   Jakob Bysewski, Mike Perrin
+Comments:       ---------------------------------------------------------------
+		The Swiss Army knife of sound processing programs.
+                SoX can apply many effects to conversion or playback,
+                which is what differentiates it from most other audio
+                utilities. Use the sox --help command or consult
+                http://sox.sourceforge.net/sox.html for usage.
+                This executable was compiled to support vorbis, mp3, and flac 
+		formats as well as wav files and all formats supported by 
+		libsndfile.
+
+                In addition to the dependencies, you will need OSS or
+                alsa installed to use sox for playback or recording.
+		---------------------------------------------------------------
+		This extension is PPI compatible.
+Change-log:     2009/10/30 Original (Mike Perrin)
+Current:	2010/12/30 Updated to 14.3.1 (Jakob Bysewski)

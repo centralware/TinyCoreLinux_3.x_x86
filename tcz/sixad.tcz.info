@@ -1,0 +1,26 @@
+Title:          sixad.tcz
+Description:    Sixaxis Joystick Manager Daemon
+Version:        1.2.1
+Author:         falkTX
+Original-site:  http://qtsixa.sourceforge.net/
+Copying-policy: GPLv2, "Sixaxis" is a trademark of Sony Computer Entertainment Inc.
+Size:		152K
+Extension_by:   robc
+Comments:       This package requires bash, bluez, hal,
+		input-joystick-KERNEL, and their deps.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://qtsixa.sourceforge.net/
+		for more information.
+		
+		----------------------------------------------
+		
+		
+Change-log:     2011/01/18 Original
+			2011/08/30 Updated init.d script
+Current:	2011/08/30 Updated init.d script

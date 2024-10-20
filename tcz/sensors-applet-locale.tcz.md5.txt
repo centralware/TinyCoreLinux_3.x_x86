@@ -1,0 +1,1 @@
+40e716b67a5bd2b47c05009d5a489e57  sensors-applet-locale.tcz

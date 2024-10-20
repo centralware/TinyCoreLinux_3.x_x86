@@ -1,0 +1,1 @@
+d542e3eb287b362fdf4448136c2e92df  sylpheed-locale.tcz

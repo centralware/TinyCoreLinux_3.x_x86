@@ -1,0 +1,13 @@
+Title:          tce-notify.tcz
+Description:    Simplified extension name support for older TC
+Version:        1.0
+Author:         Robert Shingledecker
+Original-site:  www.tinycorelinux.com
+Copying-policy: GPL
+Size:		4.0K
+Extension_by:   Curaga
+Comments:       This extension is needed in order to use the
+		TCZ extensions with the simplified naming on
+		TC/MC older than 2.7.
+Change-log:     
+Current:        2009/12/26 Original

@@ -1,0 +1,1 @@
+6097abfe7d65082d31e49872d725ce01  SDL_pango.tcz

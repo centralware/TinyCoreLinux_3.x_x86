@@ -1,0 +1,22 @@
+Title:          rt2870-2.6.33.3-tinycore.tcz
+Description:    Ralink rt2870 wireless chipset staging driver (TESTING)
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		184K
+Extension_by:   jl
+Comments:       Module was compiled from the Tiny Core kernel source and .config file.
+                Module tested successfully on an RT3070 based Wireless N USB adapter.
+                Compatible with Ralink RT2770, RT2870, RT3070, RT3071, RT3072 based devices, ..
+                
+                Note: You may need to unload the rt2800usb module.
+                      lsmod    
+                      If you see the rt2800usb module loaded then:
+                      sudo rmmod rt2800usb
+                
+                To load: sudo modprobe rt2870sta
+                
+                This extension is PPI-compatible.
+Change-log:     
+Current:        2010/08/11 - Initial Release

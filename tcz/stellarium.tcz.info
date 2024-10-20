@@ -1,0 +1,13 @@
+Title:		stellarium.tcz
+Description:	Stellarium is a free open source planetarium for your computer.
+Version:	0.11.0
+Author:		various
+Original-site:	http://www.stellarium.org/
+Copying-policy:	GPL-2
+Size:		35M
+Extension_by:	Arslan S.
+Comments:	It shows a realistic sky in 3D, just like what you see with the naked eye,
+		binoculars or a telescope.
+		This extension is PPI compatible.
+Change-log:	2011/01/16 First Version 0.10.6
+Current:	2011/09/04 Updated to 0.11.0

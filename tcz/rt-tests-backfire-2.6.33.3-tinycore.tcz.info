@@ -1,0 +1,11 @@
+Title:		rt-tests-backfire-2.6.33.3-tinycore.tcz
+Description:	backfire kernel module for testing signal latency.
+Version:	0.72
+Author:		various
+Original-site:	http://www.kernel.org/pub/linux/kernel/people/tglx/rt-tests/
+Copying-policy:	GPL-2
+Size:		4.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/03/07 First Version

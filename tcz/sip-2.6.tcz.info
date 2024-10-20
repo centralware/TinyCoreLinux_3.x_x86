@@ -1,0 +1,29 @@
+Title:          sip-2.6.tcz
+Description:    Create Python bindings for C/C++
+Version:        4.10.2
+Author:         Riverbank Computing Limited
+Original-site:  http://www.riverbankcomputing.co.uk/software/sip/intro
+Copying-policy: Python like. (http://www.riverbankcomputing.co.uk/software/sip/license)
+Size:		200k
+Extension_by:   robc
+Comments:       This package requires python and its deps.
+		
+		A Tool for Generating Python Bindings for C and 
+		C++ Libraries
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.riverbankcomputing.co.uk/software/sip/intro 
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/6/10 Original
+		2009/07/31 Updated to v4.8.2
+		2009/08/26 Rebuilt for python v2.6.2
+		2009/11/18 Updated to v4.9.1
+		2010/04/29 Updated to v4.10.2
+Current:	2010/04/29 Updated to v4.10.2

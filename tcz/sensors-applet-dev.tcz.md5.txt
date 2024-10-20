@@ -1,0 +1,1 @@
+58af6ec035d86fd2c014a64ccb756b2b  sensors-applet-dev.tcz

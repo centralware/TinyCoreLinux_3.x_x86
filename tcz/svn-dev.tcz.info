@@ -1,0 +1,17 @@
+Title:          svn-dev.tcz
+Description:    svn dev files
+Version:        1.6.11
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.3MB
+Extension_by:   juanito
+Comments:       subversion dev files
+                ----------
+                This extension contains:
+                subversion-1.6.11 - CollabNet - http://subversion.tigris.org/downloads/subversion-1.6.11.tar.bz2
+                subversion-deps-1.6.11 - Apache - http://subversion.tigris.org/downloads/subversion-deps-1.6.11.tar.bz2
+                ----------
+Change-log:     2010/06/04
+                updated 1.6.6 -> 1.6.11
+Current:        2010/06/05

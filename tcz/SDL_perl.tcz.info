@@ -1,0 +1,11 @@
+Title:		SDL_perl.tcz
+Description:	Simple DirectMedia Library Bindings for Perl.
+Version:	v2.2.6
+Author:		various
+Original-site:	http://sdl.perl.org
+Copying-policy:	LGPL
+Size:		320.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/12/30 First Version

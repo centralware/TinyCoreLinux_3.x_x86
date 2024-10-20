@@ -1,0 +1,1 @@
+d5570c3116cc52782b385ee4d59645a3  scsi-2.6.33.3-tinycore.tcz

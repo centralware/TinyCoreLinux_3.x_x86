@@ -1,0 +1,21 @@
+Title:		supybot-2.6.tcz
+Description:	IRC bot      (TESTING)
+Version:	git 2009/11/29
+Author:		ddipaolo, jamessan, jemfinch
+Original-site:	http://supybot.com
+Copying-policy:	BSD
+Size:		816.0K
+Extension_by:	Kingdomcome
+Comments:	Depends on python.tcz
+		Optionally depends on:
+		pysqlite.tcz for multiple plugins that use DBs
+		procps.tcz for Status plugin
+		
+		Run supybot-wizard first to create conf file and
+		necessary sub-directories. Then run supybot <conf file>
+		to start the bot.
+		
+		This extension is PPI compatible
+Change-log:	2009/09/15 First Version
+Current:	2009/11/29 Bumped to latest
+			   Added missing binaries

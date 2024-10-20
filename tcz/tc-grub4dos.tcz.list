@@ -1,0 +1,6 @@
+usr/local/bin/tc-grub4dos
+usr/local/bin/tc-grub4dos.sh
+usr/local/bin/fetch_devices
+usr/local/share/applications/tc-grub4dos.desktop
+usr/local/share/tc_menu.lst
+usr/local/share/windows_menu.lst

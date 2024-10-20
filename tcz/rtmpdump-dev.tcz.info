@@ -1,0 +1,11 @@
+Title:		rtmpdump-dev.tcz
+Description:	A tool to download rtmp streams, development files.
+Version:	2.4
+Author:		---
+Original-site:	http://rtmpdump.mplayerhq.hu/
+Copying-policy:	GPL-2/LGPL-2.1
+Size:		76K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/09/15 First Version

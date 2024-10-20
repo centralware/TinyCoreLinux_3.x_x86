@@ -1,0 +1,25 @@
+Title:          suspend.tcz
+Description:    suspend for tc_2.x
+Version:        0.8
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 372KB
+Extension_by:   juanito
+Comments:       suspend develops user space tools used for hibernation (suspend-to-disk)
+                ..and suspend (suspend-to-RAM or standby) on Linux systems.
+                ---------- 
+                Requires the expat2, dbus, liblazy, libx86, pci-utils and libpci extensions.
+                ----------
+                Howto suspend to ram
+                check machine details
+                $ sudo s2ram -n
+                then
+                $ sudo s2ram -f
+                *** suspend to disk not tested ***
+                ----------
+                This extension contains:
+                suspend-0.8 - GPLv2 - http://downloads.sourceforge.net/sourceforge/suspend/suspend-0.8.tar.gz
+                ----------
+Change-log:     First version
+Current:        2009/07/15
