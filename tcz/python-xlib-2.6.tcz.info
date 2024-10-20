@@ -1,0 +1,15 @@
+Title:		python-xlib-2.6.tcz
+Description:	Python Xlibs      (TESTING)
+Version:	0.14
+Author:		Peter Liljenberg
+Original-site:	http://python-xlib.sourceforge.net
+Copying-policy:	GPL
+Size:		184.0K
+Extension_by:	Kingdomcome
+Comments:	Depends on python.tcz and deps
+		A fully functional X client library for python programs
+		
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	2009/11/07 First Version

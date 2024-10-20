@@ -1,0 +1,1 @@
+e3be9a0b1881e63a94e70cd513ad0854  pyqt-2.6.tcz

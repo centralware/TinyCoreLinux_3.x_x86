@@ -1,0 +1,1 @@
+832f2bad5e34b70210fbf1739f4b1f6f  pysqlite2-2.6.tcz

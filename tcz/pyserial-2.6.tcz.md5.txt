@@ -1,0 +1,1 @@
+ef431121a72adb3bbdedcf6c029293a8  pyserial-2.6.tcz

@@ -1,0 +1,12 @@
+Title:		pyopenssl.tcz
+Description:	A Python wrapper around the OpenSSL library.
+Version:	0.11
+Author:		Jean-Paul Calderone
+Original-site:	https://launchpad.net/pyopenssl
+Copying-policy:	LGPL
+Size:		192.0K
+Extension_by:	Kingdomcome, Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/03/12 First Version 0.10 by Kingdomcome
+		2011/01/04 Rebuilt against python 2.7 by Arslan S.
+Current:	2011/01/07 Updated to 0.11 by Arslan S.

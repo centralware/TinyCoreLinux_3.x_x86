@@ -1,0 +1,1 @@
+b513eda397b6c2e7729258f2dcada714  qt-4.x-qtconfig.tcz

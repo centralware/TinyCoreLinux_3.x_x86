@@ -1,0 +1,25 @@
+Title:          qtsixa.tcz
+Description:    Sixaxis Joystick Manager GUI (TESTING)
+Version:        1.2.1
+Author:         falkTX
+Original-site:  http://qtsixa.sourceforge.net/
+Copying-policy: GPLv2, "Sixaxis" is a trademark of Sony Computer Entertainment Inc.
+Size:		864K
+Extension_by:   robc
+Comments:       This package requires sixad, pyqt, 
+		dbus-python-2.7, and their deps.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://qtsixa.sourceforge.net/
+		for more information.
+		
+		----------------------------------------------
+		
+		
+Change-log:     2011/01/18 Original
+Current:	2011/01/18 Original

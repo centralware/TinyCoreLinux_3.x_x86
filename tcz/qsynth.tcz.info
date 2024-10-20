@@ -1,0 +1,12 @@
+Title:          qsynth.tcz
+Description:    Fluidsynth GUI
+Version:        0.3.4
+Author:         Rui Nuno Capela
+Original-site:  http://qsynth.sourceforge.net/
+Size:           304.0K
+Copying-policy: GPL
+Extension_by:   helander
+Comments:	
+		This extension is PPI compatible.
+Change-log:	----
+Current:	2010/01/15 Initial Version

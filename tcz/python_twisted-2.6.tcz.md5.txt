@@ -1,0 +1,1 @@
+c8172b42cf8d9cae9cd2a36f282cc81d  python_twisted-2.6.tcz

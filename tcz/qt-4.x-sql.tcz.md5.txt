@@ -1,0 +1,1 @@
+8fd694b114fccdd9c686f4f382c884bf  qt-4.x-sql.tcz

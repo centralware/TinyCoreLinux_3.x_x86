@@ -1,0 +1,12 @@
+Title:		redland-dev.tcz
+Description:	RDF Application Framework, development files.
+Version:	1.0.10
+Author:		Dave Beckett, Morten Frederiksen, Dave Robillard, Lauri Aalto
+Original-site:	http://librdf.org/
+Copying-policy:	GPL-2/LGPL-2.1/Apache License 2.0
+Size:		176.0K
+Extension_by:	Arslan S.
+Comments:	Optional: postgresql, mysql, sqlite3
+		This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/01 First Version

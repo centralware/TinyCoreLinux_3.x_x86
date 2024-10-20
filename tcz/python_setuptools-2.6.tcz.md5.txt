@@ -1,0 +1,1 @@
+58eb7383f3ed9adc3a5c4fb28168e583  python_setuptools-2.6.tcz

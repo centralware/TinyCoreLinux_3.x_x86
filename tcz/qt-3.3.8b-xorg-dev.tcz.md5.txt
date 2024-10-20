@@ -1,0 +1,1 @@
+81e4b874398a03eb50faa76a40a428f6  qt-3.3.8b-xorg-dev.tcz

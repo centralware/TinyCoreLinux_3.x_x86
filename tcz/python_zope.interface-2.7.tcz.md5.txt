@@ -1,0 +1,1 @@
+713c622c0fbd2f42b7dc9e023241ac74  python_zope.interface-2.7.tcz

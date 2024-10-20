@@ -1,0 +1,14 @@
+Title:          python-2.5.2-dev.tcz
+Description:	Python programming language - development files.
+Version:        2.5.2
+Author:         Python Software Foundation.
+Original-site:  http://www.python.org/
+Copying-policy: Python license: http://www.python.org/psf/license
+Size: 7.4M
+Extension_by:   Jason W
+Comments:       This package consists of the development files for 
+		Python.  python.tcz is required as a dependency.
+                ----------
+Change-log:     2008/07/23 First version
+        	2008/12/08 Rebuilt for i486
+Current:	2009/09/01 Built with openssl, sqlite, and tk support.

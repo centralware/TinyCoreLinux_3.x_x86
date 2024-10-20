@@ -1,0 +1,14 @@
+Title:		pysqlite-2.6.tcz
+Description:	pysqite      (TESTING)
+Version:	1.1.8a
+Author:		Gerhard Haring
+Original-site:	http://www.pysqlite.org
+Copying-policy:	see site
+Size:		40.0K
+Extension_by:	Kingdomcome
+Comments:	Depends on python.tcz and deps
+		
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	2009/09/15 First Version

@@ -1,0 +1,1 @@
+49f50fe68ff2f97e9f46baa770b36b9d  qt-4.x-qt3support.tcz

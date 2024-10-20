@@ -1,0 +1,1 @@
+c8ac41d0d2df5da43204d4f10a53bdde  pygtk-doc-2.6.tcz

@@ -1,0 +1,1 @@
+bc7057fe3645f9ab9f7817be29748adf  pyserial-2.7.tcz

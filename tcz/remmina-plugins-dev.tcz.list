@@ -1,0 +1,13 @@
+usr/local/lib/remmina/plugins/remmina-plugin-nx.a
+usr/local/lib/remmina/plugins/remmina-plugin-nx.la
+usr/local/lib/remmina/plugins/remmina-plugin-rdp.a
+usr/local/lib/remmina/plugins/remmina-plugin-rdp.la
+usr/local/lib/remmina/plugins/remmina-plugin-telepathy.a
+usr/local/lib/remmina/plugins/remmina-plugin-telepathy.la
+usr/local/lib/remmina/plugins/remmina-plugin-vnc.a
+usr/local/lib/remmina/plugins/remmina-plugin-vnc.la
+usr/local/lib/remmina/plugins/remmina-plugin-xdmcp.a
+usr/local/lib/remmina/plugins/remmina-plugin-xdmcp.la
+usr/local/share/doc/License/remmina-plugins-dev-authors.txt
+usr/local/share/doc/License/remmina-plugins-dev-copying.txt
+usr/local/share/doc/License/remmina-plugins-dev-readme.txt

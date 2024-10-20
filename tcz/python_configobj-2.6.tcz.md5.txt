@@ -1,0 +1,1 @@
+048b37cc52f1e7e57d4cad8a5a995246  python_configobj-2.6.tcz

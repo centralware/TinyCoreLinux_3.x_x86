@@ -1,0 +1,1 @@
+d719b4ed28265e6a85d7c6241ae7f659  pylirc-2.6.tcz

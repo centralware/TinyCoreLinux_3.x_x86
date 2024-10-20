@@ -1,0 +1,13 @@
+usr/local/lib/python2.6/site-packages/OpenSSL/SSL.so
+usr/local/lib/python2.6/site-packages/OpenSSL/__init__.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/crypto.so
+usr/local/lib/python2.6/site-packages/OpenSSL/rand.so
+usr/local/lib/python2.6/site-packages/OpenSSL/test/__init__.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/test/test_crypto.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/test/test_rand.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/test/test_ssl.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/test/util.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/tsafe.pyc
+usr/local/lib/python2.6/site-packages/OpenSSL/version.pyc
+usr/local/lib/python2.6/site-packages/pyOpenSSL-0.10-py2.6.egg-info
+usr/local/share/doc/License/pyopenssl.txt

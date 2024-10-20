@@ -1,0 +1,1 @@
+025255eaede33f38924e49061f9a48b6  python-2.5.2-minimal.tcz

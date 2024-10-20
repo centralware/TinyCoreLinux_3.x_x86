@@ -1,0 +1,19 @@
+Title:		PyPanel-2.6.tcz
+Description:	PyPanel      (TESTING)
+Version:	2.4
+Author:		Jon Gelo
+Original-site:	http://pypanel.sourceforge.net
+Copying-policy:	GPL
+Size:		44.0K
+Extension_by:	Kingdomcome
+Comments:	Depends on python.tcz and deps, fontconfig, and
+		python-xlibs.
+		A lightweight panel for EWMH compliant WMs including
+		openbox. a config file will be created in ~ when first 
+		run.
+		
+		
+		This extension is PPI compatible
+Change-log:	----
+		2009/11/08 First Version
+Current:	2010/10/04 Added 2.6 name.

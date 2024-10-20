@@ -1,0 +1,18 @@
+Title:          python_twisted-2.6.tcz
+Description:    internet app framework for python
+Version:        8.2.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 4.26MB
+Extension_by:   juanito
+Comments:       an event-based framework for internet applications
+                ----------
+                requires the python, openssl-0.9.8h, sqlite3, tcl_tk 
+                python_setuptools, python_configobj and
+                python_zope.interface extensions
+                ----------
+                This extension contains:
+                Twisted-8.2.0 - MIT - http://tmrc.mit.edu/mirror/twisted/Twisted/8.2/Twisted-8.2.0.tar.bz2
+Change-log:     first version
+Current:        2009/11/08

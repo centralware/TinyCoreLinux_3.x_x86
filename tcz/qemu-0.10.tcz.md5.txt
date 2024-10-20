@@ -1,0 +1,1 @@
+a83c7c6b891fd89909cd66c42f001a9a  qemu-0.10.tcz

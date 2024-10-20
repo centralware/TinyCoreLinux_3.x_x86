@@ -1,0 +1,15 @@
+Title:		pyopenssl-2.6.tcz
+Description:	PyOpenSSL     (TESTING)
+Version:	0.10
+Author:		Jean-Paul Calderone
+Original-site:	https://launchpad.net/pyopenssl
+Copying-policy:	LGPLv2.1
+Size:		116K
+Extension_by:	Kingdomcome
+Comments:	Python interface to the openssl library
+		
+		Depends on python.tcz
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	2010/03/12 First Version

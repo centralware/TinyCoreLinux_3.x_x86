@@ -1,0 +1,33 @@
+Title:		pygtk-2.6.tcz
+Description:	GTK+ for Python
+Version:	2.16.0
+Author:		Original author: James Henstridge <james@daa.com.au> Current maintainer: Johan Dahlin <johan@gnome.org>
+Original-site:	http://www.pygtk.org/
+Copying-policy:	GPLv2
+Size:		1.3M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	PyGTK lets you to easily create programs
+		with a graphical user interface using the
+		Python programming language. The underlying GTK+
+		library provides all kind of visual elements and
+		utilities for it and, if needed, you can develop
+		full featured applications for the GNOME Desktop.
+
+		PyGTK applications are truly multiplatform and 
+		they're able to run, unmodified, on Linux, Windows,
+		MacOS X and other platforms.
+
+		Other distinctive features of PyGTK are,
+		besides its ease of use and rapid prototyping,
+		its first class accesibility support or the capability
+		to deal with complex multilingual or bidirectional 
+		text for fully localized applications.
+		------------------------------------------
+		This extension is PPI compatible.
+Change-log:     2009/03/25 Initial packaging
+                2009/08/28 Upgraded to 2.14.1 and built with python 2.6.2.
+                2009/12/12 updated to 2.16.0
+	        2009/12/22 Recompiled with glade support by bmarkus
+		2010/06/28 Recompiled
+Current:        2010/06/29   Recompiled with glade support
+

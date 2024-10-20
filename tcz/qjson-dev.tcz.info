@@ -1,0 +1,11 @@
+Title:		qjson-dev.tcz
+Description:	QJson is a qt-based library that maps JSON data to QVariant objects, development files.
+Version:	0.7.1
+Author:		Flavio Castelli
+Original-site:	http://qjson.sourceforge.net/
+Copying-policy:	LGPL-2.1
+Size:		8.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/11 First Version

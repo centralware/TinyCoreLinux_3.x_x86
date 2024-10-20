@@ -1,0 +1,15 @@
+Title:          python_markupsafe-2.7.tcz
+Description:    html unicode subclass
+Version:        0.11
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 28KB
+Extension_by:   juanito
+Comments:       Implements a unicode subclass that supports HTML strings
+                ----------
+                This extension contains:
+                MarkupSafe-0.11 - BSD - http://pypi.python.org/packages/source/M/MarkupSafe/MarkupSafe-0.11.tar.gz
+                ----------
+Change-log:     first version
+Current:        2010/09/12

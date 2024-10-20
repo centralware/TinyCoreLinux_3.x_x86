@@ -1,0 +1,1 @@
+096f0d325a7be07ee53b34d9305a1c6e  qt-4.x-opengl.tcz

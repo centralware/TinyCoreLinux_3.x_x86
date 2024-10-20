@@ -1,0 +1,11 @@
+Title:		rasqal.tcz
+Description:	RDF Query Library.
+Version:	0.9.19
+Author:		Dave Beckett
+Original-site:	http://librdf.org/rasqal/
+Copying-policy:	GPL-2/LGPL-2.1
+Size:		156.0K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/01 First Version

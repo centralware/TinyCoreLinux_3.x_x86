@@ -1,0 +1,1 @@
+9870e1ef07229f3dca2d5abb1d4d9269  qt-3.3.8b-xorg.tcz

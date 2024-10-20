@@ -1,0 +1,17 @@
+Title:		remmina-locale.tcz
+Description:	remmina - GTK+ Remote Desktop Client with multiple protocol support - locale data
+Version:	0.9.3
+Author:		Various (see /usr/local/share/doc/License/remmina-locale-authors.txt)
+Original-site:	http://remmina.sourceforge.net
+Copying-policy:	GPL (see /usr/local/share/doc/License/remmina-locale-copying.txt)
+Size:		172K
+Extension_by:	gutmensch
+Comments:	1) Install remmina-plugins for RDP, NX, VNC, etc.
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2010/12/13	Initial version 0.9.0
+		2010/12/16	Fixed missing shared-mime-info dep
+		2010/12/19	Bump to 0.9.1
+		2010/12/20	Added gnome-icon-theme as dep
+		2010/12/28	Bump to 0.9.2
+Current:	2011/02/06	Bump to 0.9.3

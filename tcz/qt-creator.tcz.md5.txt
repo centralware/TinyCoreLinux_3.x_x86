@@ -1,0 +1,1 @@
+70be65bc9fab319c803f60312c77ff0c  qt-creator.tcz

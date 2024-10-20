@@ -1,0 +1,11 @@
+Title:		qtfm.tcz
+Description:	A small, lightweight file manager for Linux desktops based on pure Qt.
+Version:	4.9
+Author:		Wittfella
+Original-site:	http://www.qtfm.org
+Copying-policy:	GPL-2
+Size:		204K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/04/09 First Version

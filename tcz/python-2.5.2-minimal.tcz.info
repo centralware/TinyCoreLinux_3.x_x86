@@ -1,0 +1,15 @@
+Title:          python-minimal.tcz
+Description:	Python programming language - minimal utilities.
+Version:        2.5.2
+Author:         Python Software Foundation.
+Original-site:  http://www.python.org/
+Copying-policy: Python license: http://www.python.org/psf/license
+Size: 1.1M
+Extension_by:   Jason W
+Comments:       This is a stripped down version of Python that takes
+		up less space with small apps in mind such as the Edna
+		music server.  This extension is not needed if you 
+		have python.tcz installed.
+                ----------
+Change-log:     2008/07/23 First version
+Current:        2008/12/11 Rebuilt for i486, size, cramfs.

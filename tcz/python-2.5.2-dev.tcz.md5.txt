@@ -1,0 +1,1 @@
+b7ce7e6aece07c917356a2796870c9b4  python-2.5.2-dev.tcz

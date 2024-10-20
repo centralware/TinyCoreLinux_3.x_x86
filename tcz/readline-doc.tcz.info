@@ -1,0 +1,11 @@
+Title:		readline-doc.tcz
+Description:	GNU Readline Library
+Version:	6.1
+Author:		Chet Ramey
+Original-site:	http://tiswww.case.edu/php/chet/readline/rltop.html
+Copying-policy:	GPL3
+Size:		148.0K
+Extension_by:	Daniel Barnes
+Comments:	---
+Change-log:	---
+Current:	2010/02/26 - Split out dev and doc files

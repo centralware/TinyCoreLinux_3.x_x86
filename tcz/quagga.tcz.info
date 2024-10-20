@@ -1,0 +1,16 @@
+Title:          quagga.tcz
+Description:    Quagga Routing Software Suite
+Version:        0.99.18
+Author:         Quagga Routing Software Suite
+Original-site:  http://www.quagga.net
+Copying-policy: GPL
+Size:		1.3M
+Extension_by:   brezular
+Comments:       Quagga is a routing software suite, providing
+                implementations of OSPFv2, OSPFv3, RIP v1 and v2,
+                RIPng and BGP-4 for Unix platforms, particularly FreeBSD,
+                Linux, Solaris and NetBSD. Quagga is a fork of GNU Zebra
+                which was developed by Kunihiro Ishiguro.
+Change-log:     2009/11/11 First version 0.99.15
+                2010/12/26 Update to 0.99.17. Add support for isisd,ripngd, ospf6d
+Current:        2011/04/07 Update to 0.99.18. Bug-fixes, enhancements for ospfd, ospf6d and bgp

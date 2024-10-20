@@ -1,0 +1,13 @@
+Title:		rdesktop.tcz
+Description:	rdesktop - Client for RDP protocol
+Version:	1.7.0
+Author:		Various
+Original-site:	http://www.rdesktop.org
+Copying-policy:	GPL (see /usr/local/share/doc/License/rdesktop-copying.txt)
+Size:		140K
+Extension_by:	curaga, gutmensch
+Comments:	
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2009/01/08	Original
+Current:	2011/04/19	Bump to 1.7.0, added pcsc-lite support

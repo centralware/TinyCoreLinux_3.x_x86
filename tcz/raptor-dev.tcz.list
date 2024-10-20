@@ -1,0 +1,5 @@
+usr/local/bin/raptor-config
+usr/local/include/raptor.h
+usr/local/lib/libraptor.a
+usr/local/lib/libraptor.la
+usr/local/lib/pkgconfig/raptor.pc

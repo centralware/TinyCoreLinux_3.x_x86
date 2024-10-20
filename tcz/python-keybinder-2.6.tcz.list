@@ -1,0 +1,12 @@
+python-keybinder.tcz
+usr/local/include/keybinder.h
+usr/local/lib/libkeybinder.la
+usr/local/lib/libkeybinder.so
+usr/local/lib/libkeybinder.so.0
+usr/local/lib/libkeybinder.so.0.0.1
+usr/local/lib/pkgconfig/keybinder.pc
+usr/local/lib/python2.6/site-packages/keybinder/__init__.py
+usr/local/lib/python2.6/site-packages/keybinder/__init__.pyc
+usr/local/lib/python2.6/site-packages/keybinder/__init__.pyo
+usr/local/lib/python2.6/site-packages/keybinder/_keybinder.la
+usr/local/lib/python2.6/site-packages/keybinder/_keybinder.so

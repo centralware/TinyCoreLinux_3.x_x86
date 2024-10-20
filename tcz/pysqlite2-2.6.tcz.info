@@ -1,0 +1,12 @@
+Title:			pysqlite.tcz
+Description:		pysqlite2              (TESTING)
+Version:		2.5.5
+Author:			Gerhard Haring
+Original-site:		http://pysqlite.org
+Copying-policy:		see site
+Size:			112.0K
+Extension_by:		Kingdomcome
+Comments:		python API for sqlite3
+			Requires python.tcz and sqlite3.tcz
+Change-log:		2009/05/16 First Version
+Current:		2009/08/28 Rebuilt for Python2.6

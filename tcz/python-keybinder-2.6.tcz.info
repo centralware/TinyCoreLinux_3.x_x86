@@ -1,0 +1,14 @@
+Title:          python-keybinder-2.6.tcz
+Description:    keybinder is a library for registering global keyboard shortcuts. Keybinder works with 
+		GTK-based applications using the X Window System.
+Version:        0.2.2
+Author:         Alex Graveley, Nigel Tao, Raphaël Slinckx, Sebastian Pölsterl, Ulrik Kaizer
+Original-site:  http://kaizer.se/wiki/keybinder/
+Copying-policy: GPL v2
+Size:           12K
+Extension_by:   blofsy
+Comments:       
+		Source,licence and build instructions:
+		http://kaizer.se/publicfiles/keybinder/keybinder-0.2.2.tar.gz
+Current:        Wed Jul 28 15:54:07 CEST 2010, python-keybinder 0.2.2 
+

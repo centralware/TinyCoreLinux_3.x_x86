@@ -1,0 +1,14 @@
+Title:          pyogg-vorbis.tcz
+Description:    Python support for Ogg/Vorbis streaming.
+Version:        1.4
+Author:         Andrew Chatham, Mike Coleman
+Original-site:  http://ekyo.nerim.net/software/pyogg/
+Copying-policy: GPL
+Size: 424K
+Extension_by:   Jason W
+Comments:       This package requires either the python-minimal.tcz 
+		or python.tcz extensions as well as ogg-vorbis.tcz.
+		This package is mainly intended for ogg streaming support in the Edna music server.
+                ----------
+Change-log:     First version
+Current:        2008/07/27

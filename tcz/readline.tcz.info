@@ -1,0 +1,13 @@
+Title:		readline.tcz
+Description:	GNU Readline Library
+Version:	6.1
+Author:		Chet Ramey
+Original-site:	http://tiswww.case.edu/php/chet/readline/rltop.html
+Copying-policy:	GPL3
+Size:		120.0K
+Extension_by:	Daniel Barnes
+Comments:	---
+Change-log:	2009/03/10 - Initial release
+		2009/06/27 - Update to remove dev files
+		2010/02/26 - Update to version 6.1; split out dev and doc files
+Current:	2010/05/05 - Link with ncurses; include patches 001 and 002

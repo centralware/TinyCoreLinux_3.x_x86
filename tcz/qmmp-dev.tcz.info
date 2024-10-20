@@ -1,0 +1,17 @@
+Title:		qmmp-dev.tcz
+Description:	Qt-based Multimedia Player, development files.
+Version:	0.5.1
+Author:		Ilya Kotov, Vladimir Kuznetsov, Yuriy Zhuravlev, Andrey Adreev
+Original-site:	http://qmmp.ylsoftware.com/
+Copying-policy:	GPL-2
+Size:		64K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/02/07 Original 0.3.2
+		2010/04/06 Updated to 0.3.4-svn-r1660
+		2010/05/31 Updated to 0.4.0
+		2010/08/26 Updated to 0.4.1
+		2010/09/05 Updated to 0.4.2
+		2010/11/06 Updated to 0.4.3
+		2011/04/04 Updated to 0.5.0
+Current:	2011/08/13 Updated to 0.5.1

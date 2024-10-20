@@ -1,0 +1,12 @@
+Title:		pyopengl.tcz
+Description:	PyOpenGL is the cross platform Python binding to OpenGL and related APIs.
+Version:	3.0.1
+Author:		Mike C. Fletcher
+Original-site:	http://pyopengl.sourceforge.net
+Copying-policy:	BSD
+Size:		1.7M
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/03/22 Original 3.0.1
+		2010/07/21 Rebuilt against python 2.7
+Current:	2010/08/13 Renamed without python version
