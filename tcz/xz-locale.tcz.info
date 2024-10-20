@@ -1,0 +1,22 @@
+Title:          xz-locale.tcz
+Description:    Data compression library and CLI tool
+Version:        5.0.3
+Author:         Various
+Original-site:  http://tukaani.org/xz/
+Copying-policy: Various, see details in xz-doc.tcz
+Size:		48K
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC 3.x
+                ----
+                Native format is .xz but supports
+                legacy .lzma too. Creates smaller files
+                than zip, gzip or bzip2 in most cases.
+                ----
+                PPI compatible
+Change-log:     2010/06/26 First version, 4.999.9beta
+                2010/11/01 Updated to 5.0.0
+Current:        2011/08/10 Updated to 5.0.3
+
+

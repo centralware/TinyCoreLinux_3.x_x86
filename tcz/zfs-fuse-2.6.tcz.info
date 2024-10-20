@@ -1,0 +1,11 @@
+Title:		zfs-fuse-2.6.tcz
+Description:	ZFS Filesystem for FUSE/Linux
+Version:	0.6.0
+Author:		Ricardo Correia
+Original-site:	http://zfs-fuse.net/
+Copying-policy:	CDDL
+Size:		4.9M
+Extension_by:	Daniel Barnes
+Comments:	---
+Change-log:	2009/07/10 - Initial release
+Current:	2010/02/16 - Update to 0.6.0

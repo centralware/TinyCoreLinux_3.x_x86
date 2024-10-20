@@ -1,0 +1,16 @@
+Title:          Xprogs.tcz
+Description:    Xprogs from tinycore
+Version:        
+Author:         various
+Original-site:  
+Copying-policy: OpenSource
+Size:		856k
+Extension_by:   roberts
+Comments:       This is the Xprogs from tinycore
+Change-log:     ----
+        	2011/02/12 from tinycore base.
+        	2011/03/10 Updated for v.3.5.1
+		2011/05/11 Bug fix for support of alternate supported window managers.
+		2011/08/06 Updated for Micro Core 3.8
+		2011/08/08 Fixed icons for AppsAudit, Editor, and Run.
+Current:	2011/08/23 Updated for Micro Core 3.8.3 - mnttool

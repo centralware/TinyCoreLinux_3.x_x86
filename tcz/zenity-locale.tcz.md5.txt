@@ -1,0 +1,1 @@
+b87c815aa10ebec00376472eee4f0a97  zenity-locale.tcz

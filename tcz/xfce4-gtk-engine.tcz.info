@@ -1,0 +1,13 @@
+Title:          xfce4-gtk-engine.tcz
+Description:    GTK themes for Xfce4 desktop.
+Version:        svn 2009/12/29
+Author:         xfce engine by Olivier Fourdan, themes by various people 
+Original-site:  http://www.xfce.org/
+Copying-policy: GPL-3
+Size: 		40K
+Extension_by:   Arslan S.
+Comments:      	This extension is for Xfce4 only.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/1/1 First Version

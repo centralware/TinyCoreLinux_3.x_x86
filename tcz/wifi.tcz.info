@@ -1,0 +1,25 @@
+Title:          wifi.tcz
+Description:    Tiny Wifi Scanning Tool
+Version:        0.5
+Author:         Robert Shingledecker
+Original-site:  www.tinycorelinux.com
+Copying-policy: GPL
+Size:		4K
+Extension_by:   roberts
+Comments:       A console based tiny wifi scan access point tool.
+                Select from menu or type sudo wifi.sh
+		Creates wifi.db in HOME directory.
+		Can auto connect to first db entry with use of auto, e.g.,
+		
+		/usr/local/bin/wifi.sh auto 2>&1 > /tmp/wifi.log
+		
+		Add above to bootlocal or bootsync for quick auto connect.
+		When mobile, use menu for select list of APs.
+Change-log:     
+                2011/06/15 v0.1 Original Awk Program
+		2011/07/02 v0.2 Major rewrite to Ash/Awk
+		2011/07/09 v0.3 Chng db delimiter to tab, shell protect passwd, bug fix.
+		2011/07/14 v0.4 Separate loops for associate and IP request.
+		2011/07/23 v0.5 Support of ssids with embedded spaces.		
+		2011/07/26 v0.6 Fixed initial wifi detection.
+Current:	2011/07/26 v0.6 Now supports initial CLI ondemand.

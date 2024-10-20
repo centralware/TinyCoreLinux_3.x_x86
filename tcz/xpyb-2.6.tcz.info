@@ -1,0 +1,24 @@
+Title:          xpyb-2.6.tcz
+Description:    Python Bindings for XCB (TESTING)
+Version:        1.2
+Author:         Eamon Walsh
+Original-site:  http://xcb.freedesktop.org/
+Copying-policy: Public Domain
+Size:		88k
+Extension_by:   robc
+Comments:		This package requires libxcb, python,
+		sqlite3, tcl_tk, and openssl-0.9.8h.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://xcb.freedesktop.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/08 Original
+Current:	2010/01/08 Original

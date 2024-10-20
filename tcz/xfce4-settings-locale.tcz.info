@@ -1,0 +1,26 @@
+Title:          xfce4-settings-locale.tcz
+Description:    Tools for Xfce4 settings
+Version:        4.8.4
+Author:         Stephan Arts, Brian J. Tarricone, Jannis Pohlmann
+Original-site:  http://www.xfce.org
+Copying-policy: GPL v2
+Size:		404K
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC 3.x/4.x
+                ----
+                PPI compatible
+Change-log:     2010/06/10 First version, 4.6.5
+                2010/06/18 Recompiled against TC 3.0 Alpha 7
+                2011/01/28 Updated to 4.8.0
+                2011/02/02 Updated to 4.8.1
+                2011/05/20 Updated to 4.8.2
+Current:        2011/09/23 Updated to 4.8.3
+
+
+
+
+
+
+

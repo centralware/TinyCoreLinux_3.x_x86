@@ -1,0 +1,11 @@
+Title:          wireless-2.6.33.3-tinycore64.tcz
+Description:    Wireless support
+Version:        2.6.33.3-tinycore64
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		1.3M
+Extension_by:   Curaga
+Comments:       
+Change-log:     2010/04/27 Original
+Current:        2010/05/14 Removed ssb

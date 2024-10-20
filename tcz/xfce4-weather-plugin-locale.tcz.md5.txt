@@ -1,0 +1,1 @@
+75367239e187eeb86f72137a21a3484b  xfce4-weather-plugin-locale.tcz

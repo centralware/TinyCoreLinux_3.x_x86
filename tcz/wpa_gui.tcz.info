@@ -1,0 +1,14 @@
+Title:          wpa_gui.tcz
+Description:    GUI for wpa_supplicant
+Version:        0.6.10
+Author:         Jouni Malinen
+Original-site:  http://hostap.epitest.fi/wpa_supplicant/
+Copying-policy: GPL
+Size:		80K
+Extension_by:   Curaga
+Comments:       See 
+		http://wiki.tinycorelinux.net/wiki:setting_up_wifi
+.
+		for usage instructions.
+Change-log:     
+Current:        2009/01/24 Original

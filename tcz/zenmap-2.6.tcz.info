@@ -1,0 +1,15 @@
+Title:		zenmap-2.6.tcz
+Description:	nmap - World famous port scanner
+Version:	5.21
+Author:		Gordon Lyon
+Original-site:	http://nmap.org
+Copying-policy:	GPL (see usr/local/share/doc/License/nmap.txt)
+Size:		1.0M
+Extension_by:	Key, juanito, gutmensch
+Comments:	
+	   	--- 
+		This extension is PPI compatible.
+		This extension uses recursion for dependencies and requires tinycore >= 2.10.
+Change-log:	2009/04/21	Initial version 4.85BETA6
+		2010/02/28	Bumped to 5.21
+Current:	2010/04/26	Recompiled against openssl-0.9.8 w/patchlevel n

@@ -1,0 +1,20 @@
+Title:          xastir-doc.tcz
+Description:    Graphical APRS client
+Version:        2.0.0
+Author:         Many, see source code for complete list
+Original-site:  http://www.xastir.org
+Copying-policy: GPL v2
+Size:           598k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/21 First version, 1.9.8
+                2010/07/06 Updated to 1.9.9-DEV20100701
+                2010/07/22 Updated to 1.9.9-DEV20100716
+                2010/08/03 Updated to 1.9.9-DEV20100801
+                2010/08/20 Updated to 1.9.9-DEV20100816
+                2010/10/29 Updated to 2.0.0
+Current:        2010/11/08 Recompiled against bsddb 5

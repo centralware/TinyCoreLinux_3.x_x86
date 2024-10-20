@@ -1,0 +1,14 @@
+Title:		wine-gecko.tcz
+Description:	Gecko engine for wine browser
+Version:	1
+Author:		Various
+Original-site:	http://www.winehq.org
+Copying-policy:	LGPL
+Size:		28.1M
+Extension_by:	gutmensch
+Comments:	Use this extension, if you want to have full browser support in wine.
+
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2011/07/08	Initial version 1
+Current:	2011/07/08	Initial version 1

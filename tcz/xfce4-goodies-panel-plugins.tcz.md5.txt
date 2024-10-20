@@ -1,0 +1,1 @@
+e77ea35ee526c001b9778eb62323249b  xfce4-goodies-panel-plugins.tcz

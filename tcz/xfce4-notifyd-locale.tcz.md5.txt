@@ -1,0 +1,1 @@
+484ea691d292cd45393dc739f3f66544  xfce4-notifyd-locale.tcz

@@ -1,0 +1,1 @@
+b688ebdf83260c2e0f4acb30bf32db51  xchat2-locale.tcz

@@ -1,0 +1,26 @@
+Title:          Xorg-7.4-dev.tcz
+Description:    X.org development files
+Version:        7.4-2 (1.6.1)
+Author:         X organization
+Original-site:  http://www.x.org
+Copying-policy: MIT
+Size:		1.7M
+Extension_by:   Curaga
+Comments:       You need these to compile any graphical apps.
+		Depends on pixman, fontconfig, and expat.
+-
+		Known workarounds you might need:
+		PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+		CPPFLAGS=-I/usr/local/include
+		LDFLAGS=-L/usr/local/lib
+-
+		If you want to compile extensions not dependent on
+		Xorg, only load this -dev extension and not Xorg.
+		Advanced functionality is in static libs in this 
+		extension, but in dynamic libs in Xorg.
+Change-log:     2008/09/27 Original
+		2008/10/19 Edited .la and .pc files for base X libs
+	        2008/11/29 Edited up .la .pc for libSM and libICE too
+		2008/11/29 Added installed-markers for included devs
+		2008/12/22 Cleaned up unneeded libs
+Current:	2009/04/25 Update to 1.6.1 for TC2

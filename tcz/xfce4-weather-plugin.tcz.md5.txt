@@ -1,0 +1,1 @@
+e99eb863ca48599393d65a4fc53a4c5d  xfce4-weather-plugin.tcz

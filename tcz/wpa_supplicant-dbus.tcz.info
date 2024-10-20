@@ -1,0 +1,13 @@
+Title:		wpa_supplicant-dbus.tcz
+Description:	WPA Supplicant with dbus support.
+Version:	0.7.3
+Author:		Jouni Malinen
+Original-site:	http://hostap.epitest.fi/wpa_supplicant
+Copying-policy:	GPL-2
+Size:		240K
+Extension_by:	Arslan S.
+Comments:	This extension conflicts with wpa_supplicant.tcz
+		This extension is PPI compatible.
+Change-log:	2010/07/05 First Version 0.6.10
+		2010/11/18 Updated to 0.7.3
+Current:	2011/10/08 Rebuilt for TCL 4.x

@@ -1,0 +1,1 @@
+207f7a13778668be346312edd5c49fc8  xfce4-power-manager.tcz

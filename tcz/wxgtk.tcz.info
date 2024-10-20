@@ -1,0 +1,13 @@
+Title:          wxgtk.tcz
+Description:    WxWidgets for gtk2
+Version:        2.8.10
+Author:         Various
+Original-site:  http://wxwidgets.org
+Copying-policy: wxWindows license
+Size:		3.1M
+Extension_by:   Curaga
+Comments:       This extension is PPI compatible.
+Change-log:     
+                2009/03/31 Original
+Current:	2009/07/22 Rebuild monolithic and with better
+		c++ support.

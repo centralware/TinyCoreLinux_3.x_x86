@@ -1,0 +1,1 @@
+3f28b14e3a8b99f6ef5a0f564f3e4c9e  xfce4-taskmanager-locale.tcz

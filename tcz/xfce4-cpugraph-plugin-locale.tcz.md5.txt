@@ -1,0 +1,1 @@
+2a9b2d37eebad52fcfbac98cfa9bdec5  xfce4-cpugraph-plugin-locale.tcz

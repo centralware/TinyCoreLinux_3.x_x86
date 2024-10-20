@@ -1,0 +1,13 @@
+Title:		xine-lib-dev.tcz
+Description:	xine is a free (gpl-licensed) high-performance, portable and reusable multimedia playback engine dev files
+Version:	1.1.19
+Author:		Xine Project Team
+Original-site:	http://www.xine-project.org/home
+Copying-policy:	GPLv2
+Size:		112.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+		This extension is PPI compatible
+Change-log:	2010/06/23 First version 1.18.1
+Current:	2010/07/27 Update to 1.1.19

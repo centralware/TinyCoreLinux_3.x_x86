@@ -1,0 +1,11 @@
+Title:          xplanet.tcz
+Description:    Renderer for planetary and solar system images
+Version:        1.2.1
+Author:         Hari Nair
+Original-site:  http://xplanet.sourceforge.net
+Copying-policy: GPL
+Size:           1.0M
+Extension_by:   bmarkus
+Comments:	Compiled for TC2.0
+Change-log:     ----
+Current:   	2009/06/23 First version

@@ -1,0 +1,11 @@
+Title:		wxcam-locale.tcz
+Description:	wxCam is a webcam application for linux, locale files.
+Version:	1.0.7
+Author:		various
+Original-site:	http://wxcam.sourceforge.net/
+Copying-policy:	GPL
+Size:		28K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/12/07 First Version 1.0.6
+Current:	2011/03/30 Updated to 1.0.7

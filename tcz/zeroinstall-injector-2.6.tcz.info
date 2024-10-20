@@ -1,0 +1,13 @@
+Title:		zeroinstall-injector-2.6.tcz
+Description:	a way to run software without an explicit installation step
+Version:	0.46
+Author:		Thomas Leonard
+Original-site:	http://0install.net/
+Copying-policy:	Lesser GPL
+Size:		452.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	
+		This extension is PPI compatible
+Change-log:	2009/10/31 First Version (0.42.1)
+		2010/03/15 Updated 2 0.45
+Current: 	2010/04/08 Updated 2 0.46 

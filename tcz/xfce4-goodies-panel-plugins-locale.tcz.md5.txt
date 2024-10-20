@@ -1,0 +1,1 @@
+e96c2b842f9741ab5e4ee5592706920a  xfce4-goodies-panel-plugins-locale.tcz

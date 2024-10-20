@@ -1,0 +1,1 @@
+19d854421e507c808b557146273e0c38  xfce4-cpufreq-plugin-locale.tcz

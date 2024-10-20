@@ -1,0 +1,6 @@
+libxfce4util.tcz
+libxfce4ui.tcz
+xfconf.tcz
+dbus-glib.tcz
+libwnck.tcz
+libstartup-notification.tcz

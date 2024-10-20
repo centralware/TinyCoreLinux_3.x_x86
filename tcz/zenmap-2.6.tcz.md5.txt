@@ -1,0 +1,1 @@
+b5fdea881ab8e1a198bded2fd4ce4f05  zenmap-2.6.tcz

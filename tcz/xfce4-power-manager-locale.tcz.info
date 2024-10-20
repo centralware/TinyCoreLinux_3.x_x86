@@ -1,0 +1,18 @@
+Title:          xfce4-power-manager-locale.tcz
+Description:    Power manager of Xfce4 desktop.(TESTING)
+Version:        0.8.4.2
+Author:         Ali Abdallah
+Original-site:  http://goodies.xfce.org/projects/applications/xfce4-power-manager
+Copying-policy: GPL-2
+Size: 		128K
+Extension_by:   Arslan S.
+Comments:      	Laptop LCD brightness panel plugin is included.
+		Right click on panel -> Add New Items -> Brightness Plugin
+
+		Power manager daemon should be automatically added to startup.
+
+		This extension is for Xfce4 only.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2009/12/28 Original

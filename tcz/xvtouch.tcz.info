@@ -1,0 +1,23 @@
+Title:          xvtouch.tcz
+Description:    xvtouch Xvesa Xorg usb hid event udev touchscreen driver
+Version:        1.0.00
+Author:         Luc Hermans
+Original-site:  http://www.dobit.com/xvtouch.htm
+Copying-policy: GNU GPL
+Size:		12K
+Extension_by:   Luc Hermans
+Comments:       xvtouch:
+                    Xvesa Xorg usb hid event udev touchscreen driver
+                Requires:
+                    Xorg-7.5-lib.tcz (Xlibs support libraries)
+                Calibration:
+                    In xterm type:
+                        xvtouch /dev/input/eventX -c
+                Config:
+                    Add to /home/tc/.xsession after waitforX
+                        killall xvtouch
+                        xvtouch /dev/input/event3 &
+                   Add to /opt/.filetool.lst
+                        /usr/local/etc/xvtouch.cal
+Change-log:     2011/05/15 Initial release
+Current:        2011/05/15 Initial release

@@ -1,0 +1,33 @@
+Title:          wl.tcz
+Description:    broadcom wl
+Version:        5.100.82.38
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1MB
+Extension_by:   juanito
+Comments:       Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver for use..
+                ..with Broadcom's BCM4311-, BCM4312-, BCM4321-, and 
+                BCM4322-based hardware.
+                ----------
+                Note: you need to blacklist the ssb and b43 modules for this to work
+                $ sudo modprobe cfg80211
+                $ sudo modprobe lib80211_crypt_wep
+                $ sudo modprobe lib80211_crypt_ccmp
+                ..then as usual
+                ----------
+                This extension contains:
+                hybrid-portsrc_x86-32_v5.60.246.2 - Broadcom License - http://www.broadcom.com/support/802.11/linux_sta.php
+                ----------
+Change-log:     2009/04/20
+                Updated v5_10_79_10 -> v5_10_91_9
+                2009/06/20
+                updated v5_10_91_9 -> v5_10_91_9.3
+                2009/09/26
+                updated to 5.60.48.36 + TC3.0alpha6 headers (dentonlt)
+                2010/06/14
+                updated 5.60.48.36 -> 5.60.246.2 (juanito)
+                2010/10/29
+                updated 5.60.246.2 -> 5.100.82.38 (juanito)
+Current:        2011/02/18
+		

@@ -1,0 +1,26 @@
+Title:          xpyb-dev-2.6.tcz
+Description:    Python Bindings for XCB Development Files (TESTING)
+Version:        1.2
+Author:         Eamon Walsh
+Original-site:  http://xcb.freedesktop.org/
+Copying-policy: Public Domain
+Size:		160k
+Extension_by:   robc
+Comments:		This package requires libxcb-dev, 
+		Xorg-7.4-dev, expat2-dev, openssl-0.9.8h-dev,
+		pixman-dev, fontconfig-dev, python, sqlite3, 
+		tcl_tk, openssl-0.9.8h, and python-dev.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://xcb.freedesktop.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/08 Original
+Current:	2010/01/08 Original

@@ -1,0 +1,14 @@
+usr/local/etc/init.d/zfs-fuse
+usr/local/lib/python2.6/Queue.pyc
+usr/local/lib/python2.6/StringIO.pyc
+usr/local/lib/python2.6/base64.pyc
+usr/local/lib/python2.6/bisect.pyc
+usr/local/lib/python2.6/cmd.pyc
+usr/local/lib/python2.6/heapq.pyc
+usr/local/lib/python2.6/threading.pyc
+usr/local/lib/python2.6/zipfile.pyc
+usr/local/sbin/zdb
+usr/local/sbin/zfs
+usr/local/sbin/zfs-fuse
+usr/local/sbin/zpool
+usr/local/sbin/ztest

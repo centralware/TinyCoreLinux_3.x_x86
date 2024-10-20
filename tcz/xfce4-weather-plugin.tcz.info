@@ -1,0 +1,18 @@
+Title:          xfce4-weather-plugin.tcz
+Description:    Weather plugin for Xfce4
+Version:        0.7.3
+Author:         Benedikt Meurer, Jasper Huijsmans, Masse Nicolas, Nick Schermer, Colin Leroy
+Original-site:  http://www.xfce.org
+Copying-policy: GPL v2
+Size:           283k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2010/06/15 First version, 0.7.3
+
+
+

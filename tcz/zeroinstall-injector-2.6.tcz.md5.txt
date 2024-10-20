@@ -1,0 +1,1 @@
+8719691e2780fa4d4c78915727c37e12  zeroinstall-injector-2.6.tcz

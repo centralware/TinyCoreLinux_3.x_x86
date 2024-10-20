@@ -1,0 +1,21 @@
+Title:          Xfce4.tcz
+Description:    Loads Xfce4 core components and sets up TC specific environment
+Version:        4.8a
+Author:         bmarkus
+Original-site:  No site, contact bmarkus@hasix.org
+Copying-policy: GPL v2
+Size:		8.0K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Built for TC 3.x
+                ----
+                PPI compatible
+Change-log:     2010/06/14 First version
+                2010/06/19 Added thunar-volman
+                2011/02/03 Updated to 4.8
+Current:        2011/02/04 TAB key behavior fixed in Xvesa
+
+
+
+

@@ -1,0 +1,20 @@
+Title:          xfce-utils.tcz
+Description:    Utilities for Xfce4
+Version:        4.8.3
+Author:         Olivier Fourdan, Jasper Huijsmans, Benedikt Meurer, Xavier Maillard
+Original-site:  http://www.xfce.org
+Copying-policy: GPL v2
+Size:		72K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC 3.x/4.x
+                ----
+                PPI compatible
+Change-log:     2010/06/13 First version, 4.6.2
+                2010/06/18 Recompiled against TC 3.0 Alpha 7
+                2011/02/02 Updated to 4.8.1
+Current:        2011/09/23 Updated to 4.8.3
+
+
+

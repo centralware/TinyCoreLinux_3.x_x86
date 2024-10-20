@@ -1,0 +1,18 @@
+Title:		wineasio.tcz
+Description:	ASIO to jack driver for wine
+Version:	0.9.0
+Author:		Various	
+Original-site:	http://wineasio.sourceforge.net
+Copying-policy:	LGPL (see /usr/local/share/doc/License/wineasio.txt)
+Size:		40 K
+Extension_by:	gutmensch
+Comments:	This extension requires wine-gl.tcz because of jack dependency. After install execute:
+
+		$ regsvr32 /usr/local/lib/wine/wineasio.dll.so
+		
+		That should be all. 
+			
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	2011/07/09	Initial version 0.9.0
+Current:	2011/07/09	Initial version 0.9.0
