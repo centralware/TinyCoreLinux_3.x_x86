@@ -1,0 +1,1 @@
+546e731a275d3a6610dc5d55166574ee  usb-serial-2.6.33.3-tinycore.tcz

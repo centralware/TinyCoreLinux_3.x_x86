@@ -1,0 +1,12 @@
+Title:		usb-modeswitch-data.tcz
+Description:	Device database and the rules file for usb-modeswitch
+Version:	20110227
+Author:		Josua Dietze
+Original-site:	http://www.draisberghof.de/usb_modeswitch/
+Copying-policy:	GPLv2
+Size:		24K
+Extension_by:	jls_legalize <unsenepopiu at tin dot it>
+Comments:	This extension is NOT PPI compatible
+Change-log:     2010/06/11 First Version 20100418
+		2011/01/21 updated to 20101222
+Current:	2011/03/08 updated to 20110227

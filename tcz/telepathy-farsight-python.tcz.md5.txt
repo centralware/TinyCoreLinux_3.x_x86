@@ -1,0 +1,1 @@
+2ed908950faeb890661bea3bea68e0fe  telepathy-farsight-python.tcz

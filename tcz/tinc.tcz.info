@@ -1,0 +1,16 @@
+Title:		tinc.tcz
+Description:	tinc - VPN over Internet
+Version:	1.0.13
+Author:		Guus Sliepen
+Original-site:	http://www.tinc-vpn.org
+Copying-policy:	GPL (see usr/local/share/doc/License/tinc.txt)
+Size:		56.0K
+Extension_by:	gutmensch
+Comments:	For a sample configuration take a look into howto.txt.
+	   	--- 
+		This extension is PPI compatible.
+		This extension uses recursion for dependencies and requires tinycore >= 2.10.
+Change-log:	2010/02/02	Initial version 1.0.11
+		2010/02/03	Fix localstatedir to /var
+		2010/02/28	Bumped to 1.0.12
+Current:	2010/04/26	Bumped to 1.0.13

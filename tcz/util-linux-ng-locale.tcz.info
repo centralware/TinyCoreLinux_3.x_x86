@@ -1,0 +1,14 @@
+Title:          util-linux-ng-locale.tcz
+Description:    Miscellaneous system utilities for Linux locale data
+Version:        2.17.2
+Author:         Karel Zak 
+Original-site:  http://userweb.kernel.org/~kzak/util-linux-ng/
+Copying-policy: GPL
+Size: 		1MB
+Extension_by:   Jason W
+Comments:       ----
+Change-log:     2009/07/01 First version 2.14.2
+        	2009/11/16 Updated to 2.16.1 and patched with loop-aes-3.2h
+Current:	2010/05/26 Updated to 2.17.2
+
+

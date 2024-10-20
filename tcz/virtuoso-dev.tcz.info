@@ -1,0 +1,12 @@
+Title:		virtuoso-dev.tcz
+Description:	Virtuoso is a scalable cross-platform server that combines SQL/RDF/XML Data Management with Web Application Server and Web Services Platform functionality, development files.
+Version:	6.1.2
+Author:		various
+Original-site:	http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/
+Copying-policy:	GPL-2
+Size:		5.7M
+Extension_by:	Arslan S.
+Comments:	This is a minimal build for KDE nepomuk.
+		This extension is PPI compatible.
+Change-log:	---
+Current:	2010/07/17 First Version

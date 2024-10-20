@@ -1,0 +1,1 @@
+782731f3454ce83a4666f0ba31a83190  vim-locale.tcz

@@ -1,0 +1,10 @@
+glib2.tcz
+pcre.tcz
+gnutls.tcz
+openssl-0.9.8.tcz
+krb5.tcz
+libcares.tcz
+libpcap.tcz
+libcap.tcz
+ncurses.tcz
+geoip.tcz

@@ -1,0 +1,26 @@
+Title:          watcher.tcz
+Description:    FLTK cpu/ram/swap/battery meter
+Version:        1.7
+Author:         Curaga
+Original-site:  http://tinycorelinux.com
+Copying-policy: GPL
+Size:		8K
+Extension_by:   Curaga
+Comments:       The latest watcher, now available as an extension. :P
+		Changes from 1.6:
+		- battery support
+		- no borders (looking better on non-swallowing WMs)
+-
+		Use the X standard -g option to position watcher where-ever
+		wanted. X counts from top-left, so watcher in top-left corner:
+		watcher -g +0+0
+		
+		Top-right would be "-0+0", bottom left "+0-0", bottom right 
+		"-0-0".
+-
+		To start watcher on X start, add to .xsession:
+		[ $(which watcher) ] && watcher -g +0-0 &
+-
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/09/13 Original

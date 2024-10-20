@@ -1,0 +1,11 @@
+Title:          udev-lib.tcz
+Description:    libudev
+Version:        151
+Author:         Various
+Original-site:  http://www.kernel.org/pub/linux/utils/kernel/hotplug/
+Copying-policy: GPL
+Size:		24K
+Extension_by:   Curaga
+Comments:       
+Change-log:     
+Current:        2010/02/23 Original

@@ -1,0 +1,1 @@
+2e03b3a998995d1a033908b58d96fef3  usb-serial-2.6.33.3-l1-rt19.tcz

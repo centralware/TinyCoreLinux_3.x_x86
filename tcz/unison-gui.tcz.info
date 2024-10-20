@@ -1,0 +1,22 @@
+Title:          unison-gui.tcz
+Description:    File Synchronizer
+Version:	2.40.63
+Author:         Benjamin C. Pierce
+Original-site:  http://www.cis.upenn.edu/~bcpierce/unison/
+Copying-policy: GPL
+Size:		1.4M
+Extension_by:   vinnie
+Comments:	----------------------------------------------
+		Gui version of unison, to use command line with
+		this package use "unison -ui text" command.
+
+		Unison is a file synchronization program. It
+		is used for synchronizing files between two
+		directories, either on one computer, or
+		between a computer and another storage device.
+		
+		----------------------------------------------	
+		This extension is PPI compatible.			
+Change-log:     First version
+		
+Current:	2011/09/13 First Release

@@ -1,0 +1,15 @@
+Title:		vidalia.tcz
+Description:	Vidalia is a frontend GUI for tor
+Version:	0.2.9
+Author:		The Tor Project
+Original-site:	http://www.torproject.org/vidalia/
+Copying-policy:	GPLv2
+Size:		2.9M
+Extension_by:	batnas
+Comments:	You can find Documentation on the Tor projects webpage
+-
+		Note:
+		You will have to set your clock correct.
+		See the FAQ for details.
+Change-log:	2010/06/12 - Initial Release
+Current:	2010/06/12 - Initial Ralease

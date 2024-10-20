@@ -1,0 +1,1 @@
+61809c75b5009f0b0834d7728b9ffef5  telepathy-qt4.tcz

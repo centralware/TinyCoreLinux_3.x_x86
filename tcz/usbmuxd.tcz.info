@@ -1,0 +1,17 @@
+Title:          usbmuxd.tcz
+Description:    usb multiplexer
+Version:        1.0.7
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 40KB
+Extension_by:   juanito
+Comments:       usb multiplexing daemon in charge of multiplexing connections over
+                USB to an iPhone or iPod touch
+                ----------
+                This extension contains:
+                usbmuxd - GPLv2 - http://marcansoft.com/uploads/usbmuxd/usbmuxd-1.0.7.tar.bz2
+                ----------
+Change-log:     2011/04/21
+                updated -> 1.0.7
+Current:        2011/04/22

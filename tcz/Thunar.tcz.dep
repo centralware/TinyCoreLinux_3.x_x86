@@ -1,0 +1,12 @@
+libxfce4ui.tcz
+exo.tcz
+gtk2.tcz
+dbus-glib.tcz
+libexif.tcz
+libstartup-notification.tcz
+xfconf.tcz
+xfce4-panel.tcz
+gudev-lib.tcz
+pcre.tcz
+libnotify.tcz
+gnome-icon-theme.tcz

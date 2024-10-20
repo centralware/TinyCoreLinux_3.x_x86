@@ -1,0 +1,11 @@
+Title:          udev-dev.tcz
+Description:    udev development files, and udev extras
+Version:        151
+Author:         Various
+Original-site:  http://www.kernel.org/pub/linux/utils/kernel/hotplug/
+Copying-policy: GPL
+Size:		108K
+Extension_by:   Curaga
+Comments:       
+Change-log:     2010/01/31 Original
+Current:        2010/02/23 split libudev

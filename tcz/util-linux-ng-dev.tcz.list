@@ -1,0 +1,4 @@
+usr/local/include/blkid/blkid.h
+usr/local/include/uuid/uuid.h
+usr/local/lib/pkgconfig/blkid.pc
+usr/local/lib/pkgconfig/uuid.pc

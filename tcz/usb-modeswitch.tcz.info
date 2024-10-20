@@ -1,0 +1,13 @@
+Title:		usb-modeswitch.tcz (TESTING)
+Description:	Activating Switchable USB Devices
+Version:	1.1.7
+Author:		Josua Dietze
+Original-site:	http://www.draisberghof.de/usb-modeswitch/
+Copying-policy:	GPLv2
+Size:		36K
+Extension_by:	jls_legalize <unsenepopiu at tin dot it>
+Comments:	Reboot is needed.
+		This extension is NOT PPI compatible
+Change-log:     2010/06/11 First Version 1.1.2
+		2011/01/21 updated to 1.1.6
+Current:	2011/03/08 updated to 1.1.7

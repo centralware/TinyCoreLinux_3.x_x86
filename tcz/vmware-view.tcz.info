@@ -1,0 +1,16 @@
+Title:          vmware-view.tcz
+Description:    VMware View Open Client
+Version:        4.0.1 (235010)
+Author:         VMware View Open Client project maintainers
+Original-site:  http://code.google.com/p/vmware-view-open-client/
+Copying-policy: LGPL v 2.1
+Size:		1.5M
+Extension_by:   Jason Qualkenbush
+Comments:       VMware View Open Client	lets you connect from a Linux or 
+                Mac OS X desktop to remote Windows desktops managed by VMware 
+                View.
+
+                - This extension was created from the 32bit binary tarball
+
+Change-log:  	2010/05/12 - First Version
+Current:	2010/05/12 - 4.0.1 (235010)

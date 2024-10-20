@@ -1,0 +1,27 @@
+Title:		tracker.tcz
+Description:	a search engine
+Version:	0.10.8
+Author:		various
+Original-site:	http://projects.gnome.org/tracker/
+Copying-policy:	GPL
+Size:		904K
+Extension_by:	jls_legalize <jlselgalize at gmail dot com>
+Comments:	In case u are upgrading delete 
+		~/.X.d//tracker-miner-fs
+		and 
+		~/.X.d//tracker-writeback
+
+		Optional dependencies: 
+		libvorbis, enca, gst-plugins-base, flac.
+
+		This extension is PPI compatible
+Change-log:    	2011/01/27 first version 0.9.35 
+		2011/02/12 updated to 0.9.38
+		2011/03/06 updated to 0.10.1, changed 
+			~/.X.d//tracker-miner-fs to
+			~/.X.d//tracker-writeback
+		2011/03/12 updated to 0.10.3, changed 
+	                ~/.X.d//tracker-writeback to
+	                ~/.X.d//tracker
+	 	2011/03/22 updated to 0.10.4
+Current:	2011/04/13 updated to 0.10.8

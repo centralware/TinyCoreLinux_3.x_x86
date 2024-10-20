@@ -1,0 +1,16 @@
+Title:		tor.tcz
+Description:	Tor - The Onion Router
+Version:	0.2.2.13-alpha
+Author:		The Tor Project
+Original-site:	http://www.torproject.org/
+Copying-policy:	BSD License
+Size:		2.0M
+Extension_by:	batnas
+Comments:	"Tor is a free software descendant of second-generation
+		onion routing enabling internet anonymity by thwarting
+		network traffic analysis"
+		-- Wikipedia
+-
+		You can find Documentation on the Tor projects webpage
+Change-log:	2010/06/11 - Initial Release
+Current:	2010/06/11 - Initial Ralease

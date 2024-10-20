@@ -1,0 +1,6 @@
+usr/local/etc/tinc/hosts/alice.sample
+usr/local/etc/tinc/howto.txt
+usr/local/etc/tinc/tinc-up.sample
+usr/local/etc/tinc/tinc.conf.sample
+usr/local/sbin/tincd
+usr/local/share/doc/License/tinc.txt

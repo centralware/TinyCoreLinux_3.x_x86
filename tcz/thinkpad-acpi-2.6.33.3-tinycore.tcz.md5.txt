@@ -1,0 +1,1 @@
+99c6f09ab73857bb23e7e1a6e1b1f15d  thinkpad-acpi-2.6.33.3-tinycore.tcz

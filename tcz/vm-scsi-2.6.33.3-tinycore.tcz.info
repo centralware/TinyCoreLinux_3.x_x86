@@ -1,0 +1,11 @@
+Title:		vm-scsi-2.6.33.3-tinycore.tcz
+Description:	BusLogic and LSI Logic kernel modules
+Version:	2.6.33.3
+Author:		Linus Torvalds <torvalds@osdl.org>
+Original-site:	http://www.kernel.org/
+Copying-policy:	GPL
+Size:		148K
+Extension_by:	Daniel Barnes
+Comments:	Drivers for VMware SCSI devices
+Change-log:	----
+Current:	2011/04/05 Initial release

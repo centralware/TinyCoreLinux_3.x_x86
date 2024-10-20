@@ -1,0 +1,6 @@
+etc/usb_modeswitch.conf
+lib/udev/usb_modeswitch
+usr/local/share/doc/License/usb-modeswitch.txt
+usr/local/tce.installed/usb-modeswitch
+usr/sbin/usb_modeswitch
+usr/sbin/usb_modeswitch_dispatcher

@@ -1,0 +1,11 @@
+usr/local/lib/libusbip.so
+usr/local/lib/libusbip.so.0
+usr/local/lib/libusbip.so.0.0.1
+usr/local/sbin/usbip
+usr/local/sbin/usbip_bind_driver
+usr/local/sbin/usbipd
+usr/local/share/doc/License/usbip-authors.txt
+usr/local/share/doc/License/usbip-copying.txt
+usr/local/share/doc/License/usbip-readme.txt
+usr/local/share/usbip/usb.ids
+usr/local/tce.installed/usbip

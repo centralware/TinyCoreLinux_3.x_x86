@@ -1,0 +1,13 @@
+Title:		usbip-2.6.33.3-tinycore.tcz
+Description:	usbip-2.6.33.3-tinycore - extension made from usbip
+Version:	svn176
+Author:		Various (see /usr/local/share/doc/License/usbip-2.6.33.3-tinycore-authors.txt)
+Original-site:	http://usbip.sourceforge.net
+Copying-policy:	GPL (see /usr/local/share/doc/License/usbip-2.6.33.3-tinycore-copying.txt)
+Size:		36.0K
+Extension_by:	gutmensch
+Comments:	
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	
+Current:	2011/04/13	Initial version from svn, revision 176

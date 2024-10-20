@@ -1,0 +1,1 @@
+18d68fa2d80f687dadc92478d39a6bd4  tuxmath-locale.tcz

@@ -1,0 +1,1 @@
+0a934f93e728fc9a6c9775325df6cf83  telepathy-farsight-dev.tcz

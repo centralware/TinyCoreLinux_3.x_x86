@@ -1,0 +1,7 @@
+/usr/local/sbin/usbmuxd
+/usr/local/bin/iproxy
+/usr/local/lib/libusbmuxd.so
+/usr/local/lib/libusbmuxd.so.1
+/usr/local/lib/libusbmuxd.so.1.0.7
+/lib/udev/rules.d/85-usbmuxd.rules
+/usr/local/tce.installed/usbmuxd

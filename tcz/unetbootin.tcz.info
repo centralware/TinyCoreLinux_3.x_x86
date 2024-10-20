@@ -1,0 +1,13 @@
+Title:		unetbootin.tcz
+Description:	allows you to create bootable Live USB drives for a variety of Linux distributions
+Version:	429
+Author:		Geza Kovacs (tuxcantfly)
+Original-site:	http://unetbootin.sourceforge.net/
+Copying-policy:	GNU General Public License (GPL) Version 2 
+Size:		300.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	
+		This extension is PPI compatible
+Change-log:	2009/11/08 first version (0.42.1)
+		2010/04/08 updated 2 429
+Current:	2010/04/11 fixed menu entry

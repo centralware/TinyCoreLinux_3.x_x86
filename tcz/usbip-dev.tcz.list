@@ -1,0 +1,9 @@
+usr/local/include/usbip/stub_driver.h
+usr/local/include/usbip/usbip.h
+usr/local/include/usbip/usbip_common.h
+usr/local/include/usbip/vhci_driver.h
+usr/local/lib/libusbip.a
+usr/local/lib/libusbip.la
+usr/local/share/doc/License/usbip-dev-authors.txt
+usr/local/share/doc/License/usbip-dev-copying.txt
+usr/local/share/doc/License/usbip-dev-readme.txt

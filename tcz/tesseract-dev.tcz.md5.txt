@@ -1,0 +1,1 @@
+58d469f9e802f8ec40c4523876ea76bc  tesseract-dev.tcz

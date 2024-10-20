@@ -1,0 +1,16 @@
+Title:          wicd-doc-2.6.tcz
+Description:    Wired and wireless network manager with GUI
+Version:        1.7.0
+Author:         Adam Blackburn, Dan O'Reilly, Andrew Psaltis
+Original-site:  http://wicd.sourceforge.net
+Copying-policy: GPL v2
+Size:           74k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/11/21 First version
+Current:        2010/01/20 Updated to 1.7.0
+

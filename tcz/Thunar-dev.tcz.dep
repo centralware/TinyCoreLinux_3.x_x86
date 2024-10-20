@@ -1,0 +1,12 @@
+Thunar.tcz
+libxfce4ui-dev.tcz
+exo-dev.tcz
+gtk2-dev.tcz
+dbus-glib-dev.tcz
+libexif-dev.tcz
+libstartup-notification-dev.tcz
+xfconf-dev.tcz
+xfce4-panel-dev.tcz
+gudev-dev.tcz
+pcre-dev.tcz
+libnotify-dev.tcz

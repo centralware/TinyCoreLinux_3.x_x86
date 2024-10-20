@@ -1,0 +1,1 @@
+4e2e698b8488fb68b5371aa0788b8958  usb-serial-2.6.33.3-tinycore64.tcz

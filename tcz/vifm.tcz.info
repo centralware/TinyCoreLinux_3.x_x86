@@ -1,0 +1,11 @@
+Title:          vifm.tcz
+Description:    ncurses file manager with vi-type keybindings 
+Version:        0.5
+Author:         Ken Steen
+Original-site:  http://vifm.sourceforge.net/
+Copying-policy: None specified
+Size:           396K
+Extension_by:   aplannan
+Comments:       includes ncursesw shared lib and terminfo
+Change-log:     
+Current:        2010/4/11

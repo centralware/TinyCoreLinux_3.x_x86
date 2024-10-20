@@ -1,0 +1,16 @@
+Title:          weechat.tcz
+Description:    WeeChat is a fast, light and extensible chat client. It runs on many platforms (including Linux, BSD and Mac OS).
+Version:        0.3.2
+Author:         Weechat team
+Original-site:  http://weechat.org/
+Copying-policy: GPL v3
+Size:           2.7M
+Extension_by:   blofsy
+Comments:       Requires: libiconv.tcz
+		
+		Weechat is an IRC chat client with curses frontend.
+		To use the scripting features of weechat install the language extension i.e. python.
+
+		Source and build instructions: http://weechat.org/files/src/weechat-0.3.2.tar.gz
+Current:        Fri Jul 23 19:30:43 CEST 2010, weechat 0.3.2 
+

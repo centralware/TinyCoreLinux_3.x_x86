@@ -1,0 +1,13 @@
+Title:		unixODBC.tcz
+Description:	unixODBC - ODBC driver for unixlike systems
+Version:	2.3.1-pre
+Author:		Various (see /usr/local/share/doc/License/unixODBC-authors.txt)
+Original-site:	http://www.unixodbc.org
+Copying-policy:	LGPL (see /usr/local/share/doc/License/unixODBC-copying.txt)
+Size:		236K
+Extension_by:	gutmensch
+Comments:	
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	
+Current:	2010/12/11	Initial version 2.3.0

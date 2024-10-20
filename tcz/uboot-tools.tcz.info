@@ -1,0 +1,11 @@
+Title:		uboot-tools.tcz
+Description:	Utilities for working with Das U-Boot.
+Version:	2010.12
+Author:		various
+Original-site:	http://www.denx.de/wiki/U-Boot/WebHome
+Copying-policy:	GPL-2
+Size:		56K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	---
+Current:	2011/03/01 First Version

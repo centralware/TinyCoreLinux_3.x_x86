@@ -1,0 +1,41 @@
+Title:          wicd-2.6.tcz
+Description:    Wired and wireless network manager with GUI
+Version:        1.7.0
+Author:         Adam Blackburn, Dan O'Reilly, Andrew Psaltis
+Original-site:  http://wicd.sourceforge.net
+Copying-policy: GPL v2
+Size:           320k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                INSTALLATION
+
+                Add following files to your backup:
+
+                  /usr/local/etc/wicd
+                  /usr/local/var/lib/wicd/configurations
+
+                RUNNING
+
+                Run 'wicd-start' as root to start wicd daemon
+                You can add it to Xfce4/LXDE startup
+
+                This version now packed with 'wicd-cli' and 'wicd-curses' command
+                line tools.
+
+                DESKTOP INTEGRATION
+
+                Add 'wicd-client' to Xfce4/LXDE startup to have wicd panel applet
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/11/21 First version
+                2010/01/20 Updated to 1.7.0
+                2010/01/24 Fixed missing WBAR icon
+                2010/01/24 External icon theme dependency removed
+                2010/01/25 Dropped HAL dependency
+		2010/02/06 Fixed DBUS initialization
+Current:        2010/02/19 Killed bash, forced python2.6 --hiro
+
+

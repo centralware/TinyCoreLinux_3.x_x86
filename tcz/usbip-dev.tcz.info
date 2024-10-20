@@ -1,0 +1,13 @@
+Title:		usbip-dev.tcz
+Description:	USB/IP - Project to share USB devices over IP - dev files
+Version:	svn176
+Author:		Various (see /usr/local/share/doc/License/usbip-dev-authors.txt)
+Original-site:	http://usbip.sourceforge.net
+Copying-policy:	GPL (see /usr/local/share/doc/License/usbip-dev-copying.txt)
+Size:		32.0K
+Extension_by:	gutmensch
+Comments:	
+	   	--- 
+		This extension is PPI compatible.
+Change-log:	
+Current:	2011/04/13	Initial version from svn, revision 176

@@ -1,0 +1,16 @@
+Title:          viewnior-locale.tcz
+Description:    Simple, fast and elegant image viewer
+Version:        1.1
+Author:         Siyan Panayotov
+Original-site:  http://xsisqox.github.com/Viewnior/
+Copying-policy: GPL v3
+Size:		96K
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC 3.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2011/08/24 First version, 1.1
+

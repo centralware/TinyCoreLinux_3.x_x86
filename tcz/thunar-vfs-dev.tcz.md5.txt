@@ -1,0 +1,1 @@
+8b4a05ef8dc845b2abe5503939540953  thunar-vfs-dev.tcz

@@ -1,0 +1,11 @@
+Title:          thinkpad-acpi-2.6.33.3-tinycore.tcz
+Description:    Thinkpad ACPI
+Version:        2.6.33.3-tinycore
+Author:		Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		40k
+Extension_by:   Curaga
+Comments:       
+Change-log:     
+Current:        2011/01/06 Original

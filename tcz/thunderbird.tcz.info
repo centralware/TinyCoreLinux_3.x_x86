@@ -1,0 +1,41 @@
+Title:          thunderbird.tcz
+Description:    Graphical email client
+Version:        6.0.2
+Author:         Various
+Original-site:  http://www.mozillamessaging.com
+Copying-policy: Mozilla
+Size:		19M
+Extension_by:   bmarkus
+Comments:       Packed for TC 3.x/4.x
+                ----
+                This is the official binary build of Thunderbird
+                ----
+                PPI compatible
+Change-log:     2010/06/25 First version, 3.1
+                2010/06/30 Fix freedesktop.org menu icon
+                2010/07/21 Updated to 3.1.1
+                2010/08/06 Updated to 3.1.2
+                2010/10/21 Updated to 3.1.5
+                2010/10/29 Updated to 3.1.6
+                2010/12/11 Updated to 3.1.7
+                2011/03/14 Updated to 3.1.9
+                2011/04/29 Updated to 3.1.10
+                2011/06/23 Updated to 3.1.11
+                2011/06/28 Updated to 5.0
+                2011/08/17 Updated to 6.0
+                2011/08/31 Updated to 6.0.1
+Current:        2011/09/07 Updated to 6.0.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+

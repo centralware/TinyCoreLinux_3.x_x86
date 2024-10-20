@@ -1,0 +1,14 @@
+Title:          tcpdump.tcz
+Description:    a tool for network monitoring and data acquisition
+Version:        3.9.8
+Author:         The Tcpdump Group
+Original-site:  http://www.tcpdump.org
+Copying-policy: GPL
+Size:           304K
+Extension_by:   Joan Batet
+Comments:       A tool for network monitoring and data acquisition.
+
+                This extension is PPI compatible
+
+Change-log:     2009/11/11 First version
+Current:        2009/12/01 Rebuilt against libpcap.tcz

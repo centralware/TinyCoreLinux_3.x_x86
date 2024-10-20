@@ -1,0 +1,3 @@
+usr/local/etc/udev/rules.d/76-vhba.rules
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/extra/vhba.ko.gz
+usr/local/tce.installed/vhba-2.6.33.3-tinycore

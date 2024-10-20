@@ -1,0 +1,1 @@
+bf3007a4f25db1bc7c0c7029c7e8acb9  vlc-locale.tcz

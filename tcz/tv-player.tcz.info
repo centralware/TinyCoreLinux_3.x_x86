@@ -1,0 +1,15 @@
+Title:		tv-player.tcz
+Description:	a tv/radio streaming channel archive
+Version:		1.0.5
+Author:		tv-player team
+Original-site:	https://launchpad.net/tv-player/stable
+Copying-policy:LGPL v3
+Size:		704K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	the internal player doesn't work
+			-----------------------------------------
+			This extension is PPI compatible.
+			-----------------------------------------
+			dep file is recursive
+Change-log:	2010/03/04 First version 
+Current:		2010/04/01 fixed bug in starting script (now works also without bash)

@@ -1,0 +1,1 @@
+c388bf3b8f2a01ec9c38d6502956430d  wget-locale.tcz

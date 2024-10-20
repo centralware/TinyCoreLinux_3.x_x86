@@ -1,0 +1,10 @@
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/message/fusion/mptbase.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/message/fusion/mptfc.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/message/fusion/mptsas.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/message/fusion/mptscsih.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/message/fusion/mptspi.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/scsi/BusLogic.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/scsi/scsi_transport_fc.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/scsi/scsi_transport_sas.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/scsi/scsi_transport_spi.ko.gz
+usr/local/lib/modules/2.6.33.3-tinycore/kernel/drivers/scsi/vmw_pvscsi.ko.gz

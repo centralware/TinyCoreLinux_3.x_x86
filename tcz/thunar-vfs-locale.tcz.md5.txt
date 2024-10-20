@@ -1,0 +1,1 @@
+247650271e3a6d5e3ad926012f46b21f  thunar-vfs-locale.tcz
